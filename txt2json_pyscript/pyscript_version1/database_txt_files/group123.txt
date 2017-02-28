@@ -1,0 +1,23 @@
+
+丱 5025 U4e31 B2 S5 V29 MN77 MP1.0318 P1-2-3 I0a5.4 Q2277.0 Yguan4 Wgwan カン ケン {saguaro-like kanji} {horn-shaped locks of hair} {young} {tender} 
+氷 4939 U6c37 B3 C85 G3 S5 XJ05156 F1450 J2 N131 V3032 H39 DP43 DK24 DL25 L131 DN138 K1222 O140 DO820 MN17087 MP6.0887 E378 IN1206 DA1269 DS498 DF662 DH401 DT259 DJ1095 DG1153 DM133 P1-2-3 I3a1.2 Q3223.0 DR1142 ZPP4-5-3 Ybing1 Wbing ヒョウ こおり ひ こお.る T1 すい {icicle} {ice} {hail} {freeze} {congeal} 
+仛 3046 U4edb B9 S5 MN376 P1-2-3 Ycha4 Wcha Wtag タ タク おとめ よ.る {young girl} {strange} {different} 
+仢 3049 U4ee2 B9 S5 XJ13d23 MN385 P1-2-3 Ydi2 Wjag ハク シャク チャク テキ まるきばし 
+仠 3047 U4ee0 B9 S5 MN381 P1-2-3 Ygan3 カン そこ.なう 
+仨 304A U4ee8 B9 S5 MN397 P1-2-3 Ysa1 サ 
+仡 3048 U4ee1 B9 S5 O131 MN382 P1-2-3 Yyi4 Yge1 Wheul キツ コチ いさ.ましい {strong} {valiant} 
+以 304A U4ee5 B9 G4 S5 F126 J3 N348 V109 H41 DP45 DK25 DL26 L1028 DN1105 K157 O134 DO221 MN388 MP1.0620 E419 IN46 DA46 DS342 DF112 DH443 DT446 DC118 DJ420 DB3.10 DG43 DM1037 P1-2-3 I0a5.1 Q2810.0 DR1262 ZPP1-3-2 Yyi3 Wi イ もっ.て T1 もち {by means of} {because} {in view of} {compared with} 
+仕 3B45 U4ed5 B9 G3 S5 F439 J3 N362 V123 H34 DP37 DK21 DL21 L960 DN1033 K397 O124 DO75 MN368 MP1.0596 E285 IN333 DA333 DS221 DF110 DH301 DT250 DC271 DJ236 DB2.7 DG58 DM969 P1-2-3 I2a3.2 Q2421.0 DR2172 Yshi4 Wsa シ ジ つか.える {attend} {doing} {official} {serve} 
+仔 3B46 U4ed4 B9 G9 S5 N358 V119 H33 DP38 DL22 L2113 DN2249 MN367 MP1.0596 P1-2-3 I2a2.1 Q2724.7 ZSP1-2-2 Yzi3 Yzai3 Wja シ こ た.える {offspring (animal)} {detailed} {fine} 
+仙 4067 U4ed9 B9 G8 S5 F1157 J1 N359 V120 H32 DP36 DK20 DL20 L986 DN1061 K1025 O228 DO1959 MN374 MP1.0601 E1490 IN1891 DA2064 DF1036 DT1038 DJ1880 DG59 DM995 P1-2-3 I2a3.1 Q2227.0 DR2176 Yxian1 Wseon セン セント T1 そま のり {hermit} {wizard} {cent} 
+他 423E U4ed6 B9 G3 S5 F543 J2 N361 V122 H35 DP39 DK22 DL23 L961 DN1034 K355 O129 DO520 MN370 MP1.0597 E334 IN120 DA120 DS459 DF301 DH354 DT255 DC172 DJ415 DG60 DM970 P1-2-3 I2a3.4 Q2421.2 DR2156 Yta1 Wta タ ほか {other} {another} {the others} 
+代 4265 U4ee3 B9 G3 S5 F66 J3 N364 V125 H30 DP34 DK18 DL18 L1005 DN1080 K68 O125 DO85 MN386 MP1.0611 E338 IN256 DA256 DS463 DF111 DH358 DT257 DC87 DJ413 DB2.10 DG61 DM1014 P1-2-3 I2a3.3 Q2324.0 DR2156 Ydai4 Wdae ダイ タイ か.わる かわ.る かわ.り か.わり -がわ.り -が.わり か.える よ しろ T1 す {substitute} {change} {convert} {replace} {period} {age} {counter for decades of ages, eras, etc.} {generation} {charge} {rate} {fee} 
+付 4955 U4ed8 B9 G4 S5 F322 J2 N363 V124 H31 DP35 DK19 DL19 L1000 DN1075 K251 O126 DO259 MN373 MP1.0601 E574 IN192 DA192 DS502 DF302 DH602 DT454 DJ365 DB2.15 DG62 DM1009 P1-2-3 I2a3.6 Q2420.0 DR2148 Yfu4 Wbu フ つ.ける -つ.ける -づ.ける つ.け つ.け- -つ.け -づ.け -づけ つ.く -づ.く つ.き -つ.き -つき -づ.き -づき T1 つけ {adhere} {attach} {refer to} {append} 
+仗 503F U4ed7 B9 S5 N357 V118 O127 MN371 MP1.0600 P1-2-3 I2a3.5 Q2520.0 Yzhang4 Wjang ジョウ チョウ つえ つわもの まわり よる {cane} {stick} 
+仞 5040 U4ede B9 S5 XJ05041 N356 V116 MN379 MP1.0609 P1-2-3 I2a3.8 Q2722.0 Yren4 Win ジン はか.る {fathom} 
+仭 5041 U4eed B9 S5 XJ05040 XN356 V117 O122 P1-2-3 I2a3.8 Q2722.0 Q2725.0 Yren4 Win ジン はか.る {fathom} 
+仟 5042 U4edf B9 S5 XN156 N353 V113 O130 MN380 MP1.0610 P1-2-3 I2a3.7 Q2224.0 Yqian1 Wcheon セン ち かしら {thousand} 
+加 3243 U52a0 B19 G4 S5 F130 J2 N716 V523 H38 DP42 DK23 DL24 L867 DN932 K187 O121 DO787 MN2297 MP2.0369 E431 IN709 DA722 DS356 DF366 DH453 DT447 DC237 DJ295 DG208 DM876 P1-2-3 I2g3.1 Q4600.0 DR1677 Yjia1 Wga カ くわ.える くわ.わる {add} {addition} {increase} {join} {include} {Canada} 
+氺 4655 U6c3a B85 S5 H37 DP41 MN17092 P1-2-3 Yshui3 スイ T2 したみず {water radical variant (no. 85)} 
+疒 4D46 U7592 B104 S5 H3512 DP4326 MN22015 P1-2-3 Ychuang2 ダク ニャク ソウ ジョウ シツ や.む T2 やまいだれ {trailing sickness} {sick radical (no. 104)} 
+癶 6222 U7676 B105 S5 V3858 H40 DP44 MN22657 MP7.1212 P1-2-3 I0a5.3 Q1223.2 Ybo1 Wbal ハツ T2 はつがしら {dotted tent radical (no. 105)} 

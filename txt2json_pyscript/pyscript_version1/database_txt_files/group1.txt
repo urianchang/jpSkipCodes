@@ -1,0 +1,1001 @@
+
+儿 5139 U513f B10 S2 V340 H4 DP3 MN1336 MP1.0969 P1-1-1 I0a2.2 Q2201.0 Yer2 Yren2 Win Wgye ジン ニン がい T2 にんにょう ひとあし {legs radical (no. 10)} 
+八 482C U516b B12 G1 S2 F92 J4 N577 V369 H3 DP3644 DK1859 DL2536 L8 DN8 K41 O19 DO10 MN1450 MP2.0001 E66 IN10 DA10 DS8 DF18 DH8 DT4 DC116 DJ8 DB1.A DG151 DM8 P1-1-1 I2o0.1 Q8000.0 DR2062 Yba1 Yba2 Wpal ハチ や や.つ やっ.つ よう T1 な は はっ はつ やち やつ T2 はちがしら {eight} {eight radical (no. 12)} 
+刂 3331 U5202 B18 S2 H1 DP1 MN1847 P1-1-1 Ydao1 Wdo トウ T2 りっとう {knife} {standing sword radical (no. 18)} 
+劜 3358 U529c B19 S3 MN2289 P1-2-1 Yya4 アツ エチ つよ.い 
+小 3E2E U5c0f B42 G1 S3 F114 J4 N1355 V1389 H7 DP7 DK2 DL2 L105 DN110 K63 O21 DO33 MN7473 MP4.0046 E36 IN27 DA27 DS24 DF46 DH27 DT15 DC126 DJ88 DB2.15 DG511 DM106 P1-1-2 I3n0.1 Q9000.0 DR1141 Yxiao3 Wso ショウ ちい.さい こ- お- さ- T1 いさら こう さざ しゃお ちいさ {little} {small} 
+川 406E U5ddd B47 G1 S3 F181 J4 N1447 V1526 H6 DP6 DK1 DL1 L127 DN134 K111 O20 DO41 MN8673 MP4.0326 E48 IN33 DA33 DS39 DF49 DH59 DT21 DC196 DJ101 DB2.10 DG548 DM129 P1-1-2 I0a3.2 Q2200.0 DR1254 Ychuan1 Wcheon セン かわ T1 か こ さわ T2 さんぼんがわ {stream} {river} {river or three-stroke river radical (no. 47)} 
+巛 565F U5ddb B47 S3 V1527 H9 DP9 MN8669 MP4.0326 P1-1-2 I0a3.2 Q2233.7 Ychuan1 Wcheon セン かわ T2 まがりがわ {curving river radical (no.47)} 
+忄 3D38 U5fc4 B61 S3 XJ03f34 H8 DP8 MN10297 P1-1-2 Yxin1 シン こころ T2 りっしんべん {heart} {standing heart radical variant (no. 61)} 
+仃 3043 U4ec3 B9 S4 MN351 P1-2-2 Yding1 テイ {lonely} {solitary} 
+化 323D U5316 B9 C21 G3 S4 F89 J2 N350 V580 H21 DP22 DK12 DL12 L1008 DN1083 K100 O56 DO76 MN2572X MP2.0436 E238 IN254 DA254 DS163 DF378 DH258 DT242 DC104 DJ414 DB3.19 DG55 DM1017 P1-2-2 I2a2.6 Q2421.0 Q2121.0 DR2156 Yhua4 Whwa カ ケ ば.ける ば.かす ふ.ける け.する {change} {take the form of} {influence} {enchant} {delude} {-ization} 
+仇 3558 U4ec7 B9 S4 F2322 N346 V106 DP23 L2114 DN2250 MN355 MP1.0586 P1-2-2 I2a2.4 Q2421.7 Ychou2 Yqiu2 Wgu キュウ グ あだ あた かたき つれあい {foe} {enemy} {revenge} {grudge} {feud} 
+什 3D3A U4ec0 B9 S4 N345 V105 L2968 DN2973 MN348 MP1.0576 P1-2-2 I2a2.2 Q2420.0 Yshi2 Yshen2 Yshe2 Wsib Wjib ジュウ シュウ {utensil} {thing} {ten} 
+仁 3F4E U4ec1 B9 G6 S4 F1332 J1 N349 V110 H20 DP21 DK11 DL11 L988 DN1063 K1346 O57 DO829 MN349 MP1.0577 E906 IN1619 DA1727 DS820 DF1035 DH917 DT832 DJ1879 DG56 DM997 P1-2-2 I2a2.8 Q2121.0 DR2172 Yren2 Win ジン ニ ニン T1 きみ く さと しのぶ じ と のり ひと ひとし ひろ まさ まさし やす よし {humanity} {virtue} {benevolence} {charity} {man} {kernel} 
+仏 4A29 U4ecf B9 G5 S4 XJ05047 F819 J2 N351 V111 H19 DP20 DK10 DL10 L964 DN1037 K678 O128 DO249 MN364 MP1.0596 E784 IN583 DA592 DS711 DF300 DH805 DT644 DJ416 DG57 DM973 P1-2-2 I2a2.5 Q2223.0 DR2171 Yfo2 Yfu2 Wbul ブツ フツ ほとけ {Buddha} {the dead} {France} 
+从 503A U4ece B9 S4 V102 DP19 MN362 MP1.0596 P1-2-2 I3i7.3 Q8800.0 Ycong2 Wjong ショウ ジュウ ジュ したが.う したが.える より {two people} 
+仍 503B U4ecd B9 S4 N344 V104 O123 MN361 MP1.0595 P1-2-2 I2a2.7 Q2722.7 Yreng2 Wing ジョウ ニョウ よ.って しきりに なお よる {therefore} {consequently} 
+仆 503D U4ec6 B9 S4 N343 V103 MN354 MP1.0585 P1-2-2 I2a2.3 Q2320.0 Ypu1 Ypu2 Wbu フ たお.れる {fall} {lie down} {bend} 
+仂 503E U4ec2 B9 S4 XJ0462F XN532 N342 V101 H22 DP24 O55 MN350 MP1.0584 P1-2-2 I2a11.1 Q2422.7 Yle4 Wreug ドウ リュク リキ ロク リョク はたら.く {surplus or excess} {remainder} 
+刈 3422 U5208 B18 G8 S4 F1738 J1 N666 V452 H28 DP32 DK16 DL17 L1488 DN1600 K1722 O50 DO1540 MN1859 MP2.0211 E1092 IN1282 DA1356 DF1090 DT1023 DJ1612 DG183 DM1500 P1-2-2 I2f2.1 Q4200.0 DR2943 Yyi4 Wye ガイ カイ か.る T1 かっ かり {reap} {cut} {clip} {trim} {prune} 
+切 405A U5207 B18 G2 S4 F324 J3 N667 V453 H27 DP30 DK15 DL15 L85 DN89 K204 O51 DO36 MN1858 MP2.0207 E156 IN39 DA39 DS99 DF126 DH173 DT97 DC208 DJ250 DB3.3 DG179 DM86 P1-2-2 I2f2.2 Q4772.0 DR1445 Yqie1 Yqie4 Wjeol Wche セツ サイ き.る -き.る き.り -き.り -ぎ.り き.れる -き.れる き.れ -き.れ -ぎ.れ T1 きつ きり ぎり {cut} {cutoff} {be sharp} 
+卬 343E U536c B26 S4 MN2841 P1-2-2 I2e2.1 Yang2 Yyang3 Wang キョウ ゴウ のぞ.む な.す たか.ぶる {lofty} {high} {raise} {high-priced} 
+厸 3454 U53b8 B28 S4 XJ04e59 XJ06e43 DP27 MN3064 P1-2-2 Ylin2 Wrin リン とな.る となり 
+双 4150 U53cc B29 G8 S4 XJ05256 F1029 J2 N859 V673 H25 DP28 DK13 DL13 L697 DN753 K1178 O53 DO1541 MN3125 MP2.0687 E1513 IN1594 DA1701 DF390 DT1027 DJ1763 DG266 DM704 P1-2-2 I2h2.1 Q1744.0 Q7744.0 DR3567 Yshuang1 Wssang ソウ ふた たぐい ならぶ ふたつ T1 ふ {pair} {set} {comparison} {counter for pairs} 
+心 3F34 U5fc3 B61 G2 S4 XJ13D38 F157 J3 N1645 V1780 H11 DP11 DK4 DL4 L595 DN639 K139 O49 DO80 MN10295 MP4.0937 E147 IN97 DA97 DS95 DF172 DH164 DT96 DC64 DJ172 DB2.14 DG766 DM602 P1-1-3 I4k0.1 Q3300.0 DR358 ZPP4-4-4 Yxin1 Wsim シン こころ -ごころ T2 りっしんべん {heart} {mind} {spirit} {heart radical (no. 61)} 
+比 4866 U6bd4 B81 G5 S4 XJ13870 F329 J2 N2470 V3010 H26 DP29 DK14 DL14 L447 DN482 K557 O137 DO589 MN16743 MP6.0800 E771 IN798 DA812 DS697 DF660 DH792 DT643 DC450 DJ276 DG1146 DM456 P1-2-2 I2m3.5 Q2171.0 Q2111.0 DR1256 ZSP1-3-2 Ybi3 Ybi4 Wbi ヒ くら.べる T1 い ぴっ {compare} {race} {ratio} {Philippines} 
+水 3F65 U6c34 B85 G1 S4 F223 J4 N2482 V3030 H10 DP10 DK3 DL3 L130 DN137 K144 O54 DO16 MN17083 MP6.0854 E40 IN21 DA21 DS14 DF68 DH16 DT31 DC166 DJ19 DB1.A DG1151 DM132 P1-1-3 I3a0.1 Q1223.0 DR1142 ZPP4-4-3 Yshui3 Wsu スイ みず みず- T1 うず ずみ つ ど み みさ みつ みな みん {water} 
+灬 4944 U706c B86 S4 H13 DP13 MN18851 P1-1-3 Yhuo3 ヒョウ カ T2 れっか {fire} {fire radical (no. 86)} 
+旧 356C U65e7 B2 C72 G5 S5 XJ06751 F549 J2 N94 V2412 H14 DP14 DK5 DL5 L35 DN35 K808 O119 DO760 MN13737 MP5.0743 E648 IN1216 DA1279 DS759 DF595 DH677 DT649 DJ1376 DG964 DM35 P1-1-4 I4c1.1 Q2600.0 DR1278 Yjiu4 Wgu キュウ ふる.い もと {old times} {old things} {old friend} {former} {ex-} 
+丱 5025 U4e31 B2 S5 V29 MN77 MP1.0318 P1-2-3 I0a5.4 Q2277.0 Yguan4 Wgwan カン ケン {saguaro-like kanji} {horn-shaped locks of hair} {young} {tender} 
+必 492C U5fc5 B3 C61 G4 S5 F265 J2 N129 V1781 H15 DP15 DK6 DL6 L635 DN685 K292 O120 DO281 MN10299 MP4.0951 E568 IN520 DA529 DS497 DF526 DH597 DT453 DC188 DJ423 DB3.16 DG767 DM642 P1-1-4 I0a5.16 Q3300.0 DR359 ZPP4-5-4 Ybi4 Wpil ヒツ かなら.ず {invariably} {certain} {inevitable} 
+氷 4939 U6c37 B3 C85 G3 S5 XJ05156 F1450 J2 N131 V3032 H39 DP43 DK24 DL25 L131 DN138 K1222 O140 DO820 MN17087 MP6.0887 E378 IN1206 DA1269 DS498 DF662 DH401 DT259 DJ1095 DG1153 DM133 P1-2-3 I3a1.2 Q3223.0 DR1142 ZPP4-5-3 Ybing1 Wbing ヒョウ こおり ひ こお.る T1 すい {icicle} {ice} {hail} {freeze} {congeal} 
+仛 3046 U4edb B9 S5 MN376 P1-2-3 Ycha4 Wcha Wtag タ タク おとめ よ.る {young girl} {strange} {different} 
+仢 3049 U4ee2 B9 S5 XJ13d23 MN385 P1-2-3 Ydi2 Wjag ハク シャク チャク テキ まるきばし 
+仠 3047 U4ee0 B9 S5 MN381 P1-2-3 Ygan3 カン そこ.なう 
+仨 304A U4ee8 B9 S5 MN397 P1-2-3 Ysa1 サ 
+仡 3048 U4ee1 B9 S5 O131 MN382 P1-2-3 Yyi4 Yge1 Wheul キツ コチ いさ.ましい {strong} {valiant} 
+以 304A U4ee5 B9 G4 S5 F126 J3 N348 V109 H41 DP45 DK25 DL26 L1028 DN1105 K157 O134 DO221 MN388 MP1.0620 E419 IN46 DA46 DS342 DF112 DH443 DT446 DC118 DJ420 DB3.10 DG43 DM1037 P1-2-3 I0a5.1 Q2810.0 DR1262 ZPP1-3-2 Yyi3 Wi イ もっ.て T1 もち {by means of} {because} {in view of} {compared with} 
+仕 3B45 U4ed5 B9 G3 S5 F439 J3 N362 V123 H34 DP37 DK21 DL21 L960 DN1033 K397 O124 DO75 MN368 MP1.0596 E285 IN333 DA333 DS221 DF110 DH301 DT250 DC271 DJ236 DB2.7 DG58 DM969 P1-2-3 I2a3.2 Q2421.0 DR2172 Yshi4 Wsa シ ジ つか.える {attend} {doing} {official} {serve} 
+仔 3B46 U4ed4 B9 G9 S5 N358 V119 H33 DP38 DL22 L2113 DN2249 MN367 MP1.0596 P1-2-3 I2a2.1 Q2724.7 ZSP1-2-2 Yzi3 Yzai3 Wja シ こ た.える {offspring (animal)} {detailed} {fine} 
+仙 4067 U4ed9 B9 G8 S5 F1157 J1 N359 V120 H32 DP36 DK20 DL20 L986 DN1061 K1025 O228 DO1959 MN374 MP1.0601 E1490 IN1891 DA2064 DF1036 DT1038 DJ1880 DG59 DM995 P1-2-3 I2a3.1 Q2227.0 DR2176 Yxian1 Wseon セン セント T1 そま のり {hermit} {wizard} {cent} 
+他 423E U4ed6 B9 G3 S5 F543 J2 N361 V122 H35 DP39 DK22 DL23 L961 DN1034 K355 O129 DO520 MN370 MP1.0597 E334 IN120 DA120 DS459 DF301 DH354 DT255 DC172 DJ415 DG60 DM970 P1-2-3 I2a3.4 Q2421.2 DR2156 Yta1 Wta タ ほか {other} {another} {the others} 
+代 4265 U4ee3 B9 G3 S5 F66 J3 N364 V125 H30 DP34 DK18 DL18 L1005 DN1080 K68 O125 DO85 MN386 MP1.0611 E338 IN256 DA256 DS463 DF111 DH358 DT257 DC87 DJ413 DB2.10 DG61 DM1014 P1-2-3 I2a3.3 Q2324.0 DR2156 Ydai4 Wdae ダイ タイ か.わる かわ.る かわ.り か.わり -がわ.り -が.わり か.える よ しろ T1 す {substitute} {change} {convert} {replace} {period} {age} {counter for decades of ages, eras, etc.} {generation} {charge} {rate} {fee} 
+付 4955 U4ed8 B9 G4 S5 F322 J2 N363 V124 H31 DP35 DK19 DL19 L1000 DN1075 K251 O126 DO259 MN373 MP1.0601 E574 IN192 DA192 DS502 DF302 DH602 DT454 DJ365 DB2.15 DG62 DM1009 P1-2-3 I2a3.6 Q2420.0 DR2148 Yfu4 Wbu フ つ.ける -つ.ける -づ.ける つ.け つ.け- -つ.け -づ.け -づけ つ.く -づ.く つ.き -つ.き -つき -づ.き -づき T1 つけ {adhere} {attach} {refer to} {append} 
+仗 503F U4ed7 B9 S5 N357 V118 O127 MN371 MP1.0600 P1-2-3 I2a3.5 Q2520.0 Yzhang4 Wjang ジョウ チョウ つえ つわもの まわり よる {cane} {stick} 
+仞 5040 U4ede B9 S5 XJ05041 N356 V116 MN379 MP1.0609 P1-2-3 I2a3.8 Q2722.0 Yren4 Win ジン はか.る {fathom} 
+仭 5041 U4eed B9 S5 XJ05040 XN356 V117 O122 P1-2-3 I2a3.8 Q2722.0 Q2725.0 Yren4 Win ジン はか.る {fathom} 
+仟 5042 U4edf B9 S5 XN156 N353 V113 O130 MN380 MP1.0610 P1-2-3 I2a3.7 Q2224.0 Yqian1 Wcheon セン ち かしら {thousand} 
+加 3243 U52a0 B19 G4 S5 F130 J2 N716 V523 H38 DP42 DK23 DL24 L867 DN932 K187 O121 DO787 MN2297 MP2.0369 E431 IN709 DA722 DS356 DF366 DH453 DT447 DC237 DJ295 DG208 DM876 P1-2-3 I2g3.1 Q4600.0 DR1677 Yjia1 Wga カ くわ.える くわ.わる {add} {addition} {increase} {join} {include} {Canada} 
+氺 4655 U6c3a B85 S5 H37 DP41 MN17092 P1-2-3 Yshui3 スイ T2 したみず {water radical variant (no. 85)} 
+疒 4D46 U7592 B104 S5 H3512 DP4326 MN22015 P1-2-3 Ychuang2 ダク ニャク ソウ ジョウ シツ や.む T2 やまいだれ {trailing sickness} {sick radical (no. 104)} 
+癶 6222 U7676 B105 S5 V3858 H40 DP44 MN22657 MP7.1212 P1-2-3 I0a5.3 Q1223.2 Ybo1 Wbal ハツ T2 はつがしら {dotted tent radical (no. 105)} 
+州 3D23 U5dde B2 G3 S6 XDR0354 F386 J2 N99 V1529 H57 DP64 DK39 DL40 L128 DN135 K542 O224 DO445 MN8678 MP4.0331 E304 IN195 DA195 DS424 DF490 DH320 DT271 DJ553 DG549 DM130 P1-2-4 I2f4.1 Q3200.0 DR1254 ZPP1-1-5 Yzhou1 Wju シュウ ス す T1 くに {state} {province} 
+仿 3051 U4eff B9 S6 N365 V127 MN420 P1-2-4 I2a4.3 Yfang3 Wbang ホウ さまよ.う なら.う くら.べる {imitate} {copy} {as if} {stand still} {wander} 
+伌 3057 U4f0c B9 S6 MN434 P1-2-4 Yai4 アイ ア くる.しむ 
+仯 304B U4eef B9 S6 MN399 P1-2-4 Ychao4 ソウ ショウ ビョウ ミョウ ちい.さい 
+仾 3050 U4efe B9 S6 XJ04463 MN419 P1-2-4 Ydi1 テイ ひく.い ひく.める ひく.まる {to hang the head} {to bow the head} {to droop} {to lower} {low} {beneath} 
+份 304F U4efd B9 S6 XJ0494b XJ0494c MN418 P1-2-4 Yfen4 Wbin ヒン フン うるわ.しい あき.らか {portion} {part} {duty} 
+伕 3059 U4f15 B9 S6 MN451 P1-2-4 Yfu1 フ むすめむこ {common laborer} 
+伙 305C U4f19 B9 S6 XJ03250 MN457 P1-2-4 Yhuo3 Whwa カ ひ ほ- {companion} {colleague} {utensils} 
+伋 3056 U4f0b B9 S6 MN433 P1-2-4 Yji2 Wgeub キュウ ロウ きび.しい {deceptive} 
+伒 3058 U4f12 B9 S6 MN444 P1-2-4 Yjin4 キン コン たす.ける 
+伂 3053 U4f02 B9 S6 MN424 P1-2-4 Ypei4 ハイ 
+仳 304D U4ef3 B9 S6 MN404 P1-2-4 Ypi3 Wbi ヒ わか.れる {separate} {part company} 
+仱 304C U4ef1 B9 S6 MN401 P1-2-4 Yqian2 ケン キョウ キン ゴン ほ.こる つつし.む 
+伖 305A U4f16 B9 S6 XJ05666 MN452 P1-2-4 Ytang3 トウ ド かねぐら 
+仵 304E U4ef5 B9 S6 MN409 P1-2-4 Ywu3 Wo コ あ.たる あえて さか.らう おなじ {similar} 
+伈 3055 U4f08 B9 S6 MN430 P1-2-4 Yxin3 Wsim Wchim シン おそ.れる {nervous} {fearful} 
+伃 3054 U4f03 B9 S6 O230 MN425 P1-2-4 Yyu2 Wyeo ヨ うつく.しい T1 よし {handsome} 
+伀 3052 U4f00 B9 S6 MN421 P1-2-4 Yzhong1 Wjong ショウ シュ おおやけ おそ.れる {excited} 
+众 305B U4f17 B9 S6 MN453 P1-2-4 Yzhong4 ギン ゴン おお.い {multitude} {crowd} {masses} {public} 
+伊 304B U4f0a B9 G9 S6 F703 J1 N372 V134 H49 DP52 DK33 DL33 L1161 DN1245 K603 O237 DO1909 MN432 MP1.0645 IN2011 DM1169 P1-2-4 I2a4.6 Q2725.7 DR2160 Yyi1 Wi イ かれ T1 これ ただ よし いと だ {Italy} {that one} 
+仮 323E U4eee B9 G5 S6 XJ05071 F1039 J2 N382 V144 H50 DP53 DK34 DL34 L966 DN1039 K1322 O231 DO696 MN398 MP1.0622 E625 IN1049 DA1092 DS559 DF304 DH656 DT656 DJ1141 DG63 DM975 P1-2-4 I2a4.15 Q2124.7 DR2167 Yjia3 Yjia4 Wga Wban カ ケ かり かり- {sham} {temporary} {interim} {assumed (name)} {informal} 
+伎 346C U4f0e B9 G8 S6 J1 N371 V133 H46 DP55 DK30 DL36 L2122 DN1040 K1654 O232 MN436 MP1.0655 IN2012 DA890 P1-2-4 I2a4.13 Q2424.7 Yji4 Wgi ギ キ わざ わざおぎ {deed} {skill} 
+休 3559 U4f11 B9 G1 S6 F642 J4 N380 V142 H52 DP56 DK36 DL37 L965 DN1038 K583 O233 DO153 MN440 MP1.0663 E13 IN60 DA60 DS61 DF13 DH80 DT56 DJ138 DB2.6 DG64 DM974 P1-2-4 I2a4.2 Q2429.0 DR2164 Yxiu1 Whyu キュウ やす.む やす.まる やす.める {rest} {day off} {retire} {sleep} 
+仰 3644 U4ef0 B9 G8 S6 F1573 J1 N375 V137 H48 DP51 DK32 DL32 L1701 DN1836 K1658 O360 DO1534 MN400 MP1.0622 E1173 IN1056 DA1099 DF1037 DT1057 DJ1134 DG65 DM1718 P1-2-4 I2a4.10 Q2722.0 DR2144 Yyang3 Wang ギョウ コウ あお.ぐ おお.せ お.っしゃる おっしゃ.る {face-up} {look up} {depend} {seek} {respect} {rever} {drink} {take} 
+件 376F U4ef6 B9 G5 S6 F212 J2 N368 V130 H51 DP54 DK35 DL35 L959 DN1032 K290 DO485 MN410 MP1.0635 E660 IN732 DA745 DS598 DF306 DH687 DT657 DC171 DJ482 DB3.9 DG66 DM968 P1-2-4 I2a4.4 Q2520.0 DR2155 Yjian4 Wgeon ケン くだん {affair} {case} {matter} {item} 
+伍 3860 U4f0d B9 G9 S6 F1881 J1 N369 V131 H47 DP50 DK31 DL31 L2967 DN2972 O229 MN435 MP1.0653 IN2013 P1-2-4 I2a4.8 Q2121.7 Ywu3 Wo ゴ いつつ T1 くみ あつむ {five} {five-man squad} {file} {line} 
+仲 4367 U4ef2 B9 G4 S6 F919 J2 N378 V140 H43 DP47 DK27 DL28 L956 DN1029 K892 O227 DO1332 MN403 MP1.0625 E934 IN1347 DA1430 DF305 DH571 DT468 DJ1169 DG67 DM965 P1-2-4 I2a4.7 Q2520.6 DR2155 Yzhong4 Wjung チュウ なか T1 ちゅん つづき なかつ {go-between} {relationship} 
+伝 4541 U4f1d B9 G4 S6 XJ05123 F416 J2 N379 V141 H44 DP48 DK28 DL29 L963 DN1036 K494 O359 DO554 MN462P MP1.0668 E553 IN434 DA440 DS681 DF308 DH580 DT470 DC331 DJ278 DB3.3 DG68 DM972 P1-2-4 I2a4.14 Q2123.1 DR2171 Yyun2 Wjeon デン テン つた.わる つた.える つた.う つだ.う -づた.い つて T1 つたえ {transmit} {go along} {walk along} {follow} {report} {communicate} {legend} {tradition} 
+任 4724 U4efb B9 G5 S6 F217 J2 N374 V136 H53 DP57 DK37 DL38 L1003 DN1078 K310 O235 DO414 MN416 MP1.0635 E764 IN334 DA334 DS688 DF307 DH785 DT662 DC349 DJ639 DG69 DM1012 P1-2-4 I2a4.9 Q2221.4 DR2172 Yren4 Yren2 Wim ニン まか.せる まか.す T1 さ とう ひで {responsibility} {duty} {term} {entrust to} {appoint} 
+伐 4832 U4f10 B9 G8 S6 XJ13229 XJ14A5D F1816 J1 N370 V132 H42 DP46 DK26 DL27 L994 DN1069 K1990 DO1535 MN439 MP1.0661 E1707 IN1509 DA1610 DF1040 DT1058 DJ1422 DG70 DM1003 P1-2-4 I2a4.5 Q2325.0 DR2159 Yfa2 Yfa1 Wbeol バツ ハツ カ ボチ き.る そむ.く う.つ {fell} {strike} {attack} {punish} 
+伏 497A U4f0f B9 G8 S6 F1604 J1 N377 V139 H45 DP49 DK29 DL30 L962 DN1035 K1412 O234 DO1331 MN438 MP1.0655 E1763 IN1356 DA1439 DF1039 DT1059 DJ1421 DG71 DM971 P1-2-4 I2a4.1 Q2323.4 DR2163 Yfu2 Wbog Wbu フク ふ.せる ふ.す T1 ふし ふせ {prostrated} {bend down} {bow} {cover} {lay (pipes)} 
+价 5043 U4ef7 B9 S6 V126 O236 MN412 MP1.0635 P1-2-4 I2a4.11 Q2822.0 Yjia4 Yjie4 Wgae カイ {man with shellfish kanji} 
+伉 5044 U4f09 B9 S6 N367 V129 MN431 MP1.0644 P1-2-4 I2a4.12 Q2021.7 Ykang4 Whang コウ たぐ.い なら.ぶ {same kind} {compare with} 
+伜 5067 U4f1c B9 S6 XJ05066 N366 V128 MN462 MP1.0668 P1-2-4 I2a8.29 Q2424.1 Ycui4 Yzu2 Wswi Wjol サイ ソツ ソチ せがれ {son} {my son} 
+次 3C21 U6b21 B15 C76 G3 S6 F222 J2 N638 V2929 H54 DP58 DK38 DL39 L471 DN510 K235 O226 DO239 MN15992P MP6.0618 E292 IN384 DA385 DS227 DF648 DH308 DT268 DC150 DJ660 DG1120 DM482 P1-2-4 I2b4.1 Q3718.2 DR362 Yci4 Wcha ジ シ つ.ぐ つぎ T1 き すき つぐ よし {next} {order} {sequence} 
+决 5153 U51b3 B15 S6 XJ03768 XN2509 V411 DP63 MN1617 MP2.0144 P1-2-4 I3a4.6 Q3513.0 Yjue2 Wgyeol ケチ ケツ き.める き.まる さ.く {decide} {determine} {judge} 
+冱 5154 U51b1 B15 S6 XJ03A63 XJ05D6C V414 MN1613 MP2.0143 P1-2-4 I2b4.3 Q3111.7 Yhu4 Who ゴ コ さ.える こお.る ひ.える {freeze} {be cold} {be clear} {attain skill} 
+冲 5155 U51b2 B15 S6 XJ0322D XN2505 N636 V413 DP59 O225 MN1616 MP2.0144 P1-2-4 I3a4.5 Q3510.6 Ychong1 Ychong4 Wchung チュウ おき おきつ ちゅう.する わく {offing} {open sea} {rise high into sky} 
+冰 5156 U51b0 B15 S6 XJ04939 XN131 N634 V412 DP61 MN1612 MP2.0138 P1-2-4 I3a1.2 Q3213.0 Ybing1 Wbing ヒョウ こおり ひ こお.る {ice} {hail} 
+攷 5A3F U6537 B66 S6 XN3684 V2328 MN13111 MP5.0470 P1-2-4 I2k4.4 Q1824.0 Ykao3 Wgo コウ かんが.える {examine} {test} {investigate} 
+收 5A40 U6536 B66 G10 S6 XJ03C7D XN860 N2043 V2329 H58 DP65 DL41 MN13110 MP5.0464 P1-2-4 I2h2.2 Q2874.0 Yshou1 Wsu シュウ おさ.める おさ.まる {income} 
+伻 3064 U4f3b B9 S7 O356 MN484 P1-2-5 Ybeng1 Wpaeng ホウ ヒョウ つか.う T1 すき すみ とり {messenger} {emissary} {send emissary} 
+佖 306E U4f56 B9 S7 MN512 P1-2-5 Ybi4 Wpil ヒツ ビチ ただ.しい なら.ぶ 
+佈 3068 U4f48 B9 S7 MN497 P1-2-5 Ybu4 Wpo ホ フ あまね.し {spread} {publicize} {announce} 
+佌 306B U4f4c B9 S7 MN502 P1-2-5 Yci3 シ ちい.さい {small} 
+伮 305D U4f2e B9 S7 XJ04558 MN464 P1-2-5 Ynao2 Ynu3 ド つと.める {to make a great effort} 
+你 305F U4f60 B9 S7 XJ03c24 XJ05575 XJ1305e XJ13258 XJ13d7b MN471 P1-2-5 Yni3 Wni ジ ニ なんじ しかり その のみ {you} {second person pronoun} 
+伱 305E U4f31 B9 S7 XJ03c24 XJ05575 XJ1305f XJ13258 XJ13d7b MN470 P1-2-5 Yni3 ジ ニ なんじ しかり その のみ {thou} {you} 
+伾 3065 U4f3e B9 S7 MN487 P1-2-5 Ypi1 Wbi ヒ ハイ ヘ おお.い {mighty} 
+佉 3069 U4f49 B9 S7 MN499 P1-2-5 Yqu1 Wgu Wgeo キョ コ キャ カ {surname} {name of a divine being} {(transliteration of Sanskrit "kh")} 
+伹 3063 U4f39 B9 S7 MN482 P1-2-5 Yqu1 ショ つたな.い {dull} {slow} {unskillful} 
+佋 306A U4f4b B9 S7 MN501 P1-2-5 Yshao4 Wso ショウ たす.ける {continue} {carry on} {hand down} {to join} 
+佘 306F U4f58 B9 S7 MN514 P1-2-5 Yshe2 Wsa シャ {surname} 
+佀 3066 U4f40 B9 S7 XJ03b77 MN489 P1-2-5 Ysi4 Yshi4 Wsa ジ に.る ひ.る {resemble} 
+佟 3070 U4f5f B9 S7 MN522 P1-2-5 Ytong2 Wtung トウ ズ {name} 
+伳 3060 U4f33 B9 S7 MN474 P1-2-5 Yxie4 セツ セチ おご.る 
+伵 3061 U4f35 B9 S7 XJ13126 MN477 P1-2-5 Yxu4 キョク ケキ キ しず.か さび.しい 
+佒 306C U4f52 B9 S7 MN508 P1-2-5 Yyang1 Wang ヨウ オウ あお.ぐ あおむ.け たの.しむ 
+佣 3071 U4f63 B9 S7 MN539 P1-2-5 Yyong4 Yyong1 ヨウ {commission fee} 
+佔 306D U4f54 B9 S7 MN510 P1-2-5 Yzhan4 Wjeom チン セン テン みる うかが.う し.める {occupy by force} {usurp} {possess} 
+佂 3067 U4f42 B9 S7 XJ13d55 MN491 P1-2-5 Yzheng1 Yzheng4 Wjeong セイ ショウ おそれあわ.てる 
+伷 3062 U4f37 B9 S7 XJ06674 MN479 P1-2-5 Yzhou4 チュウ ちすじ よつぎ {descendent} 
+位 304C U4f4d B9 G4 S7 F276 J2 N401 V162 H61 DP69 DK42 DL45 L955 DN1028 K482 O354 DO122 MN503 MP1.0687 E421 IN122 DA122 DS344 DF312 DH445 DT473 DC319 DJ417 DG72 DM964 P1-2-5 I2a5.1 Q2021.8 DR2173 Ywei4 Wwi イ くらい ぐらい T1 ぞき {rank} {grade} {throne} {crown} {about} {some} 
+何 323F U4f55 B9 G2 S7 F340 J4 N409 V169 H65 DP73 DK45 DL48 L1012 DN1087 K471 O513 DO254 MN511 MP1.0694 E80 IN390 DA392 DS51 DF15 DH86 DT137 DC43 DJ80 DB2.2 DG73 DM1021 P1-2-5 I2a5.21 Q2122.0 DR2149 ZPP3-4-3 Yhe2 Yhe4 Wha カ なに なん なに- なん- T1 あが {what} 
+伽 3240 U4f3d B9 G9 S7 F2323 J1 N398 V159 DP74 DK46 DL49 L2115 DN2251 O357 MN486 MP1.0683 IN2014 P1-2-5 I2a5.12 Q2620.0 Yjia1 Yqie2 Wga カ ガ キャ ギャ とぎ {nursing} {attending} {entertainer} 
+佐 3A34 U4f50 B9 G8 S7 F474 J1 N392 V155 H67 DP76 DK48 DL51 L952 DN1024 K285 O365 DO1322 MN506 MP1.0691 E1283 IN1744 DA1867 DF1043 DT1093 DC381 DJ1002 DG74 DM961 P1-2-5 I2a5.9 Q2421.1 DR2172 Yzuo3 Wjwa サ T1 すけ {assistant} {help} 
+作 3A6E U4f5c B9 G2 S7 F103 J3 N407 V167 H68 DP77 DK49 DL52 L1142 DN1224 K99 O362 DO147 MN518 MP1.0718 E127 IN360 DA361 DS82 DF116 DH141 DT144 DC120 DJ137 DB3.4 DG75 DM1151 P1-2-5 I2a5.10 Q2821.1 DR2154 Yzuo1 Yzuo4 Yzuo2 Wjag Wja Wju サク サ つく.る つく.り -づく.り T1 くり さか さっ づくり とも なお はぎ まさか {make} {production} {prepare} {build} 
+伺 3B47 U4f3a B9 G8 S7 F2209 J2 N395 V156 H69 DP78 DK50 DL53 L1864 DN2008 K1963 DO1315 MN483 MP1.0681 E1313 IN1761 DA1891 DF310 DT1094 DJ1245 DG76 DM1882 P1-2-5 I2a5.23 Q2722.0 DR2149 ZPP3-3-4 Ysi4 Yci4 Wsa シ うかが.う {pay respects} {visit} {ask} {inquire} {question} {implore} 
+似 3B77 U4f3c B9 G5 S7 XJ13066 F923 J2 N376 V138 H63 DP71 DK43 DL46 L1029 DN1106 K1219 O350 DO775 MN485 MP1.0682 E696 IN1486 DA1583 DS625 DF311 DH724 DT669 DJ1172 DG77 DM1038 P1-2-5 I2a5.11 Q2820.0 DR2162 Ysi4 Yshi4 Wsa ジ に.る ひ.る T1 にた {becoming} {resemble} {counterfeit} {imitate} {suitable} 
+住 3D3B U4f4f B9 G3 S7 F270 J3 N404 V164 H64 DP72 DK44 DL47 L954 DN1027 K248 O355 DO209 MN505 MP1.0690 E310 IN156 DA156 DS244 DF114 DH325 DT283 DC377 DJ141 DB2.3 DG78 DM963 P1-2-5 I2a5.19 Q2021.4 DR2172 Yzhu4 Wju ジュウ ヂュウ チュウ す.む す.まう -ず.まい T1 し じゅ すみ {dwell} {reside} {live} {inhabit} 
+伸 3F2D U4f38 B9 G8 S7 F730 J2 N403 V163 H70 DP79 DK51 DL54 L1118 DN1199 K741 O353 DO1528 MN481 MP1.0680 E1431 IN1108 DA1160 DF309 DT1095 DJ1246 DG79 DM1127 P1-2-5 I2a5.3 Q2520.6 DR2155 Yshen1 Wsin シン の.びる の.ばす の.べる の.す T1 のぶ よぼる {expand} {stretch} {extend} {lengthen} {increase} 
+体 424E U4f53 B9 G2 S7 XJ06D3C XJ06D3D XJ07173 XJ1695C F88 J3 N405 V165 H71 DP80 DK52 DL55 L957 DN1030 K110 O358 DO176 MN509 MP1.0693 E165 IN61 DA61 DS270 DF115 DH182 DT149 DC96 DJ165 DB2.11 DG80 DM966 P1-2-5 I2a5.6 Q2523.0 DR2155 Yti3 Yben4 Wche タイ テイ からだ かたち T1 なり {body} {substance} {object} {reality} {counter for images} 
+但 4322 U4f46 B9 G8 S7 F2404 J1 N394 V154 H72 DP81 DK53 DL56 L953 DN1026 K1877 O351 DO1853 MN495 MP1.0685 E1559 IN1927 DT1096 DA2112 DJ1923 DG81 DM962 P1-2-5 I2a5.14 Q2621.0 DR2172 Ydan4 Wdan タン ただ.し T1 たじ {however} {but} 
+佃 4451 U4f43 B9 G9 S7 F2193 N390 V151 DP66 DL42 L2111 DN2248 O352 MN492 MP1.0684 P1-2-5 I2a5.2 Q2620.0 Ydian4 Ytian2 Wjeon テン デン つくだ {cultivated rice field} 
+低 4463 U4f4e B9 G4 S7 XJ13050 F435 J3 N406 V166 H73 DP82 DK54 DL57 L1831 DN1973 K518 DO690 MN504 MP1.0688 E548 IN561 DA570 DS677 DF113 DH575 DT487 DJ108 DG82 DM1848 P1-2-5 I2a5.15 Q2224.0 DR2156 Ydi1 Wjeo テイ ひく.い ひく.める ひく.まる {lower} {short} {humble} 
+伯 476C U4f2f B9 G8 S7 F1741 J1 N397 V158 H59 DP67 DK40 DL43 L967 DN1041 K1671 O363 DO1679 MN466 MP1.0668 E1694 IN1176 DA1234 DF1041 DT1097 DJ1877 DG83 DM976 P1-2-5 I2a5.7 Q2620.0 DR2178 Ybo2 Ybai3 Yba4 Wbaeg Wpae ハク T1 いき えき か き は ひろ {chief} {count} {earl} {uncle} {Brazil} 
+伴 483C U4f34 B9 G8 S7 F886 J1 N396 V157 H60 DP68 DK41 DL44 L1203 DN1287 K1115 O361 DO1433 MN475X MP1.0679 E1712 IN1027 DA1066 DF1042 DT1098 DJ1423 DG84 DM1211 P1-2-5 I2a5.4 Q2925.0 DR2155 Yban4 Wban ハン バン ともな.う T1 とも {consort} {accompany} {bring with} {companion} 
+佑 4D24 U4f51 B9 G9 S7 F2250 J1 N389 V150 H74 DP83 DK55 DL58 L2126 O364 MN507 MP1.0693 IN2015 P1-2-5 I2a5.8 Q2426.0 Yyou4 Wu ユウ ウ たす.ける T1 すけ たすく ゆ {help} {assist} 
+伶 4E62 U4f36 B9 G9 S7 J1 N388 V149 H66 DP75 DK47 DL50 L2112 MN478 MP1.0680 IN2016 P1-2-5 I2a5.17 Q2823.7 Yling2 Wryeong レイ リョウ わざおぎ T1 れ {actor} 
+佚 5045 U4f5a B9 S7 N393 V153 H62 DP70 MN516 MP1.0709 P1-2-5 I2a5.5 Q2523.0 Yyi4 Ydie2 Wil Wjil イツ テツ たのし.む のが.れる {lost} {hide} {peace} {mistake} {beautiful} {in turn} 
+估 5046 U4f30 B9 S7 N387 V148 MN467 MP1.0678 P1-2-5 I2a5.18 Q2426.0 Ygu1 Ygu4 Wgo コ あきな.う あた.い {price} {business} {selling} 
+佛 5047 U4f5b B9 G10 S7 XJ04A29 XN351 N385 V146 H75 DP84 DL59 O550 MN517 MP1.0710 P1-2-5 I2a2.5 Q2522.7 Yfo2 Yfu2 Wbul Wpil ブツ フツ ほとけ T1 さらぎ {France} 
+佝 5048 U4f5d B9 S7 V147 MN520 MP4.0811 P1-2-5 I2a5.22 Q2722.0 Ykou4 Wgu コウ ク せむし {foolish} {stopped over} 
+佗 5049 U4f57 B9 S7 XN415 N386 V160 MN513 MP1.0705 P1-2-5 I2a6.14 Q2321.1 Ytuo2 Wta タ イ わび.しい わび ほか わ.びる {proud} {lonely} 
+佇 504A U4f47 B9 S7 N391 V152 MN496 MP1.0686 P1-2-5 I2a5.16 Q2322.1 Yzhu4 Wjeo チョ たたず.む {stop} {linger} {appearance} {figure} {bearing} 
+佞 5524 U4f5e B9 C38 S7 XJ05525 N400 V161 MN521 MP1.0725 P1-2-5 I2a5.20 Q2124.4 Yning4 Wnyeong ネイ おもね.る よこしま {flattery} {insincerity} 
+冺 327A U51ba B15 S7 XJ05e23 MN1629 P1-2-5 Ymin3 ビン ベン ミン メン ほろ.びる 
+冸 3279 U51b8 B15 S7 MN1623 P1-2-5 Ypan4 Wban ハン と.ける 
+冴 3A63 U51b4 B15 G9 S7 XJ05154 XJ05D6C F2341 J1 N635 V417 H79 DP87 DK56 DL60 L2134 DN2261 O348 MN1615 MP2.0144 IN2023 P1-2-5 I2b5.2 Q3114.0 Yhu4 Who ゴ コ さ.える こお.る ひ.える T1 さえ さえる {be clear} {serene} {cold} {skilful} 
+冶 4C6A U51b6 B15 G8 S7 J1 N640 V418 DP89 DK58 DL62 L2137 DN808 MN1621 MP2.0144 IN2024 DA1962 P1-2-5 I2b5.4 Q3316.0 Yye3 Wya ヤ い.る T1 じ {melting} {smelting} 
+冷 4E64 U51b7 B15 G4 S7 F667 J2 N642 V419 H80 DP88 DK57 DL61 L1404 DN1506 K607 O349 DO792 MN1622 MP6.0952 E604 IN832 DA851 DS535 DF348 DH634 DT493 DJ662 DG166 DM1416 P1-2-5 I2b5.3 Q3812.7 DR344 Yleng3 Wraeng レイ つめ.たい ひ.える ひ.や ひ.ややか ひ.やす ひ.やかす さ.める さ.ます {cool} {cold (beer, person)} {chill} 
+况 5157 U51b5 B15 S7 XJ03637 XN2516 N639 V416 DP90 MN1620 MP2.0144 P1-2-5 I3a5.21 Q3611.0 Ykuang4 Whwang キョウ まし.て いわ.んや おもむき {still more} {still less} 
+攸 5A41 U6538 B66 S7 V2330 MN13113 MP5.0470 P1-2-5 I2a5.13 Q2824.0 Yyou1 Wyu ユウ ところ {relaxed} {at ease} {place} 
+承 3E35 U627f B4 C64 G5 S8 XN2826 XDR3565 F775 J2 N197 V2088 H16 DP16 DK7 DL7 L1901 DN2050 K861 O760 DO854 MN11852 MP5.0118 E713 IN942 DA972 DS639 DF557 DH736 DT688 DJ819 DG848 DM1919 P1-1-7 I0a7.7 Q1723.2 DR3547 ZPP4-8-1 ZSP1-1-6 ZBP4-7-1 Ycheng2 Wseung ショウ ジョウ うけたまわ.る う.ける ささ.げる とど.める こ.らす つい.で すく.う T1 つぐ こと すけ つぎ よし {acquiesce} {hear} {listen to} {be informed} {receive} 
+依 304D U4f9d B9 G8 S8 F906 J2 N426 V191 H84 DP93 DK61 DL65 L971 DN1045 K1177 O780 DO1135 MN607 MP1.0758 E1001 IN678 DA691 DF316 DT1148 DJ890 DG85 DM980 P1-2-6 I2a6.1 Q2023.2 DR2165 Yyi1 Weui イ エ よ.る T1 よ より {reliant} {depend on} {consequently} {therefore} {due to} 
+佳 3242 U4f73 B9 G8 S8 XN3885 F1643 J1 N429 V194 H86 DP96 DK63 DL68 L970 DN1044 K1606 O560 DO1450 MN557 MP1.0731 E1044 IN1462 DA1557 DF1044 DT1149 DJ1931 DG87 DM979 P1-2-6 I2a6.10 Q2421.4 DR2172 Yjia1 Wga Wgae カ T1 けい よし {excellent} {beautiful} {good} {pleasing} {skilled} 
+侃 3426 U4f83 B9 G9 S8 J1 N416 V182 DP97 DK65 DL69 L2123 DN2255 O551 MN577 MP1.0739 IN2017 P1-2-6 I2a6.12 Q2621.0 Ykan3 Wgan カン つよ.い T1 あきら ただし {strong} {just} {righteous} {peace-loving} 
+供 3621 U4f9b B9 G6 S8 F313 J2 N431 V195 H88 DP98 DK66 DL70 L1796 DN1935 K456 O555 DO694 MN605 MP1.0756 E839 IN197 DA197 DS760 DF315 DH850 DT861 DC340 DJ418 DG88 DM1813 P1-2-6 I2a6.13 Q2428.1 DR2161 Ygong1 Ygong4 Wgong キョウ ク クウ グ そな.える とも -ども {submit} {offer} {present} {serve (meal)} {accompany} 
+佼 3873 U4f7c B9 S8 XN2260 V175 L2109 O552 MN570 MP1.0735 P1-2-6 I2a6.16 Q2024.8 Yjiao3 Yjia3 Wgyo キョウ コウ こう.す うつく.しい {beautiful} {clever} {deceive} {sly} 
+侍 3B78 U4f8d B9 G8 S8 F1939 J1 N427 V192 H85 DP94 DK62 DL66 L976 DN1050 K1823 O559 DO1446 MN589 MP1.0750 E1326 IN571 DA580 DF1046 DT1150 DJ1878 DG90 DM985 P1-2-6 I2a6.11 Q2424.1 DR2148 Yshi4 Wsi ジ シ さむらい はべ.る T1 かみ {waiter} {samurai} {wait upon} {serve} 
+侭 4B79 U4fad B9 S8 XJ05056 XN558 V170 L2125 DN2257 MN0 P1-2-6 I2a14.2 Q2521.7 Yjin3 Yjin4 Wjin ジン まま ことごとく {as it is} {because} 
+佶 504B U4f76 B9 S8 N418 V184 O558 MN562 MP1.0734 P1-2-6 I2a6.15 Q2426.1 Yji2 Wgil キツ キチ {healthy} {correct} 
+侘 504E U4f98 B9 S8 N415 V181 MN602 MP1.0755 P1-2-6 I2a6.14 Q2321.4 Ycha4 Wcha タ わび.しい ほこ.る わ.びる {proud} {lonely} 
+侫 5525 U4fab B9 C38 S8 XJ05524 XN400 V172 P1-2-6 I2a5.20 Q2024.4 Yning4 Wnyeong ネイ おもね.る よこしま {flattery} {insincerity} 
+胤 307D U80e4 B4 C130 G9 S9 J1 N217 V4786 H17 DP17 DK8 DL8 L2921 DN2929 O1269 DO1912 MN29405 MP9.0300 IN2205 P1-1-8 I4b5.16 Q2201.0 Yyin4 Wyun イン たね T1 つぎ つぐ かず {descendent} {issue} {offspring} 
+乿 303C U4e7f B5 S11 MN205 P1-10-1 Yzhi4 チ ジ おさ.める {to cure} {to heal} 
+傎 317C U508e B9 S12 MN951 P1-2-10 Ydian1 Wjeon テン さかさま くる.う {topple} 
+傐 317E U5090 B9 S12 MN954 P1-2-10 Yhao1 コウ 
+傁 3177 U5081 B9 S12 MN929 P1-2-10 Ysou3 ソウ ス おきな {old man} 
+傃 3178 U5083 B9 S12 MN933 P1-2-10 Ysu4 Wso ソ む.かう まも.る 
+傏 317D U508f B9 S12 MN953 P1-2-10 Ytang2 トウ おご.る {to ward off} {to parry} {to keep out (e.g. wind, rain or cold)} 
+傄 3179 U5084 B9 S12 MN934 P1-2-10 Yxia1 カツ ケチ すこ.やか 
+傆 317A U5086 B9 S12 MN940 P1-2-10 Yyuan4 ゲン カン こざか.しい 
+傊 317B U508a B9 S12 MN944 P1-2-10 Yyun3 イン まさ.る ゆたか 
+傡 322A U50a1 B9 S12 XJ04a42 XJ0636d MN983 P1-2-10 Ybing4 Ybing1 ヘイ ホウ な.み なら.べる なら.ぶ なら.びに 
+傖 3224 U5096 B9 S12 MN964 P1-2-10 Ycang1 Ychen5 Wchang ショウ ソウ いや.しい いやしいもの いなかもの {vulgar person} {country man} 
+傠 3229 U50a0 B9 S12 XJ04832 XJ14a5d MN976 P1-2-10 Yfa2 ハツ カ ボチ き.る そむ.く う.つ 
+傢 322B U50a2 B9 S12 MN992 P1-2-10 Yjia1 Wga カ かぐ {stubborn} {obstinate} {intransigent} 
+傔 3223 U5094 B9 S12 MN962 P1-2-10 Yqian4 Wgyeom ケン したが.う はべ.る つか.える {servant} 
+傓 3222 U5093 B9 S12 MN961 P1-2-10 Yshan1 Wseon セン さかん 
+傞 3227 U509e B9 S12 MN973 P1-2-10 Ysuo1 Wsa サ {unsteady} 
+傟 3228 U509f B9 S12 MN974 P1-2-10 Ywang1 オウ もと.る 
+傒 3221 U5092 B9 S12 MN959 P1-2-10 Yxi1 Whye ケイ あやう.い つな.ぐ {personal name} {servant} 
+傜 3226 U509c B9 S12 XJ05754 MN971 P1-2-10 Yyao2 Wyo ヨウ えだち ふぞろ.い つか.い {minority tribe} 
+傛 3225 U509b B9 S12 MN970 P1-2-10 Yyong2 Wyong ヨウ ユ かが.む 
+偉 304E U5049 B9 G8 S12 F1639 J2 N506 V285 H148 DP167 DK111 DL128 L1643 DN1772 K1532 O1535 DO1098 MN837 MP1.0858 E1005 IN1053 DA1096 DF327 DT1504 DJ1242 DG123 DM1658 P1-2-10 I2a10.5 Q2425.6 DR2155 Ywei3 Wwi イ えら.い T1 ひで {admirable} {greatness} {remarkable} {conceited} {famous} {excellent} 
+僅 364F U50c5 B9 G8 S12 S13 N527 V279 DP176 DL134 L2116 DN1699 MN1048X MP1.0917 DA1315 P1-2-10 I2a11.13 Q2421.4 Yjin3 Yjin4 Wgeun キン ゴン わず.か {a wee bit} 
+備 4877 U5099 B9 G5 S12 XJ13233 F356 J2 N519 V284 H146 DP165 DK109 DL126 L1183 DN1267 K321 O1539 DO750 MN967 MP1.0892 E774 IN768 DA782 DS700 DF332 DH795 DT763 DC201 DJ613 DG124 DM1191 P1-2-10 I2a10.4 Q2422.7 DR2153 Ybei4 Wbi ビ そな.える そな.わる つぶさ.に T1 びっ びん {equip} {provision} {preparation} 
+傍 4B35 U508d B9 G8 S12 F1660 J1 N520 V286 H147 DP166 DK110 DL127 L1015 DN1090 K1689 O1538 DO1406 MN948 MP1.0888 E1815 IN1183 DA1242 DF1062 DT1506 DJ1429 DG125 DM1024 P1-2-10 I2a10.6 Q2022.7 DR2145 Ybang4 Ybang1 Wbang Wpaeng ボウ かたわ.ら わき おか- はた そば T1 び {bystander} {side} {besides} {while} {nearby} {third person} 
+傀 507A U5080 B9 S12 N516 V282 O1828 MN928 MP1.0881 P1-2-10 I2a10.3 Q2621.3 Ygui1 Ykui3 Wgoe カイ おおき.い {large} 
+傚 507B U509a B9 S12 XJ13145 N513 V280 MN969 MP1.0895 P1-2-10 I2a10.1 Q2824.0 Yxiao4 Whyo コウ なら.う {imitate} {follow} {emulate} 
+傅 507C U5085 B9 S12 N515 V281 O1536 MN939 MP1.0881 P1-2-10 I2a10.2 Q2324.2 Yfu4 Wbu フ かしず.く つく もり T1 でん {tutor} 
+凒 3324 U51d2 B15 S12 XJ0622d MN1684 P1-2-10 Yai2 Weui ギ ゲ カイ しろ.い さむ.い 
+凓 3325 U51d3 B15 S12 MN1687 P1-2-10 Yli4 Wyul リツ リチ さむ.い {shiver} {severe cold} 
+凕 3326 U51d5 B15 S12 MN1692 P1-2-10 Yming3 ベイ ミョウ こお.る 
+凱 332E U51f1 B16 G9 S12 F2293 J1 N661 V440 DP2286 DK1181 DL1612 L2077 DN2224 O1967 MN1790 MP2.0169 IN2028 P1-10-2 I2s10.1 Q2711.0 Ykai3 Wgae ガイ カイ かちどき やわらぐ {victory song} 
+割 3364 U5272 B18 G6 S12 F318 J2 N703 V507 H1816 DP2284 DK1180 DL1611 L1553 DN1673 K357 O1696A DO1274 MN2112P MP2.0302 E823 IN519 DA528 DF364 DH838 DT938 DC414 DJ786 DG204 DM1567 P1-10-2 I2f10.1 Q3260.0 DR743 Yge1 Whal カツ わ.る わり わ.り わ.れる さ.く {proportion} {comparatively} {divide} {cut} {separate} {split} 
+創 414F U5275 B18 G6 S12 XJ13332 XJ13F2E F741 J1 N702 V506 H1815 DP2283 DK1179 DL1610 L1631 DN1759 K900 O1696 DO789 MN2127 MP2.0303 E920 IN1308 DA1387 DS832 DF1098 DH932 DT950 DJ1113 DG205 DM1646 P1-10-2 I2f10.3 Q8260.0 DR2843 Ychuang4 Ychuang1 Wchang ソウ ショウ つく.る はじ.める きず けず.しける T1 はじめ {genesis} {wound} {injury} {hurt} {start} {originate} 
+剴 5173 U5274 B18 S12 XN661 N701 V505 MN2122 MP2.0303 P1-10-2 I2f10.2 Q2210.0 Ykai3 Wgae ガイ カイ {scythe} {suitability} 
+剩 5174 U5269 B18 G10 S12 XJ03E6A XN698 N700 V504 H1819 DP2288 DL1614 O1695 MN2109 MP2.0299 P1-10-2 I2f9.1 Q2290.0 Ysheng4 Wing ジョウ あまつさえ あま.り あま.る {leftovers} {residue} {remains} 
+勜 336F U52dc B19 S12 MN2408 P1-10-2 Yweng3 オ ヨウ つよ.い 
+勛 336E U52db B19 S12 XJ0372e XJ0522e MN2402 P1-10-2 Yxun1 Whun クン いさお {meritorious deed} {merits} {rank} 
+勤 3650 U52e4 B19 G6 S12 XO1968 F830 J2 N732 V552 H1818 DP2287 DK1182 DL1613 L1577 DN1700 K750 O1698 DO726 MN2415P MP2.0411 E842 IN559 DA568 DS762 DF376 DH853 DT941 DJ525 DB3.10 DG223 DM1591 P1-10-2 I2g10.1 Q4412.7 DR1945 Yqin2 Wgeun キン ゴン つと.める -づと.め つと.まる いそ.しむ {diligence} {become employed} {serve} 
+博 476E U535a B24 G4 S12 F794 J1 N787 V621 H151 DP170 DK112 DL129 L47 DN48 K802 O1534 DO525 MN2761P MP2.0599 E564 IN601 DA611 DS695 DF1112 DH593 DT596 DJ798 DG249 DM47 P1-2-10 I2k10.1 Q4304.6 DR1448 Ybo2 Wbag ハク バク T1 ぐれ と はか ひろ {Dr.} {command} {esteem} {win acclaim} {Ph.D.} {exposition} {fair} 
+順 3D67 U9806 B47 G4 S12 F779 J2 N1450 V6619 H18 DP18 DK9 DL9 L129 DN136 K813 O1532 DO506 MN43349 MP12.0236 E506 IN769 DA783 DS427 DF1006 DH534 DT589 DJ952 DG1884 DM131 P1-1-11 I9a3.2 Q2108.6 DR1261 ZPP1-3-9 Yshun4 Wsun ジュン T1 あや あり おき おさむ しげ したがう とし なお のぶ のり まさ むね もと ゆき よし より {obey} {order} {turn} {right} {docility} {occasion} 
+馭 7147 U99ad B187 S12 N5192 V6727 H1814 DP2282 O1697 MN44576 MP12.0488 P1-10-2 I10a2.1 Q7734.0 Yyu4 Weo ギョ {driving (horse)} 
+馮 7148 U99ae B187 S12 V6726 O1533 MN44579 MP12.0489 P1-2-10 I2b10.1 Q3112.7 Yfeng2 Yping2 Wbing Wpung ヒョウ フ フウ たの.む よ.る {displeasure} {proper name} 
+鳦 6B59 U9ce6 B196 S12 MN46635 P1-11-1 Yyi3 Weul イツ イチ アツ エチ つばめ {swallow} 
+亂 502C U4e82 B5 S13 XJ04D70 XN3856 N267 V64 H1886 DP2377 O2175 MN214 MP1.0403 P1-12-1 I3d4.21 Q2221.0 Yluan4 Wran ラン ロン みだ.れる みだ.る みだ.す みだ.れ おさ.める わた.る {war} {disorder} {riot} {disturb} 
+僃 3233 U50c3 B9 S13 XJ04877 MN1046 P1-2-11 Ybei4 ビ そな.える そな.わる {prepared} 
+傺 3230 U50ba B9 S13 MN1033 P1-2-11 Ychi4 Wje テイ タイ と.まる とど.まる {to hinder} {to detain} 
+僀 3232 U50c0 B9 S13 XJ1316b MN1042 P1-2-11 Ydi4 テイ タイ すぐ.れる くる.しむ 
+僇 3235 U50c7 B9 S13 MN1051 P1-2-11 Ylu4 Wryug リク ロク ル はじ はずかし.める {humiliate} {treat with contempt} 
+傰 322E U50b0 B9 S13 MN1012 P1-2-11 Ypeng2 Wbung ホウ とも ともがら おもねりくみ.する 
+僄 3234 U50c4 B9 S13 XJ13d36 MN1047 P1-2-11 Ypiao1 Wpyo ヒョウ かる.い かろ.んずる すばや.い {light} {airy} 
+傹 322F U50b9 B9 S13 XJ13157 MN1032 P1-2-11 Yqiang1 ケイ キョウ リョウ オウ ゴウ コウ つよ.い あき.らか とお.い もと.める きそ.う 
+僌 3236 U50cc B9 S13 MN1060 P1-2-11 Yying2 ヨウ おさ.める 
+傪 322C U50aa B9 S13 MN1002 P1-2-11 Yzan1 サン よい 
+傽 3231 U50bd B9 S13 MN1037 P1-2-11 Yzhang1 Wjang ショウ おどろ.く {terror-stricken} 
+傯 322D U50af B9 S13 XJ05078 MN1011 P1-2-11 Yzong3 Wchong ソウ くる.しむ {urgent} 
+傾 3739 U50be B9 G8 S13 F938 J2 N534 V299 H154 DP174 DK114 DL132 L1011 DN1086 K913 O1830 DO938 MN1038 MP1.0913 E1201 IN1441 DA1533 DF333 DT1605 DJ1173 DG126 DM1020 P1-2-11 I2a11.3 Q2128.6 DR2161 Yqing1 Yqing2 Wgyeong ケイ かたむ.く かたむ.ける かたぶ.く かた.げる かし.げる {lean} {incline} {tilt} {trend} {wane} {sink} {ruin} {bias} 
+傑 3766 U5091 B9 G8 S13 F1926 J1 N517 V293 H155 DP175 DK115 DL133 L999 DN1074 K1601 O1827 DO1208 MN955 MP1.0890 E1211 IN1731 DA1849 DF1063 DT1606 DJ1431 DG127 DM1008 P1-2-11 I2a11.6 Q2529.4 DR2164 Yjie2 Wgeol ケツ すぐ.れる T1 すぐ たけ まさ {greatness} {excellence} 
+債 3A44 U50b5 B9 G8 S13 F728 J1 N531 V296 H156 DP177 DK116 DL135 L1544 DN1664 K785 DO1515 MN1022 MP1.0909 E1292 IN1118 DA1170 DF1066 DT1608 DJ1249 DG129 DM1558 P1-2-11 I2a11.11 Q2528.6 DR2161 Yzhai4 Wchae サイ {bond} {loan} {debt} 
+催 3A45 U50ac B9 G8 S13 XN1983 F536 J1 N533 V298 H157 DP178 DK117 DL136 L987 DN1062 K693 O2060 DO1529 MN1005 MP1.0897 E1293 IN1317 DA1399 DF1065 DT1607 DJ1248 DG128 DM996 P1-2-11 I2a11.12 Q2221.4 DR2175 Ycui1 Wchoe サイ もよう.す もよお.す {sponsor} {hold (a meeting)} {give (a dinner)} 
+傷 3D7D U50b7 B9 G6 S13 F845 J1 N535 V301 H158 DP179 DK118 DL137 L996 DN1071 K723 DO1008 MN1029 MP1.0909 E901 IN633 DA643 DF1067 DH912 DT960 DJ835 DG130 DM1005 P1-2-11 I2a11.10 Q2822.7 DR2151 Yshang1 Wsang ショウ きず いた.む いた.める {wound} {hurt} {injure} {impair} {pain} {injury} {cut} {gash} {scar} {weak point} 
+僧 414E U50e7 B9 G8 S13 F1724 J1 N536 V300 H159 DP180 DK119 DL138 L982 DN1057 K1423 O1829 DO1007 MN1076X MP1.0920 E1525 IN1366 DA1453 DF1070 DT1609 DJ1430 DG131 DM991 P1-2-11 I2a11.7 Q2826.6 DR2178 Yseng1 Wseung ソウ {Buddhist priest} {monk} 
+働 462F U50cd B9 G4 S13 XJ0503E F417 J3 N532 V297 H153 DP172 DK113 DL130 L1678 DN1809 K444 DO170 MN1079 MP1.0920 E558 IN232 DA232 DS488 DF120 DH585 DT612 DC137 DJ192 DB3.15 DG132 DM1694 P1-2-11 I2a11.1 Q2422.7 DR2145 Ydong4 Wdong ドウ はたら.く {work} {(kokuji)} 
+傭 4D43 U50ad B9 G9 S13 N530 V295 H160 DP181 DL139 L2128 MN1007 MP1.0898 P1-2-11 I2a11.14 Q2022.7 Yyong1 Yyong4 Yyong2 Wyong Wchung ヨウ チョウ やと.う あた.い ひと.しい {employ} {hire} 
+傴 507D U50b4 B9 S13 N525 V290 MN1020 MP1.0908 P1-2-11 I2a11.15 Q2121.6 Yyu3 Wgu ク ウ かが.む せむし {bend over} {stoop} {bow} 
+傲 507E U50b2 B9 G8 S13 N529 V294 DP173 DL131 DN1054 MN1015 MP1.0900 DA2066 P1-2-11 I2a11.2 Q2824.0 Yao4 Wo ゴウ おご.る あなど.る {be proud} 
+僊 5122 U50ca B9 S13 N524 V302 MN1055 MP1.0919 P1-2-11 I2a11.9 Q2121.2 Yxian1 Wseon セン {hermit} 
+傳 5123 U50b3 B9 G10 S13 XJ04541 XN379 N521 V287 H161 DP182 DL140 O1826 MN1019 MP1.0901 P1-2-11 I2a4.14 Q2524.3 Ychuan2 Yzhuan4 Wjeon テン デン つた.わる つた.える つた.う つて {summon} {propagate} {transmit} 
+僂 5124 U50c2 B9 S13 N523 V288 MN1045 MP1.0916 P1-2-11 I2a11.5 Q2524.4 Ylu:3 Ylou2 Wru ロウ ル かが.む {bend over} 
+剹 334C U5279 B18 S13 XJ05924 MN2149 P1-11-2 Ylu4 Wryug リク リュウ ロク キョウ ク ころ.す けず.る 
+剿 5176 U527f B18 S13 N704 V508 H1858 DP2335 MN2165 MP2.0308 P1-11-2 I2f11.2 Q2290.0 Yjiao3 Ychao1 Wcho ソウ ショウ {destroy} 
+剽 5177 U527d B18 S13 N705 V510 DN2269 MN2160 MP2.0306 P1-11-2 I2f11.1 Q1290.0 Ypiao4 Ypiao1 Wpyo ヒョウ おびや.かす さす {threat} 
+勡 3370 U52e1 B19 S13 MN2421 P1-11-2 Ypiao1 Wpyo ヒョウ かす.める 
+勨 3372 U52e8 B19 S13 MN2438 P1-11-2 Yxiang4 Wyang Wsang ヨウ ショウ ゆる.やか うご.く 
+勧 342B U52e7 B19 G8 S13 XJ05230 F1068 J1 N736 V559 H1857 DP2334 DK1202 DL1645 L864 DN928 K1140 O1970 DO638 MN2433 MP2.0414 E828 IN1051 DA1094 DS752 DF1105 DT1610 DJ1615 DG226 DM872 P1-11-2 I2g11.1 Q8422.7 DR2345 Yquan4 Wgweon カン ケン すす.める {persuade} {recommend} {advise} {encourage} {offer} 
+勣 522A U52e3 B19 S13 V555 O1969 MN2423 MP2.0411 P1-11-2 I2g11.4 Q5482.7 Yji1 Wjeog セキ シャク いさお つむ.ぐ {merit} {achievement} 
+勦 522B U52e6 B19 S13 N734 V557 MN2426 MP2.0414 P1-11-2 I2g11.5 Q2492.7 Yjiao3 Ychao1 Wcho ソウ ショウ {destroy} {steal} 
+勠 522D U52e0 B19 S13 V556 MN2418 MP2.0408 P1-11-2 I2g11.3 Q1422.7 Ylu4 Wryug リク あわ.せる {combine} {join forces} 
+絛 6536 U7d5b B120 S13 XJ15447 V4494 MN27465 MP8.1064 P1-2-11 I2a11.4 Q2829.3 Ytao1 Wjo ジュウ ジョウ トウ さなだ {braid} 
+翛 553B U7fdb B124 S13 MN28709 P1-2-11 Yshu4 Wso ショウ ユウ ユ シュク はや.い {look of rumpled feathers} {bedraggled} {hasty} {rapid flight} 
+鄐 623B U9110 B163 S13 MN39559 P1-10-3 Ychu4 チク キク {town in Henan province} 
+鄗 623E U9117 B163 S13 MN39576 P1-10-3 Yhao4 コウ カク {county in Hebei province} 
+鄍 623A U910d B163 S13 MN39554 P1-10-3 Yming2 ベイ メイ ミョウ {town in Shandong province} 
+鄔 623C U9114 B163 S13 MN39570 P1-10-3 Ywu1 Wo オ ウ ヨ {various place names} {surname} {transliteration of Sanskrit "u"} 
+鄖 623D U9116 B163 S13 MN39572 P1-10-3 Yyun2 ウン {county in Hubei province} 
+鄒 6E40 U9112 B163 S13 S12 F2283 V6152 MN39562 MP11.0292 P1-10-3 I2d10.6 Q2742.7 Yzou1 Wchu スウ シュ シュウ {place name} 
+馰 687B U99b0 B187 S13 MN44587 P1-10-3 Ydi4 Wjeog テキ チャク 
+馲 687D U99b2 B187 S13 XJ16955 MN44592 P1-10-3 Ytuo1 タク チャク ラク ワク らば 
+馱 687C U99b1 B187 S13 XN5198 N5193 V6728 MN44589 P1-10-3 Ytuo2 Yduo4 Wta タ タイ の.せる {carry on back} {horse load} 
+馳 435A U99b3 B187 G9 S13 N5195 V6730 DP2289 DL1615 L2805 DN2820 MN44593 MP12.0500 P1-10-3 I10a3.1 Q7431.2 DR3456 Ychi2 Wchi チ ジ は.せる {run} {gallop} {sail} {drive (a wagon)} {win (fame)} {despatch} 
+馴 466B U99b4 B187 G9 S13 N5194 V6729 H1820 DP2290 DL1616 L2807 DN2822 O1966 MN44595 MP12.0502 P1-10-3 I10a3.2 Q7230.0 Yxun4 Yxun2 Wsun Whun ジュン シュン クン な.れる な.らす したが.う {get used to} {experienced} {tamed} 
+骪 6956 U9aaa B188 S13 MN45105 P1-10-3 Ywei3 Wwi イ ま.がる ま.げる あつ.まる すておく {crooked bones} 
+骮 6958 U9aae B188 S13 MN45113 P1-10-3 Yyi4 ヨク こぼね 
+骬 6957 U9aac B188 S13 MN45109 P1-10-3 Yyu2 ウ 
+骭 716C U9aad B188 S13 V6785 MN45111 MP12.0574 P1-10-3 I4b9.12 Q7124.0 Ygan4 Whan カン はぎ {leg} {shin} 
+魞 6A41 U9b5e B195 S13 MN45969 P1-11-2 Yba1 えり {fish trap} 
+魛 6A40 U9b5b B195 S13 MN45960 P1-11-2 Ydao1 トウ たちうお {the mullet} 
+鳩 4837 U9ce9 B196 G9 S13 F1637 J1 N5342 V6936 H163 DP184 DK120 DL141 L1946 DN2096 O1825 MN46648 MP12.0787 IN2273 DM1965 P1-2-11 I11b2.1 Q4702.7 Yjiu1 Wgu キュウ ク はと あつ.める T1 やす {pigeon} {dove} 
+鳰 726C U9cf0 B196 S13 V6935 O1824 MN46658 MP12.0789 P1-2-11 I11b2.2 Q8702.7 Wib にお {grebe} {(kokuji)} 
+僝 323D U50dd B9 S14 MN1103 P1-2-12 Ychan2 Wjan サン ゼン そな.える ののし.る あらわ.す {to revile} {to abuse} 
+僘 323B U50d8 B9 S14 XJ05a48 MN1097 P1-2-12 Ychang3 ショウ たか.い ほが.らか ひろ.い 
+僢 323F U50e2 B9 S14 MN1110 P1-2-12 Ychuan3 Wcheon セン シュン そむ.く むかいあ.う ま.じる 
+僤 3240 U50e4 B9 S14 MN1112 P1-2-12 Ydan4 Wtan タン セン タツ タチ はや.い あつ.い あき.らか ゆ.るぐ {sincere} 
+僜 323C U50dc B9 S14 XJ04550 MN1102 P1-2-12 Ydeng4 トウ ト ショウ チョウ のぼ.る あ.がる 
+僨 3242 U50e8 B9 S14 MN1119 P1-2-12 Yfen4 Wbun フン ホン たお.れる お.ちる やぶ.る {ruin} {cause fail} {overthrown} 
+僱 3245 U50f1 B9 S14 DP189 MN1154 P1-2-12 Ygu4 コ やと.う {employ} {hire} 
+僦 3241 U50e6 B9 S14 MN1115 P1-2-12 Yjiu4 Wchu シュウ シュ か.りる おく.る あつ.まる {to heir} {to rent} 
+僯 3244 U50ef B9 S14 MN1133 P1-2-12 Ylin2 リン はじ.る {ashamed} 
+僐 3238 U50d0 B9 S14 MN1087 P1-2-12 Yshan3 セン おつくり.する 
+僓 3239 U50d3 B9 S14 MN1090 P1-2-12 Ytui2 タイ カイ エ テ なら.う みや.びやか したが.う 
+僩 3243 U50e9 B9 S14 MN1122 P1-2-12 Yxian4 Whan カン ゲン たけだけ.しい {courageous} {martial} {dignified} 
+僟 323E U50df B9 S14 MN1106 P1-2-12 Yzhang3 Wgi キ ゲ よくつつし.む ちか.い 
+僎 3237 U50ce B9 S14 MN1083 P1-2-12 Yzhuan4 Wjun Wseon セン シュン そな.える かず かぞ.える {collect} 
+僔 323A U50d4 B9 S14 MN1093 P1-2-12 Yzun3 Wjun ソン あつ.まる おお.い うやうや.しい 
+僑 3623 U50d1 B9 S14 F2044 N539 V307 L2120 DN2253 O2057 MN1088 MP1.0921 P1-2-12 I2a12.5 Q2222.7 Yqiao2 Wgyo キョウ T1 きゅう {temporary home} 
+像 417C U50cf B9 G5 S14 F856 J2 N540 V308 H166 DP187 DK123 DL144 L1977 DN2131 K906 O2061 DO524 MN1084 MP1.0920 E740 IN740 DA753 DS664 DF334 DH762 DT796 DJ940 DG133 DM1996 P1-2-12 I2a12.8 Q2723.2 DR2151 Yxiang4 Wsang ゾウ T1 かた {statue} {picture} {image} {figure} {portrait} 
+僕 4B4D U50d5 B9 G8 S14 F1236 J1 N544 V313 H164 DP185 DK121 DL142 L1794 DN1933 K1522 DO1838 MN1094 MP1.0922 E1820 IN1888 DA2060 DF1068 DT1693 DC296 DJ1241 DG134 DM1811 P1-2-12 I2a12.1 Q2223.4 DR2163 Ypu2 Ypu1 Wbog ボク しもべ {me} {I (male)} {servant} {manservant} 
+僚 4E3D U50da B9 G8 S14 F709 J1 N545 V314 H165 DP186 DK122 DL143 L1707 DN1842 K850 DO1752 MN1100 MP1.0924 E1909 IN1324 DA1406 DF1069 DT1694 DJ1182 DG135 DM1723 P1-2-12 I2a12.4 Q2429.6 DR2141 Yliao2 Wryo リョウ {colleague} {official} {companion} 
+僖 5125 U50d6 B9 S14 V306 O2058 MN1095 MP1.0924 P1-2-12 I2a12.7 Q2426.1 Yxi1 Wheui キ よろこ.ぶ {enjoyment} {pleasure} 
+僞 5126 U50de B9 G10 S14 XJ03536 XN510 N537 V303 H167 DP188 DL145 MN1105 MP1.0925 P1-2-12 I2a9.2 Q2222.7 Ywei3 Wwi ギ カ いつわ.る いつわ.り にせ {lie} {falsehood} {deceive} {pretend} 
+僥 5127 U50e5 B9 S14 N542 V311 MN1113 MP1.0928 P1-2-12 I2a12.6 Q2421.1 Yjiao3 Yyao2 Wyo ギョウ キョウ {luck} {seek} {desire} 
+僭 5128 U50ed B9 S14 XJ05129 N560 V329 MN1128 MP1.0934 P1-2-12 I2a12.2 Q2526.1 Yjian4 Wcham シン セン せん.する おご.る {boastfully usurp} 
+僣 5129 U50e3 B9 S14 XJ05128 XN560 N546 V305 MN1111 MP1.0928 P1-2-12 I2a12.2 Q2526.3 Ytie3 Wcham シン セン せん.する おご.る {boastfully usurp} 
+僮 512A U50ee B9 S14 N541 V310 O2056 MN1132 MP1.0935 P1-2-12 I2a12.3 Q2021.4 Ytong2 Wdong トウ ドウ しもべ わらべ {child} {servant} {foolishness} 
+儁 512E U5101 B9 S14 N543 V312 O2253 MN1175 MP1.0944 P1-2-12 I2a13.3 Q2022.7 Yjun4 Yjuan4 Wjun シュン すぐ.れる {excellence} {talented person} 
+凘 3327 U51d8 B15 S14 MN1706 P1-2-12 Ysi1 Wsi シ セイ サイ 
+劂 334E U5282 B18 S14 V512 MN2190 P1-12-2 I2f12.2 Yjue2 Wgwe ケツ クチ ケイ ケ けず.る {chisel for engraving} {engrave} 
+劀 334D U5280 B18 S14 MN2180 P1-12-2 Ygua1 Wgwal カツ けず.る 
+劃 3344 U5283 B18 S14 N707 V513 H1887 DP2378 MN2193 MP2.0309 P1-12-2 I2f12.1 Q5210.0 Yhua4 Yhua2 Whoeg カク わ.かつ かぎ.る {divide} 
+勬 3375 U52ec B19 S14 MN2446 P1-12-2 Yjuan1 ケン つと.める すこ.やか 
+勪 3374 U52ea B19 S14 MN2442 P1-12-2 Yqiao1 キャク ガク キョウ すす.む 
+勩 3373 U52e9 B19 S14 MN2441 P1-12-2 Yyi4 Wye Wi エイ イ シ いたつき つか.れる {work hard} {belabored} {toil} 
+對 5574 U5c0d B41 S14 XJ04250 XN2067 N1353 V1387 H1863 DP2339 MN7457 MP4.0039 P1-11-3 I2j5.5 Q3410.0 Ydui4 Wdae タイ ツイ あいて こた.える そろ.い つれあ.い なら.ぶ むか.う T1 つし {correct} {right} {facing} {opposed} 
+彯 3D21 U5f6f B59 S14 MN10014 P1-11-3 Ypiao4 ビョウ 
+彰 3E34 U5f70 B59 G8 S14 F1310 J1 N1593 V1721 H1860 DP2337 DK1203 DL1647 L1715 DN1851 K1338 O2174 DO1386 MN10015 MP4.0804 E1410 IN1827 DA1976 DF1275 DT1701 DJ1620 DG618 DM1731 P1-11-3 I3j11.1 Q0242.2 DR460 Yzhang1 Wchang ショウ T1 あき あきら {patent} {clear} 
+戩 3F2F U6229 B62 S14 V2038 MN11637 P1-10-4 I4n10.1 Yjian3 Wjeon セン ほろ.ぼす {exterminate} {destroy} {blessing} 
+戧 3F2E U6227 B62 S14 XJ0414f MN11632 P1-10-4 Ychuang1 Yqiang1 Yqiang4 Wchang ソウ ショウ つく.る はじ.める きず.つける {support} 
+斠 415D U65a0 B68 S14 MN13521 P1-10-4 Yjiao4 カク コウ キョウ はか.る {measure} 
+朢 4275 U6722 B74 S14 MN14391 P1-10-4 Ywang4 ボウ モウ もちづき {look at} {gaze at} {hope} {expect} 
+榖 4458 U6996 B75 S14 MN15229 P1-10-4 Ygu3 Wgog コク コウ ク こうぞ {paper mulberry} 
+歍 4573 U6b4d B76 S14 MN16168 P1-10-4 Ywu1 オ ウ オウ は.く 
+歊 4572 U6b4a B76 S14 MN16161 P1-10-4 Yxiao1 キョウ コク カク のぼ.る {sigh} 
+歌 324E U6b4c B76 G2 S14 F519 J3 N2422 V2945 H1825 DP2296 DK1187 DL1621 L469 DN508 K478 O2170 DO256 MN16167 MP6.0639 E84 IN392 DA395 DS166 DF201 DH90 DT230 DC486 DJ200 DB3.18 DG1125 DM480 P1-10-4 I4j10.2 Q1768.2 DR3162 Yge1 Wga カ うた うた.う {song} {sing} 
+歎 4337 U6b4e B76 G9 S14 XN974 N2424 V2947 H1869 DP2344 DL1652 L2859 DN2873 O2353 MN16182X MP6.0643 P1-10-4 I4j10.3 Q4758.2 Ytan4 Wtan タン なげ.く なげ.き {grief} {lamentation} 
+歉 5D3E U6b49 B76 S14 V2944 MN16159 MP00.0000 P1-10-4 I4j10.1 Q8728.2 Yqian4 Wgyeom ケン カン あきたりない {insufficiency} {lack} {shortage} 
+毄 4635 U6bc4 B79 S14 MN16668 P1-10-4 Yji1 Wgyeog ケキ キュク ケイ ギキ あ.たる 
+毃 4634 U6bc3 B79 S14 MN16665 P1-10-4 Yque4 カク キョウ たた.く 
+穀 3972 U7a40 B79 C115 G6 S14 XJ15340 F1744 J1 N2461 V4157 H1824 DP2294 DK1186 DL1620 L917 DN984 K1620 O2168 DO815 MN25188P MP6.0479 E866 IN1729 DA1847 DS786 DF1591 DH876 DT973 DJ1627 DG1441 DM926 P1-10-4 I5d9.4 Q4794.7 DR1468 Ygu3 Wgog Wgu コク T1 たけ {cereals} {grain} 
+爴 4A4A U7234 B87 S14 XJ05a3c MN19704 P1-10-4 Yjue2 カク さら.う つか.む 
+獃 4B38 U7343 B94 S14 MN20599 P1-10-4 Ydai1 Wae ガイ おろ.か {dull} {dull-minded} {simple} {stupid} 
+粼 5338 U7cbc B119 S14 MN26991 P1-12-2 Ylin2 Wrin リン せせらぎ 
+鄜 6241 U911c B163 S14 MN39604 P1-11-3 Yfu1 フ ロク {county in Shaanxi province} 
+鄠 6243 U9120 B163 S14 MN39611 P1-11-3 Yhu4 コ {county in Shaanxi province} 
+鄚 6240 U911a B163 S14 MN39600 P1-11-3 Ymao4 バク マク {place in today's Hebei province} 
+鄥 6244 U9125 B163 S14 MN39613 P1-11-3 Ywu3 キョウ 
+鄢 6245 U9122 B163 S14 MN39614 P1-11-3 Yyan1 Weon エン オン {name of a district in Honan} 
+鄞 6242 U911e B163 S14 MN39607 P1-11-3 Yyin2 Weun ギン ゴン {county in Zhejiang province} 
+鄘 623F U9118 B163 S14 MN39596 P1-11-3 Yyong1 ヨウ ユ {state in Henan province} 
+鄣 6246 U9123 B163 S14 MN39617 P1-11-3 Yzhang1 Wjang ショウ {name of ancient city in N. Jiangsu} {near Shandong} 
+鄙 6E41 U9119 B163 S14 S13 N4772 V6153 H1862 DP2338 O2173 MN39597 MP11.0306 P1-11-3 I2d11.4 Q6762.7 ZSP1-11-2 Ybi3 Ybi4 Wbi ヒ ひな ひな.びる いや.しい {lowly} {the country} {the countryside} {be countrified} 
+駃 6925 U99c3 B187 S14 MN44625 P1-10-4 Ykuai4 ケツ ケチ ガイ ケ らば {gallop} 
+馿 6924 U99bf B187 S14 XJ07166 XN5233 N5196 V6731 MN44616 P1-10-4 Ylu:2 ロ リョ うさぎうま {ass} {donkey} 
+馹 6921 U99b9 B187 S14 MN44604 P1-10-4 Yri4 Wil ジツ ニチ はやうま {post horse} {relay horse} 
+馺 6922 U99ba B187 S14 MN44605 P1-10-4 Ysa4 ソウ おいつく 
+駅 3158 U99c5 B187 G3 S14 XJ07163 F724 J4 N5199 V6735 H1822 DP2292 DK1184 DL1618 L1984 DN2138 K384 O2172 DO189 MN44633P MP12.0506 E233 IN284 DA284 DS158 DF101 DH253 DT426 DJ56 DB2.12 DG1915 DM2003 P1-10-4 I10a4.4 Q7738.7 DR3462 Yyi4 Wyeog エキ {station} 
+駆 366E U99c6 B187 G8 S14 XJ0366F XJ0715C XJ14154 F1033 J1 N5200 V6736 H1823 DP2293 DK1185 DL1619 L1983 DN2137 K1477 DO1271 MN44634 MP12.0506 E1183 IN1882 DA2049 DF1910 DT1743 DJ1611 DG1916 DM2002 P1-10-4 I10a4.5 Q7131.4 DR3475 Yqu1 Wgu ク か.ける か.る {drive} {run} {gallop} {advance} {inspire} {impel} 
+駄 424C U99c4 B187 G8 S14 F1500 J1 N5198 V6734 H1821 DP2291 DK1183 DL1617 L1986 DN2140 K1591 MN44633 MP12.0506 E1541 IN1880 DA2046 DF1909 DT1744 DJ1610 DG1917 DM2005 P1-10-4 I10a4.1 Q7433.0 DR3463 Ytuo2 Yduo4 Wtae Wta ダ タ {burdensome} {pack horse} {horse load} {send by horse} {trivial} {worthless} 
+駁 477D U99c1 B187 S14 N5197 V6733 L2808 DN2823 MN44619 MP12.0505 P1-10-4 I10a4.3 Q7434.0 Ybo2 Wbag ハク バク ぶち まじ.る まだら {refutation} {contradiction} 
+馼 7149 U99bc B187 S14 V6732 MN44610 MP12.0504 P1-10-4 I10a4.2 Q7034.0 Ywen2 Wmun ブン モン {zebra with yellow eyes and red mane} 
+骯 6959 U9aaf B188 S14 MN45124 P1-10-4 Yang1 Whang コウ {dirty} 
+骰 716D U9ab0 B188 S14 N5237 V6786 MN45127 MP12.0574 P1-10-4 I4b10.10 Q7724.7 Ytou2 Yshai3 Wtu トウ さい {dice} {bones} 
+魡 6A42 U9b61 B195 S14 MN45973 P1-11-3 Ydiao4 テキ チャク チョウ つる 
+戯 353A U622f B4 C62 G8 S15 XJ05926 F1880 J1 N246 V2041 H1875 DP2351 DK1208 DL1654 L1994 DN2149 K1632 O2350 DO1298 MN11665 MP5.0039 E1138 IN1573 DA1679 DF1331 DT1766 DJ1901 DG840 DM2013 P1-11-4 I4n11.1 Q2325.0 DR1259 Yxi4 Yhu1 Wheui Whwi Who ギ ゲ たわむ.れる ざ.れる じゃ.れる {frolic} {play} {sport} 
+劇 3760 U5287 B4 C18 G6 S15 F662 J2 N247 V517 H1904 DP2399 DK1221 DL1681 L1997 DN2152 K458 DO1078 MN2218 MP2.0310 E848 IN797 DA811 DF365 DH858 DT982 DJ1140 DG206 DM2016 P1-13-2 I2f13.2 Q2220.0 DR1243 Yju4 Wgeug ゲキ {drama} {play} 
+儈 324C U5108 B9 S15 N549 V319 MN1189 P1-2-13 I2a13.8 Ykuai4 Wgoe カイ ケ なかがい {go-between} {broker} {proxy} {middleman} 
+僾 3248 U50fe B9 S15 MN1170 P1-2-13 Yai4 Wae アイ ほの.か かく.れる むせ.ぶ かな.しむ {like} 
+儋 324D U510b B9 S15 MN1195 P1-2-13 Ydan1 Wdam タン セン にな.う こがめ {small jar} {to bear a burden} {load of two} 
+儌 324E U510c B9 S15 MN1196 P1-2-13 Yjiao3 Wgyo キョウ ゆ.く うかが.う もと.める いつわ.る {lucky} {fortunate} 
+儆 324A U5106 B9 S15 MN1187 P1-2-13 Yjing3 Wgyeong ケイ ショウ いまし.める {warn} {warning} 
+僶 3246 U50f6 B9 S15 MN1159 P1-2-13 Ymin3 Wmin ビン ミン つと.める 
+僺 3247 U50fa B9 S15 MN1165 P1-2-13 Yqiao4 ショウ なが.い 
+儍 324F U510d B9 S15 MN1201 P1-2-13 Ysha3 サ {foolish} {silly} {imbecile} 
+儃 3249 U5103 B9 S15 MN1177 P1-2-13 Yshan4 Wcheon セン タン たたず.む よう.す ほしいまま 
+儇 324B U5107 B9 S15 MN1188 P1-2-13 Yxuan1 Whyeon ケン かしこ.い あざむ.く さとい まと.う 
+儎 3250 U510e B9 S15 MN1210 P1-2-13 Yzai4 Yzai3 サイ の.せる {carry} {contain} {load} 
+億 322F U5104 B9 G4 S15 F716 J2 N551 V321 H170 DP192 DK125 DL148 L983 DN1058 K389 O2252 DO868 MN1178 MP1.0944 E430 IN382 DA383 DS557 DF335 DH452 DT622 DC462 DJ650 DG136 DM992 P1-2-13 I2a13.6 Q2023.6 DR2158 Yyi4 Weog オク T1 お {hundred million} {10**8} 
+儀 3537 U5100 B9 G8 S15 F739 J1 N554 V324 H169 DP191 DK124 DL147 L984 DN1059 K1311 O2255 DO1252 MN1172 MP1.0940 E1137 IN727 DA740 DF1071 DT1747 DJ936 DG137 DM993 P1-2-13 I2a13.4 Q2825.3 DR2159 Yyi2 Weui ギ T1 のり よし {ceremony} {rule} {affair} {case} {a matter} 
+僻 4A48 U50fb B9 S15 N553 V323 L2117 O2254 MN1166 MP1.0938 P1-2-13 I2a13.1 Q2024.1 Ypi4 Wbyeog Wpi ヘキ ヒ ヘイ へき.する ひが.む {prejudice} {bias} {rural area} 
+價 512B U50f9 B9 G10 S15 XJ03241 XN422 N548 V316 H171 DP193 DL149 MN1163 MP1.0937 P1-2-13 I2a6.3 Q2128.6 Yjia4 Wga カ ケ あたい {price} {value} 
+僵 512C U50f5 B9 S15 V317 MN1158 MP1.0936 P1-2-13 I2a13.5 Q2121.6 Yjiang1 Wgang キョウ たお.れる {fall down} {collapse} 
+儉 512D U5109 B9 G10 S15 XJ03770 XN479 N547 V315 H172 DP194 DL150 MN1190 MP1.0947 P1-2-13 I2a8.27 Q2828.6 Yjian3 Wgeom ケン つま.しい つづまやか {economy} {thrifty} 
+儂 512F U5102 B9 S15 V318 MN1176 MP1.0944 P1-2-13 I2a13.2 Q2523.2 Ynong2 Wnong ドウ ノウ わし かれ {I} {my} {he} {his} {me (used by old people)} 
+儚 5133 U511a B9 S15 N550 V320 MN1236X MP1.0955 P1-2-13 I2a13.7 Q2522.7 Ymeng2 Wmaeng ボウ モウ はかな.い くら.い {fleeting} {fickle} 
+凛 515B U51db B15 G9 S15 XJ07425 N651 V430 DP196 DL152 L2138 DN2264 MN1718 MP2.0161 P1-2-13 I2b13.1 Q3019.1 Ylin3 Wreum リン きびし.い {cold} 
+凜 7425 U51dc B15 G9 S15 XJ0515B J1 V429 DP195 DK126 DL151 MN1717 MP00.0000 IN2026 P1-2-13 I2b13.1 Q3019.0 Ylin3 Wreum リン きびし.い {cold} {strict} {severe} 
+劊 3350 U528a B18 S15 MN2225 P1-13-2 Ygui4 Whoe Wgoe カイ ケ カツ た.つ {amputate} {cut off} 
+劅 334F U5285 B18 S15 MN2212 P1-13-2 Yzhuo2 タク 
+劉 4E2D U5289 B18 G9 S15 XJ13337 F1947 N709 V515 DP2398 DL1680 L2143 DN2270 O2554 MN2224 MP2.0313 P1-13-2 I2f13.1 Q7210.0 Yliu2 Wryu リュウ ル ころ.す T1 らう のぶ みずち {weapon of war} {logging axe} {kill en masse} {peeling (paint off a wall, etc)} {sparse} {faded} 
+劍 5178 U528d B18 G10 S15 XJ03775 XJ05179 XJ0517A XJ0517B XJ06E5F XN696 N708 V514 H1903 DP2397 DL1679 O2674 MN2228 MP2.0352 P1-13-2 I2f8.5 Q8280.0 Yjian4 Wgeom ケン つるぎ {sword} 
+勱 3377 U52f1 B19 S15 MN2459 P1-13-2 Ymai4 Wmae バイ メ つと.める {put forth effort} {strive forward} 
+影 3146 U5f71 B59 G8 S15 F464 J1 N1594 V1722 H1889 DP2381 DK1216 DL1671 L1712 DN1848 K630 O2357 DO929 MN10019 MP4.0805 E1017 IN854 DA873 DF1276 DT1758 DC494 DJ1022 DG619 DM1728 P1-12-3 I3j12.1 Q6292.2 DR3860 Yying3 Wyeong エイ かげ {shadow} {silhouette} {phantom} 
+戮 5924 U622e B62 S15 XJ1334C N1813 V2040 MN11655 MP5.0038 P1-11-4 I4n11.3 Q1325.0 Ylu4 Wryug リク リュウ ロク キョウ ク ころ.す けず.る {kill} 
+敺 4154 U657a B66 S15 XJ0366e XJ0366f XJ0715c DP2348 MN13367 P1-11-4 Yqu1 ク か.ける か.る {expel} {drive away} {beat} {assault} 
+敵 4528 U6575 B66 G5 S15 F1205 J1 N2060 V2359 H1864 DP2340 DK1204 DL1648 L443 DN475 K1057 O2354 DO454 MN13354 MP5.0545 E756 IN416 DA422 DS678 DF1391 DH779 DT809 DJ658 DG946 DM450 P1-11-4 I4i11.2 Q0824.0 DR466 Ydi2 Wjeog テキ かたき あだ かな.う {enemy} {foe} {opponent} 
+敷 495F U6577 B66 G8 S15 XJ14167 F1212 J1 N2059 V2357 H1870 DP2345 DK1207 DL1653 L1883 DN2028 K1053 O2355 DO1039 MN13359P MP5.0549 E1756 IN1451 DA1544 DF1392 DT1772 DJ724 DG947 DM1901 P1-11-4 I4i11.1 Q5824.0 DR1566 Yfu1 Wbu フ し.く -し.き T1 しき にゅう {spread} {pave} {sit} {promulgate} 
+數 5A4B U6578 B66 S15 XJ03F74 XN2057 N2058 V2356 H1872 DP2347 O2548 MN13363 MP5.0549 P1-11-4 I4i9.1 Q5844.0 Yshu4 Yshu3 Yshuo4 Wsu Wsag スウ ス サク ソク シュ かず かぞ.える しばしば せ.める わずらわ.しい {number} {strength} {fate} {law} {figures} 
+歒 4574 U6b52 B76 S15 MN16190 P1-11-4 Yti4 テキ チャク わら.う 
+歓 343F U6b53 B76 G8 S15 XJ05D44 F1065 J1 N2425 V2948 H1867 DP2342 DK1206 DL1650 L570 DN612 K1030 O2352 DO652 MN16197 MP6.0649 E639 IN1052 DA1095 DS753 DF1450 DT1776 DJ1132 DG1126 DM577 P1-11-4 I4j11.1 Q8728.2 DR2362 Yhuan1 Whwan カン よろこ.ぶ T1 ぶ {delight} {joy} 
+歐 5D3F U6b50 B76 S15 XJ03224 XN2413 N2423 V2946 H1874 DP2349 MN16185 MP6.0645 P1-11-4 I4j4.2 Q7778.2 You1 Wgu オウ うた.う は.く {Europe} 
+毅 3523 U6bc5 B79 G9 S15 F1770 J1 N2463 V3003 H1866 DP2341 DK1205 DL1649 L2889 DN2898 O2351 DO1919 MN16673 MP6.0788 IN2131 P1-11-4 I5b10.1 Q0724.7 Yyi4 Weui キ ギ つよ.い T1 つよし こわし たけし たけ はたす あつし つよ とし み {strong} 
+毆 5D58 U6bc6 B79 S15 XJ03225 XN2451 V3002 H1873 DP2350 MN16674 MP6.0789 P1-11-4 I2t6.1 Q7774.7 You1 Wgu オウ ク なぐ.る たた.く {beat} {fight with fists} {hit} {to strike} {brawl} 
+毿 4642 U6bff B82 S15 MN16942 P1-11-4 Ysan1 Wsan サン けがながい {long feathers} {scraggy} 
+獒 4B3B U7352 B94 S15 MN20646 P1-11-4 Yao2 Wo ゴウ いぬ {mastiff} {large fierce dog} 
+皺 6232 U76ba B107 S15 N3112 V3884 MN22899 MP8.0100 P1-10-5 I2h13.1 Q2444.7 Yzhou4 Wchu シュウ スウ しわ しぼ {wrinkles} {creases} {folds} 
+翫 3465 U7feb B124 S15 XN2925 F2134 N3678 V4689 L2899 DN2908 MN28766X MP9.0128 P1-11-4 I4c11.6 Q1161.1 Ywan4 Wwan ガン もてあそ.ぶ {take pleasure in} {play instrument} 
+鄧 6247 U9127 B163 S15 MN39630 P1-12-3 I2d12.2 Ydeng4 Wdeung トウ {surname} 
+鄯 624A U912f B163 S15 MN39655 P1-12-3 I2d12.3 Yshan4 セン {district in Gansu during the Tang dynasty} 
+鄮 6249 U912e B163 S15 MN39651 P1-12-3 Ymao4 ボウ モ 
+鄱 624B U9131 B163 S15 MN39658 P1-12-3 Ypo2 Wpa ハ ヒ ハン {county and lake in Jiangxi} 
+鄩 6248 U9129 B163 S15 MN39633 P1-12-3 Yxin2 シン {county in Shandong province} 
+鄭 4522 U912d B163 G9 S15 S14 F1732 N4774 V6155 H1888 DP2379 DL1670 L2425 DN2503 MN39647X MP11.0319 P1-12-3 I2d12.4 Q8742.7 Q7712.7 ZSP1-12-2 Yzheng4 Wjeong テイ ジョウ {an ancient Chinese province} 
+鄲 6E42 U9132 B163 S15 S14 V6154 MN39659 MP11.0340 P1-12-3 I2d12.5 Q6752.7 Ydan1 Wdan タン {place name} 
+駜 692B U99dc B187 S15 MN44680 P1-10-5 Ybi4 Wpil ヒツ ビチ ヒ こ.える {strong horse} 
+駙 6929 U99d9 B187 S15 MN44677 P1-10-5 Yfu4 Wbu フ そえうま ちか.い {extra horse} {imperial son-in-law} 
+駉 6926 U99c9 B187 S15 MN44637 P1-10-5 Yjiong1 Wgyeong ケイ キョウ まき まきば {big} 
+駓 6927 U99d3 B187 S15 MN44664 P1-10-5 Ypi1 ヒ しらかげ {gallop} 
+駞 692C U99de B187 S15 XJ0714c MN44682 P1-10-5 Ytuo2 Wta タ せむし {camel} 
+駚 692A U99da B187 S15 MN44678 P1-10-5 Yyang3 ヨウ オウ 
+駔 6928 U99d4 B187 S15 MN44665 P1-10-5 Yzang3 ソウ ソ ショ うま {excellent horse} {noble steed} 
+駈 366F U99c8 B187 G10 S15 XJ0366E XJ0715C XJ14154 N5208 V6744 H1829 DP2300 DL1624 L2809 DN2824 MN44636 MP12.0506 P1-10-5 I10a4.5 Q7231.1 Yqu1 Wgu ク か.ける か.る {run} {gallop} {advance} 
+駒 3670 U99d2 B187 G8 S15 F1452 J1 N5206 V6742 H1827 DP2298 DK1189 DL1623 L1979 DN2133 K1519 O2349 DO1927 MN44663 MP12.0510 IN2268 DA2050 DM1998 P1-10-5 I10a5.5 Q7732.0 DR3449 Yju1 Wgu ク こま {pony} {horse} {colt} 
+駐 4373 U99d0 B187 G8 S15 F955 J2 N5209 V6745 H1826 DP2297 DK1188 DL1622 L1982 DN2136 K890 DO1372 MN44660 MP12.0508 E1587 IN599 DA609 DF1016 DT1817 DJ1386 DG1918 DM2001 P1-10-5 I10a5.2 Q7031.4 DR3472 Yzhu4 Wju チュウ {stop-over} {reside in} {resident} 
+駟 714A U99df B187 S15 N5201 V6737 MN44683 MP12.0515 P1-10-5 I10a5.6 Q7630.0 Ysi4 Wsa シ {four horses} 
+駛 714B U99db B187 S15 N5202 V6738 O2348 MN44679 MP12.0514 P1-10-5 I10a5.1 Q7530.6 Yshi3 Wsa シ は.せる はや.い {run fast} 
+駝 714C U99dd B187 S15 XJ1692C N5204 V6740 MN44681 MP12.0514 P1-10-5 I10a5.3 Q7331.1 Ytuo2 Wta ダ タ せむし {hunchback} {load} 
+駘 714D U99d8 B187 S15 N5203 V6739 MN44675 MP12.0513 P1-10-5 I10a5.4 Q7336.0 Ytai2 Wtae タイ {stupid} 
+骲 695A U9ab2 B188 S15 MN45142 P1-10-5 Ybo2 ハク ゴウ ギョウ ホウ ビョウ やじり 
+骴 695B U9ab4 B188 S15 MN45147 P1-10-5 Yci1 シ サイ ジャ ほね {putrid carcass} 
+骶 695D U9ab6 B188 S15 N5238 V6787 MN45155 P1-10-5 Ydi3 Wje Wjeo テイ タイ しり {coccyx} {backbone} {hips} 
+骵 695C U9ab5 B188 S15 XJ0424e XJ06d3c XJ06d3d XJ07173 MN45151 P1-10-5 Yti3 タイ テイ からだ かたち 
+髛 696C U9adb B189 S15 MN45325 P1-10-5 Ykao1 コウ あき.らか 
+魳 6A4C U9b73 B195 S15 XJ0725e N5282 V6847 MN46020 P1-11-4 I11a4.2 Yza2 シ ソウ ぶり はまち かます {barracuda} 
+魬 6A49 U9b6c B195 S15 MN46006 P1-11-4 Yfan3 ハン かれい {sole or flounder} 
+魵 6A4D U9b75 B195 S15 MN46023 P1-11-4 Yfen4 フン えび {shrimp} 
+魪 6A47 U9b6a B195 S15 MN46000 P1-11-4 Ygai4 カイ かれい 
+魮 6A4B U9b6e B195 S15 MN46010 P1-11-4 Ypi2 ヒ 
+魥 6A44 U9b65 B195 S15 MN45984 P1-11-4 Yque4 キョウ コウ こがめ こち ひもの 
+魦 6A45 U9b66 B195 S15 XJ16a6a MN45985 P1-11-4 Ysha1 Wsa サ シャ ショウ さめ ちちぶ {shark family} {including some rays and skates} 
+魫 6A48 U9b6b B195 S15 MN46003 P1-11-4 Yshen3 シン さかなのこ {the young of fish} 
+魨 6A46 U9b68 B195 S15 MN45993 P1-11-4 Ytun2 トン ふぐ {blowfish} {globefish} {spheroides vermicular} 
+魷 6A4E U9b77 B195 S15 MN46030 P1-11-4 Yyou2 ユウ {cuttlefish} 
+魣 6A43 U9b63 B195 S15 XJ16b53 MN45981 P1-11-4 Yyu2 ショ ヨ たなご かます {barracuda} 
+魭 6A4A U9b6d B195 S15 XJ16d22 MN46008 P1-11-4 Yyuan2 ゲン ガン あおうみがめ 
+魹 6A50 U9b79 B195 S15 MN0 P1-11-4 とど 
+魸 6A4F U9b78 B195 S15 MN46031 P1-11-4 ナマズ 
+魴 7237 U9b74 B195 S15 V6846 MN46022 MP12.0731 P1-11-4 I11a4.1 Q2032.7 Yfang2 Wbang ホウ かがみたい おしきうお かがみだい {type of sea bream} 
+鴃 7270 U9d03 B196 S15 V6942 MN46723 MP12.0806 P1-11-4 I11b4.1 Q2533.0 Yjue2 Wgyeog ケイ ケキ ケツ もず {shrike} 
+麨 6C69 U9ea8 B199 S15 MN47733 P1-11-4 Ychao3 ショウ むぎこがし 
+歔 5D41 U6b54 B4 C76 S16 N248 V2950 MN16198 MP6.0649 P1-12-4 I4j12.2 Q2728.2 Yxu1 Wheo キョ すすりな.く {cry} 
+儐 3252 U5110 B9 S16 MN1214 P1-2-14 Ybin4 Ybin1 Wbin ヒン すす.める うやま.う あいさつ {entertain guests} 
+儜 3256 U511c B9 S16 MN1238 P1-2-14 Yneng2 Wnyeong ドウ ニョウ ネイ なや.む よわ.い {weak} {wearied} {in distress} 
+儗 3253 U5117 B9 S16 MN1233 P1-2-14 Yni3 Weui ギ カイ なぞら.える くら.べる {compare with} {draw analogy with} 
+儞 3258 U511e B9 S16 XJ03c24 XJ05575 XJ1305e XJ1305f XJ13d7b MN1244 P1-2-14 Yni3 ジ ニ なんじ しかり その のみ おれ 
+儙 3254 U5119 B9 S16 MN1235 P1-2-14 Yqian1 ケン ひら.く 
+儝 3257 U511d B9 S16 MN1242 P1-2-14 Yqiong2 ケイ まつ 
+儛 3255 U511b B9 S16 MN1237 P1-2-14 Ywu3 Wmu ブ ム ま.う ま.わす {to skip about} {to dance for joy} 
+僲 3251 U50f2 B9 S16 MN0 P1-2-14 Yxian1 
+儒 3C74 U5112 B9 G8 S16 F2162 J1 N561 V330 H174 DP197 DK127 DL153 L1166 DN1250 K1968 O2432 DO1579 MN1220 MP1.0950 E1352 IN1417 DA1506 DF1072 DT1820 DJ1891 DG138 DM1174 P1-2-14 I2a14.1 Q2122.7 DR2153 Yru2 Wyu ジュ {Confucian} 
+儘 5056 U5118 B9 S16 XJ04B79 N558 V327 O2435 MN1234 MP1.0955 P1-2-14 I2a14.2 Q2723.3 Yjin3 Yjin4 Wjin ジン まま ことごとく {as it is} {because} 
+儕 5131 U5115 B9 S16 N559 V328 MN1227 MP1.0954 P1-2-14 I2a14.4 Q2022.3 Ychai2 Wje セイ サイ ともがら {companion} 
+儔 5132 U5114 B9 S16 N557 V326 O2433 MN1224 MP1.0953 P1-2-14 I2a14.3 Q2424.1 Ychou2 Wju チュウ ジュ ともがら {companion} {similar kind} 
+劔 5179 U5294 B9 C18 S16 XJ03775 XJ05178 XJ0517A XJ0517B XJ06E5F XN696 N556 V518 H1906 DP2400 MN2245 MP2.0358 P1-13-3 I2f8.5 Q8785.0 Yjian4 Wgeom ケン つるぎ {sword} 
+凞 3328 U51de B15 S16 DP3605 MN1721 P1-2-14 Yxi1 Wheui キ やわ.らぐ {bright} {splendid} {glorious} 
+凝 3645 U51dd B15 G8 S16 F1712 J1 N652 V431 H175 DP198 DK128 DL154 L1412 DN1515 K1845 O2431 DO1370 MN1720 MP2.0161 E1175 IN1518 DA1619 DF1083 DT1821 DJ1790 DG169 DM1424 P1-2-14 I2b14.1 Q3718.1 DR370 Yning2 Weung ギョウ こ.る こ.らす こご.らす こご.らせる こご.る {congeal} {freeze} {stiff} {be absorbed in} 
+劌 3351 U528c B18 S16 MN2227 P1-14-2 Ygui4 Wgwi ケイ ケ そこ.なう さ.く はり とげ あ.う {to cut} {injure} {stab} {stick on} 
+劓 3352 U5293 B18 S16 MN2249 P1-14-2 Yyi4 Weui ギ ゲイ はなき.る はなきり さ.く {cut off nose} 
+劒 517A U5292 B18 S16 XJ03775 XJ05178 XJ05179 XJ0517B XJ06E5F XN696 V519 H1905 DP2401 MN2243 MP2.0357 P1-13-3 I2f8.5 Q8782.0 Yjian4 Wgeom ケン つるぎ {sword} 
+劑 517D U5291 B18 S16 XJ03A5E XN5424 V520 H1909 DP2404 MN2241 MP2.0357 P1-14-2 I2f8.6 Q0220.0 Yji4 Wje Wja ザイ スイ セイ かる けず.る {medicine} {drug} {dose} 
+勳 522E U52f3 B19 G10 S16 XJ0372E XJ1336E XN2794 V561 H1911 DP2406 DL1685 O2553 MN2465 MP2.0416 P1-14-2 I4d11.3 Q2432.7 Yxun1 Whun クン いさお T1 いさ {meritorious deed} {merits} {rank} 
+勵 522F U52f5 B19 S16 XJ04E65 XN193 N737 V562 H1914 DP2407 O2552 MN2472X MP2.0418 P1-14-2 I2g5.4 Q7422.7 Yli4 Wryeo レイ はげ.む はげ.ます {strive} {encourage} 
+叡 3143 U53e1 B29 G9 S16 XJ0624F XJ1385B J1 N865 V683 H1910 DP2405 DK1223 DL1684 L2905 DN2914 O2555 MN3214 MP2.0713 IN2032 P1-14-2 I2h14.1 Q2764.0 Yrui4 Wye エイ あき.らか {intelligence} {imperial} 
+戰 5925 U6230 B62 G10 S16 XJ0406F XN1810 N1814 V2042 H1893 DP2386 DL1674 MN11667 MP5.0039 P1-12-4 I4n9.2 Q6355.0 Yzhan4 Wjeon セン いくさ たたか.う おのの.く そよぐ {war} {fighting} {battle} 
+敽 4155 U657d B66 S16 MN13382 P1-12-4 Yjiao3 キョウ つな.ぐ {bind} 
+斳 4162 U65b3 B69 S16 MN13591 P1-12-4 Yqin2 キン コン せり 
+斲 4161 U65b2 B69 S16 MN13585 P1-12-4 Yzhuo2 Wchag キュウ タク き.る {cut} {chop} {hack} 
+歘 4576 U6b58 B76 S16 XJ1456f MN16202 P1-12-4 Yhu1 クツ クチ 
+歖 4575 U6b56 B76 S16 DP2385 MN16200 P1-12-4 Yxi1 キ イ 
+歙 5D40 U6b59 B76 S16 V2949 MN16204 MP6.0649 P1-12-4 I4j12.1 Q8718.2 Q8728.2 Yshe4 Yxi1 Yxi4 Wheub Wseob キュウ キョウ ショウ す.う {come together} {meet} {put away} {store} 
+氄 4644 U6c04 B82 S16 MN16970 P1-12-4 Yrong3 ジョク ジュウ ニュ むくげ {down} 
+獣 3D43 U7363 B94 G8 S16 XJ06059 F1714 J1 N2909 V3606 H1892 DP2384 DK1217 DL1673 L1933 DN2083 K1600 DO1366 MN20714P MP7.0740 E1366 IN1582 DA1688 DF1531 DT1838 DJ1864 DG1298 DM1952 P1-12-4 I3g12.3 Q3363.4 Q9363.4 DR963 Yshou4 Wsu ジュウ けもの けだもの {animal} {beast} 
+甑 3979 U7511 B98 S16 S15 V3706 MN21602X MP7.1012 P1-11-5 I4c13.3 Q8161.7 ZRP1-12-5 Yzeng4 Wjeung ソウ ショウ こしき {rice-steaming pot} 
+甌 612E U750c B98 S16 XJ14C78 V3707 MN21586 MP7.1009 P1-11-5 I3d13.12 Q7171.7 You1 Wgu オウ ほとぎ はち かめ {small jar} {jug} 
+甎 612F U750e B98 S16 V3705 MN21589 MP7.1011 P1-11-5 I0a16.1 Q5131.7 Yzhuan1 Wjeon セン しきがわら かわら {floor tiles} 
+穌 5143 U7a4c B115 S16 MN25263 P1-11-5 Ysu1 Ywei4 Wso ソ かきあつ.める {revive} {to rise again} {collect} 
+糓 5340 U7cd3 B119 S16 XJ03972 V4417 MN27067 P1-12-4 Ygu3 Yyu4 コク {grain} {corn} 
+縠 5446 U7e20 B120 S16 MN27780 P1-12-4 Yhu2 Wgog コク もじり ちりめん {crepe} 
+翮 5541 U7fee B124 S16 MN28776 P1-10-6 Yhe2 Whaeg カク ギャク レキ リャク はねのもと {stem of a feather} {quill} 
+臲 5666 U81f2 B132 S16 MN30130 P1-10-6 Ynie4 ゲツ ゲチ あや.うい {jumpy} {jittery} {worried} 
+鄷 624E U9137 B163 S16 MN39688 P1-13-3 Yfeng1 ホウ 
+鄶 624D U9136 B163 S16 MN39686 P1-13-3 Ykuai4 Whoe カイ ケ {state in today's Henan province} 
+鄴 624C U9134 B163 S16 MN39684 P1-13-3 Yye4 Weob ギョウ ゴウ {place in today's Honan province} 
+鄰 6E43 U9130 B163 S16 S15 S14 XJ04E59 XJ13454 XN5023 N4773 V6156 H1890 DP2382 O2551 MN39656 MP11.0338 P1-13-3 I2d13.1 Q9722.7 ZRP1-12-3 Ylin2 Wrin リン とな.る となり {neighbor} {neighborhood} 
+鞗 6746 U9797 B177 S16 MN42848 P1-2-14 Ytiao2 チョウ トウ たづな {reins} 
+駧 692D U99e7 B187 S16 MN44710 P1-10-6 Ydong4 トウ ズ はし.る 
+駬 6930 U99ec B187 S16 MN44724 P1-10-6 Yer3 ジ ニ しゅんめ {name of a legendary swift horse} 
+駫 692F U99eb B187 S16 MN44720 P1-10-6 Yjiong1 ケイ キョウ たくま.しい 
+駪 692E U99ea B187 S16 MN44718 P1-10-6 Yshen1 Wsin シン おお.い {crowd} 
+駰 6931 U99f0 B187 S16 MN44732 P1-10-6 Yyin1 イン どろあしげ {grey horse} 
+駭 714F U99ed B187 S16 N5213 V6750 MN44725 MP12.0518 P1-10-6 I10a6.4 Q7038.2 Yhai4 Yxie4 Whae ガイ カイ おどろ.く おどろ.かす {be surprised} 
+駮 7150 U99ee B187 S16 N5210 V6747 MN44726 MP12.0519 P1-10-6 I10a6.3 Q7034.8 Ybo2 Wbag カク ハク ぶち まだら {spots} 
+駱 7151 U99f1 B187 S16 N5212 V6749 MN44734 MP12.0520 P1-10-6 I10a6.2 Q7736.4 Yluo4 Wrag ラク かわらげ {white horse} 
+駲 7152 U99f2 B187 S16 V6746 P1-10-6 I10a6.1 Q7230.0 Wsun Whun シュウ ジュン {horse's buttocks} {horse's tail} 
+駢 7158 U99e2 B187 S16 S18 N5211 V6748 MN44696 MP12.0516 P1-10-6 I10a6.5 Q7834.1 Ypian2 Wbyeon Wbyeong ヘン なら.ぶ {two-horse carriage} 
+骻 695F U9abb B188 S16 MN45174 P1-10-6 Ykua4 カ ケ またぐら 
+骹 695E U9ab9 B188 S16 MN45170 P1-10-6 Yqiao1 Wgyo コウ キョウ ゴウ は.ぎ 
+骸 333C U9ab8 B188 G8 S16 N5240 V6789 DP2301 DL1625 L2874 DN1641 MN45164 MP12.0576 DA2125 P1-10-6 I4b12.7 Q7028.2 Yhai2 Whae ガイ カイ むくろ {bone} {body} {corpse} 
+骼 716E U9abc B188 S16 N5239 V6788 H1830 DP2302 MN45175 MP12.0577 P1-10-6 I4b12.6 Q7726.4 Yge2 Wgyeog カク {bleached bones} 
+融 4D3B U878d B193 C142 G8 S16 F481 J1 N5274 V5371 H1831 DP2303 DK1190 DL1626 L1044 DN1123 K702 O2545 DO1359 MN33384 MP10.0070 E1872 IN1588 DA1695 DF1719 DT1865 DJ1237 DG1610 DM1053 P1-10-6 I6d10.5 Q1523.6 DR3071 Yrong2 Wyung ユウ と.ける と.かす T1 あきら {dissolve} {melt} 
+鮊 6A58 U9b8a B195 S16 MN46064 P1-11-5 Yba4 ハク ビャク ハ ベ みごい しろうお がんき かすべ 
+鮅 6A54 U9b85 B195 S16 MN46047 P1-11-5 Ybi4 ヒツ ビチ ます 
+鮉 6A57 U9b89 B195 S16 XJ04264 MN46063 P1-11-5 Ydiao1 チョウ たい {bream} 
+鮄 6A53 U9b84 B195 S16 MN46046 P1-11-5 Yfu2 フツ ブチ さば 
+鮔 6A5D U9b94 B195 S16 MN46083 P1-11-5 Yju4 キョ 
+魿 6A51 U9b7f B195 S16 MN46038 P1-11-5 Yling2 レイ リョウ リン う.ねる うろこ 
+鮍 6A5A U9b8d B195 S16 MN46069 P1-11-5 Ypi2 ヒ かわはぎ 
+鮐 6A5C U9b90 B195 S16 MN46073 P1-11-5 Ytai2 Wtae タイ イ ふぐ {blowfish} {globefish} {tetraodon} 
+鮀 6A52 U9b80 B195 S16 MN46039 P1-11-5 Ytuo2 Wta タ なまず {snakefish} 
+鮇 6A56 U9b87 B195 S16 MN46059 P1-11-5 Ywei4 ビ ミ いわな 
+鮏 6A5B U9b8f B195 S16 XJ16b21 MN46071 P1-11-5 Yxing1 セイ ショウ ソウ なまぐさ.い なまぐさ さけ 
+鮋 6A59 U9b8b B195 S16 MN46066 P1-11-5 Yyou2 ユウ ユ シュウ ジュ はや 
+鮎 303E U9b8e B195 G9 S16 F2201 J1 N5288 V6855 H1876 DP2352 DK1209 DL1655 L2817 DN2832 O2547 MN46070 MP12.0734 IN2270 P1-11-5 I11a5.7 Q2136.0 Ynian2 Wjeom デン ネン あゆ なまず T1 あい {freshwater trout} {smelt} 
+鮒 4A2B U9b92 B195 S16 N5287 V6854 L2825 DN2840 O2546 MN46075 MP12.0738 P1-11-5 I11a5.5 Q2430.0 Yfu4 Wbu ホ フ ブ ふな {carp} 
+鮓 7238 U9b93 B195 S16 N5286 V6853 MN46076 MP12.0739 P1-11-5 I11a5.3 Q2831.1 Yzha4 Yzha3 Wja サ すし {sushi} {seasoned rice} 
+鮃 7239 U9b83 B195 S16 N5285 V6852 MN46044 MP12.0732 P1-11-5 I11a5.2 Q2734.9 Yping2 Wpyeong ヒョウ ヘイ ひらめ {flounder} {flatfish} 
+鮑 723A U9b91 B195 S16 N5284 V6851 MN46074 MP12.0743 P1-11-5 I11a5.4 Q2731.2 Ybao4 Wpo ホ ホウ あわび {abalone} 
+鮖 723B U9b96 B195 S16 V6849 MN46089 MP12.0739 P1-11-5 I11a5.1 Q2136.0 かじか {bullhead} {(kokuji)} 
+鮗 723C U9b97 B195 S16 V6850 MN46091X MP12.0739 P1-11-5 I11a5.6 Q2733.3 Wdong このしろ {gizzard shad} {(kokuji)} 
+鴕 7278 U9d15 B196 S16 V6952 MN46774 MP12.0811 P1-11-5 I11b5.1 Q2331.1 Ytuo2 Wta ダ タ {Chinese ostrich} 
+麬 6C6A U9eac B199 S16 XJ0734f XJ07350 MN47754 P1-11-5 Yfu1 フ ふすま 
+麮 6C6B U9eae B199 S16 MN47763 P1-11-5 Yqu4 キョ コ むぎがゆ {porridge} 
+黆 6C71 U9ec6 B201 S16 MN47929 P1-12-4 Yguang1 コウ たけし 
+黕 6C74 U9ed5 B203 S16 MN48057 P1-12-4 Yzhen3 タン トン チン あか {red} 
+默 6054 U9ed8 B203 G10 S16 XJ04C5B XN2796 N5405 V7056 H1891 DP2383 DL1672 MN48063 MP12.1019 P1-12-4 I4d11.5 Q6333.4 Ymo4 Wmug ボク モク だ.まる もだ.す {silent} {quiet} {still} {dark} 
+黔 7358 U9ed4 B203 S16 V7054 MN48056 MP12.1017 P1-12-4 I4d12.10 Q6832.7 Yqian2 Wgeom Wgeum ケン キン くろ.い {black} 
+鼽 6D3D U9f3d B209 S16 MN48503 P1-14-2 Yyan3 Wgu グ キュウ つ.まる {clogged nose} 
+鼼 6D3C U9f3c B209 S16 MN48501 P1-14-2 Yyao2 キュウ ク キョウ かぎばな 
+齓 6D45 U9f53 B211 S16 XJ07370 MN48585 P1-15-1 Ychen3 シン ソン トン かけば 
+戲 5926 U6232 B4 C62 G10 S17 XJ0353A XN246 N251 V2044 H1907 DP2402 DL1682 O2673 MN11681 MP5.0044 P1-13-4 I4n11.1 Q2325.0 Yxi4 Yhu1 Wheui Who ギ ゲ たわむ.れる たわむ.れ {play} {frolic} {sport} 
+虧 694C U8667 B4 C141 S17 N252 V5274 MN32770 MP9.1084 P1-14-3 I8c9.1 Q2122.7 Ykui1 Whyu キ か.ける {wane (moon)} 
+儣 3259 U5123 B9 S17 MN1253 P1-2-15 Ykuang3 コウ 
+儬 325C U512c B9 S17 MN1267 P1-2-15 Yqin1 シン 
+儧 325A U5127 B9 S17 XJ13264 MN1258 P1-2-15 Yzan3 Wchan サン あつ.める あつ.まる 
+儨 325B U5128 B9 S17 MN1259 P1-2-15 Yzhi2 Wjil シツ シチ ただ.しい 
+償 3D7E U511f B9 G8 S17 F854 J1 N563 V333 H176 DP199 DK129 DL155 L985 DN1060 K1101 DO1355 MN1245 MP1.0956 E1412 IN971 DA1003 DF1073 DT1866 DJ712 DG139 DM994 P1-2-15 I2a15.4 Q2928.6 DR2161 Ychang2 Wsang ショウ つぐな.う {reparation} {make up for} {recompense} {redeem} 
+儲 4C59 U5132 B9 G9 S17 F2442 N565 V331 DP202 DL157 L2118 DN2252 MN1284X MP1.0962 P1-2-15 I2a16.1 Q2426.0 Q2426.3 Ychu3 Ychu2 Wjeo チョ もう.ける もう.かる もうけ たくわ.える {be profitable} {yield profit} 
+優 4D25 U512a B9 G6 S17 F334 J2 N564 V334 H177 DP200 DK130 DL156 L993 DN1068 K453 O2599 DO1148 MN1261 MP1.0957 E984 IN1033 DA1074 DF336 DH995 DT1000 DJ1168 DG140 DM1002 P1-2-15 I2a15.1 Q2124.7 DR2167 Yyou1 Wu ユウ ウ やさ.しい すぐ.れる まさ.る T1 ゆ よし {tenderness} {excel} {surpass} {actor} {superiority} {gentleness} 
+儖 5130 U5116 B9 S17 V325 MN1229 MP1.0954 P1-2-15 I2a15.2 Q2821.7 Ylan2 Wram ラン {ugly} 
+儡 5134 U5121 B9 S17 N562 V332 MN1249 MP1.0956 P1-2-15 I2a15.3 Q2626.0 Ylei3 Wroe ライ {defeat} 
+劕 3353 U5295 B18 S17 XJ03c41 XJ06c44 MN2260 P1-15-2 Yzhi4 シツ シチ チ たち ただ.す もと わりふ 
+勴 3378 U52f4 B19 S17 MN2467 P1-15-2 Ylu:4 Wryeo リョ ロ たす.ける 
+斁 4156 U6581 B66 S17 XJ14577 MN13406 P1-13-4 Yyi4 Ydu4 Wdu エキ セク ト ズ いや.になる {dislike} {be weary of} {explain} 
+歛 5D42 U6b5b B66 C76 S17 XN2426 N2061 V2951 MN16210 MP6.0650 P1-13-4 I4j13.2 Q8788.2 Ylian4 Wgam レン {tighten} 
+斣 415E U65a3 B68 S17 MN13529 P1-13-4 Ydou4 シュク トウ ツ ショク ソク かえあ.う くら.べる はか.る 
+斴 4163 U65b4 B69 S17 MN13595 P1-13-4 Ylin2 リン {the sound of water flowing among rocks} 
+歝 4577 U6b5d B76 S17 XJ14156 MN16220 P1-13-4 Yyi4 エキ ヤク ト ズ いや.になる 
+斂 5A4C U6582 B76 C66 S17 XN2061 N2426 V2362 MN13407 MP5.0557 P1-13-4 I4i13.1 Q8884.0 Ylian4 Ylian3 Wryeom レン おさ.める {tighten} {stiffen} 
+歟 5D43 U6b5f B76 S17 XJ14568 N2427 V2952 MN16226 MP6.0651 P1-13-4 I4j13.1 Q7788.2 Yyu2 Wyeo ヨ や か {interrogative particle} 
+轂 6D58 U8f42 B79 C159 S17 N2465 V5979 MN38479 MP10.1052 P1-13-4 I7c10.4 Q4754.7 Ygu3 Ygu1 Wgog コク こしき {hub (of wheel)} 
+氉 4646 U6c09 B82 S17 MN16984 P1-13-4 Ysao4 ソウ け {restless} {melancholy} 
+氈 5D61 U6c08 B82 S17 XJ1463A N2477 V3019 MN16982 MP6.0832 P1-13-4 I3s14.1 Q0211.4 Yzhan1 Wjeon セン もうせん {woollen cloth or rug} 
+瓢 493B U74e2 B97 G9 S17 N2975 V3688 DP2356 DL1657 L2911 DN2920 O2668 MN21419X MP7.0992 P1-11-6 I4e12.3 Q1293.0 Ypiao2 Wpyo ヒョウ ひさご ふくべ {gourd} 
+甒 4D21 U7512 B98 S17 MN21604 P1-12-5 Ywu3 ブ ム かめ {jar} 
+繇 5451 U7e47 B120 S17 MN27856 P1-11-6 Yzhou4 Yyao2 Yyou2 Wyo ヨウ ユウ ユ チュウ ジュ したが.う {reason} {cause} 
+翲 5543 U7ff2 B124 S17 MN28795 P1-11-6 Ypiao1 ヒョウ とぶ 
+艱 6765 U8271 B138 S17 XJ1366E N3888 V4955 MN30600 MP9.0509 P1-11-6 I3k14.7 Q4753.2 Yjian1 Wgan カン ケン なや.む かた.い なや.み {difficult} {trying} {be distressed} {parent's funeral ceremony} {mourning} {perilous} 
+覬 6B31 U89ac B147 S17 N4295 V5536 MN34934 MP10.0340 P1-10-7 I5c12.9 Q2611.0 Yji4 Wgi キ {coveting high rank} 
+覯 6B32 U89af B147 S17 N4294 V5535 MN34937X MP10.0340 P1-10-7 I5c12.8 Q5651.0 Q5641.0 Ygou4 Wgu コウ あ.う {happening to meet} 
+觳 5D3E U89f3 B148 S17 MN35144 P1-13-4 Yhu2 Wgog コク カク {an ancient measure} {goblet} {mean} {frightened} 
+豁 6C2F U8c41 B150 S17 N4463 V5733 O2667 MN36221 MP10.0635 P1-10-7 I3m14.4 Q3866.8 Yhuo4 Yhua2 Yhuo1 Whwal カツ ひら.ける ひろ.い {empty} 
+谿 6C30 U8c3f B150 S17 XJ0374C XJ05E64 XJ13B59 XJ15028 N4464 V5734 DP2305 MN36219 MP10.0633 P1-10-7 I3a8.16 Q2846.8 Yqi1 Yxi1 Wgye ケイ たに たにがわ {valley} 
+鄹 624F U9139 B163 S17 MN39698 P1-14-3 Yzou1 シュウ シュ {name of a state} {surname} 
+騃 6938 U9a03 B187 S17 MN44780 P1-10-7 Yai2 Wae ガイ シ イ ギ タイ おろ.か {stupid} {foolish} 
+駵 6933 U99f5 B187 S17 XJ16946 XJ16952 MN44750 P1-10-7 Yliu2 リュウ ル くりげ 
+駹 6934 U99f9 B187 S17 MN44761 P1-10-7 Ymang2 ボウ モウ {black horse with a white face} 
+駾 6936 U99fe B187 S17 MN44774 P1-10-7 Ytui4 タイ はし.る {run away} 
+駴 6932 U99f4 B187 S17 MN44749 P1-10-7 Yxie4 カイ アイ おどろ.く {drum} 
+騂 6937 U9a02 B187 S17 MN44779 P1-10-7 Yxing1 Wseong セイ ショウ ケイ キョウ あかうま {red} {brown} {bay} {neat} {harmonious} 
+駽 6935 U99fd B187 S17 MN44773 P1-10-7 Yxuan4 Whyeon ケン {grey} 
+駿 3D59 U99ff B187 G9 S17 F1817 J1 N5216 V6754 H1832 DP2304 DK1191 DL1627 L2060 DN2216 O2763 MN44775 MP12.0524 IN2269 P1-10-7 I10a7.1 Q7334.7 Yjun4 Wjun Wsun シュン スン すぐ.れる T1 する とし はやし はやお {a good horse} {speed} {a fast person} 
+駻 7153 U99fb B187 S17 N5215 V6753 MN44767 MP12.0523 P1-10-7 I10a7.3 Q7634.1 Yhan4 Whan カン {rage} {run wild} 
+駸 7154 U99f8 B187 S17 N5214 V6752 O2666 MN44759 MP12.0523 P1-10-7 I10a7.4 Q7734.7 Yqin1 Wchim シン {speed} {horses running} 
+騁 7155 U9a01 B187 S17 V6751 MN44778 MP12.0525 P1-10-7 I10a7.2 Q7532.7 Ycheng3 Wbing テイ はせ.る {run fast} {gallop} {as one pleases} 
+骾 6960 U9abe B188 S17 MN45195 P1-10-7 Ygeng3 コウ キョウ {any object that sticks in throat} {bony} 
+鬴 6A34 U9b34 B193 S17 MN45690 P1-10-7 Yfu3 フ レキ リャク かま {pot} 
+鮞 6A60 U9b9e B195 S17 N5289 V6857 MN46105 P1-11-6 I11a6.9 Yer2 Wi ジ ニ ジク ニク はららご {roe} {milt} {fish eggs} 
+鮩 6A63 U9ba9 B195 S17 MN46124 P1-11-6 Ybing4 ホウ ビョウ ヘイ ヒツ ビチ にごい あみ 
+鮰 6A65 U9bb0 B195 S17 MN46141 P1-11-6 Yhui2 カイ {small kind of sturgeon, found in the Yangtze} 
+鮚 6A5E U9b9a B195 S17 MN46093 P1-11-6 Yjie2 Wgil キツ ギチ ケツ ケチ はまぐり {clam} {oyster} 
+鮬 6A64 U9bac B195 S17 MN46130 P1-11-6 Ypu4 ホ ブ コ ク ヒ カ ケ たなご せいご からすみ 
+鮦 6A61 U9ba6 B195 S17 MN46121 P1-11-6 Ytong2 トウ ズ かつお {snakefish} 
+鮧 6A62 U9ba7 B195 S17 XJ16a68 XJ16a7d MN46122 P1-11-6 Yyi2 Wje Wi イ テイ ダイ シ なまず すけそう {the sheat fish} 
+鮱 6A66 U9bb1 B195 S17 MN46144 P1-11-6 ボラ 
+鮲 6A67 U9bb2 B195 S17 MN46145 P1-11-6 モテ まて こち 
+鮭 3A7A U9bad B195 S17 F2477 N5291 V6859 L2815 DN2830 O2671 MN46132 MP12.0743 P1-11-6 I11a6.3 Q2431.4 Ygui1 Whae Wgyu カイ ケイ さけ しゃけ ふぐ {salmon} 
+鮫 3B2D U9bab B195 S17 F2244 N5294 V6863 DP2354 L2821 DN2836 O2672 MN46127 MP12.0742 P1-11-6 I11a6.5 Q2034.8 Yjiao1 Wgyo コウ さめ みずち {shark} 
+鮮 412F U9bae B195 G8 S17 F355 J1 N5295 V6864 H1877 DP2355 DK1210 DL1656 L551 DN590 K833 O2670 DO1350 MN46133 MP12.0743 E1501 IN701 DA714 DF1920 DT1891 DC471 DJ916 DG1932 DM557 P1-11-6 I11a6.7 Q2835.1 DR2555 Yxian1 Yxian3 Wseon セン あざ.やか {fresh} {vivid} {clear} {brilliant} {Korea} 
+鮪 4B6E U9baa B195 S17 N5290 V6858 L2816 DN2831 O2669 MN46126 MP12.0742 P1-11-6 I11a6.1 Q2432.7 Ywei3 Wyu キ ユウ イ まぐろ しび {tuna} 
+鮟 723D U9b9f B195 S17 V6861 MN46108 MP12.0740 P1-11-6 I11a6.4 Q2334.4 Yan4 Wan アン {angler-fish} 
+鮠 723E U9ba0 B195 S17 N5292 V6860 MN46112X MP12.0740 P1-11-6 I11a6.6 Q2731.2 Ywei2 Woe カイ ゲ ガイ はえ はや {dace (carp)} {(kokuji)} 
+鮨 723F U9ba8 B195 S17 N5293 V6862 L2826 DN2841 MN46123 MP12.0741 P1-11-6 I11a6.8 Q2136.1 DR2578 Yqi2 Wji Wgi シ キ すし {sushi} {seasoned rice} 
+鮴 7240 U9bb4 B195 S17 V6856 P1-11-6 I11a6.2 Q2439.0 めばる まて こち ごり {bullhead} {rockfish} {razor clam} {flathead} {(kokuji)} 
+鴼 6B6B U9d3c B196 S17 XJ03a6d MN46880 P1-11-6 Yluo4 ロ さぎ 
+鵂 6B6E U9d42 B196 S17 MN46890 P1-2-15 Yxiu1 Whyu キュウ ク みみずく {horned owl} {scops chinensis} {bird of ill omen} 
+麰 6C6D U9eb0 B199 S17 MN47774 P1-11-6 Ymou2 Wmo ボウ ム {barley} 
+麯 6C6C U9eaf B199 S17 MN47771 P1-11-6 Yqu1 Yqu3 Wgug キク こうじ {yeast} {leaven} 
+黈 6C72 U9ec8 B201 S17 MN47937 P1-12-5 Ytou3 トウ ツ きいろ {yellow} {augment} {increase} 
+黏 7356 U9ecf B202 S17 XN3472 N5401 V7050 DP2388 MN48007 MP12.1004 P1-12-5 I6b5.4 Q2116.0 Ynian2 Wjeom ネン ねば.り ねば.る {stick to} {glutinous} {sticky} {glue} 
+黜 7359 U9edc B203 S17 N5407 V7059 MN48076 MP12.1022 P1-12-5 I4d13.8 Q6237.2 Ychu4 Wchul チュツ しりぞ.ける {draw back} 
+點 735A U9ede B203 S17 XJ04540 XN804 N5406 V7057 H1894 DP2389 MN48083 MP12.1024 P1-12-5 I2m7.2 Q6136.0 Ydian3 Wjeom テン つ.ける つ.く た.てる さ.す とぼ.す とも.す ぼち {point} {mark} {speck} {decimal pt} 
+黝 735B U9edd B203 S17 V7058 MN48082 MP12.1023 P1-12-5 I2g15.1 Q6432.7 Yyou3 Wyu ユウ あおぐろ {black} 
+黻 7364 U9efb B204 S17 V7069 MN48250 MP12.1041 P1-12-5 I0a17.1 Q3324.7 Q3324.4 Yfu2 Wbul フツ あや {lap robe} {embroidery pattern} 
+鼢 6D31 U9f22 B208 S17 MN48399 P1-13-4 Yfen2 Wbun フン もぐらもち {variety of mole} 
+鼿 6D3E U9f3f B209 S17 MN48506 P1-14-3 Yhui1 ゴツ ゴチ カイ あおむきばな 
+鼾 736D U9f3e B209 S17 N5422 V7083 L2944 DN2951 MN48505 MP12.1076 P1-14-3 I5f12.3 Q2124.0 Yhan1 Whan カン いびき {snoring} 
+齢 4E70 U9f62 B211 G8 S17 XJ07374 F770 J2 N5431 V7093 H1895 DP2390 DK1218 DL1675 L1403 DN1505 K1054 O2766 DO1354 MN48632P MP12.1102 E1925 IN833 DA852 DF1023 DT1892 DJ1404 DG1943 DM1415 P1-12-5 I6b11.5 Q2873.7 DR1244 Yling2 Wryeong レイ よわい とし {age} 
+齔 7370 U9f54 B211 S17 XJ16D45 V7089 MN48587 MP12.1098 P1-15-2 I2a15.6 Q2171.0 Ychen4 Wchin シン ソン トン かけば {losing baby teeth} {child} 
+歸 5D45 U6b78 B2 C77 S18 XJ03522 XJ06227 XN1582 N123 V2966 H1840 DP2313 O2758 MN16349 MP6.0723 P1-10-8 I2f8.8 Q2712.7 Ygui1 Wgwi Wgwe キ かえ.る かえ.す おく.る とつ.ぐ {homecoming} {arrive at} {lead to} {result in} 
+儭 325D U512d B9 S18 MN1274 P1-2-16 Ychen4 Wcheun シン いた.る ちか.い おそ.れる うら しく {to assist} {to give alms} 
+儱 325F U5131 B9 S18 MN1281 P1-2-16 Ylong2 Wrong ロウ ル リョウ リュ できあ.がらない うやむや {rude} {barbarous} 
+儯 325E U512f B9 S18 MN1277 P1-2-16 Yteng2 トウ なが.い 
+戳 5927 U6233 B62 S18 V2046 MN11684 MP5.0048 P1-14-4 I4n14.1 Q1325.0 Ychuo1 Wchag タク {poke} {prod} 
+斷 5A52 U65b7 B69 S18 XJ04347 XN2078 N2081 V2388 H1912 DP2408 O3016 MN13611 MP5.0648 P1-14-4 I6b5.6 Q2272.1 Yduan4 Wdan ダン た.つ ことわ.る さだ.める {sever} {cut off} {interrupt} 
+毉 4636 U6bc9 B79 S18 DP3570 MN16701 P1-14-4 Yyi1 イ エイ 
+皽 4E48 U76bd B107 S18 MN22921 P1-13-5 Yzhan3 テン セン シュウ タン かわ {scurf} 
+翺 5544 U7ffa B124 S18 MN28810 P1-12-6 Yao2 Wgo コウ か.ける {soar} {roam} 
+翻 4B5D U7ffb B124 G8 S18 XJ0664C F1465 J1 N3681 V4694 H1897 DP2391 DK1219 DL1676 L1911 DN2060 K1779 DO1551 MN28814X MP9.0135 E1826 IN596 DA606 DF1659 DT1903 DJ760 DG1575 DM1930 P1-12-6 I6b12.3 Q2762.0 DR2253 Yfan1 Wbeon ホン ハン ひるがえ.る ひるがえ.す {flip} {turn over} {wave} {flutter} {change (mind)} 
+虩 5A45 U8669 B141 S18 MN32782 P1-10-8 Yxi4 ケキ キャク サク シャク おそ.れる {fright} 
+覰 5D2E U89b0 B147 S18 XJ15d32 MN34945 P1-11-7 Yqu4 Yqu1 ソ ショ キョ シュ ス うかが.う み.る あら.い {to spy} {to watch for} 
+観 3451 U89b3 B147 G4 S18 XJ06B37 F476 J2 N4296 V5538 H1880 DP2359 DK1212 DL1659 L572 DN614 K463 O2765 DO567 MN34955 MP10.0341 E445 IN604 DA614 DS367 DF890 DH468 DT634 DC302 DJ805 DG1649 DM579 P1-11-7 I5c13.7 Q8621.0 DR2357 Yguan1 Yguan4 Wgwan カン み.る しめ.す {outlook} {look} {appearance} {condition} {view} 
+覲 6B33 U89b2 B147 S18 V5537 MN34952 MP10.0341 P1-11-7 I5c13.8 Q4611.0 Yjin3 Yjin4 Wgeun キン まみ.える {see} {have an audience with} 
+贁 5F40 U8d01 B154 S18 XJ04754 MN36900 P1-14-4 Ybai4 ハイ やぶ.れる {to defeat} {to spoil or be spoiled} {to corrupt or be corrupted} 
+鄽 6252 U913d B163 S18 XJ05725 MN39718 P1-15-3 Ychan2 Wjeon テン みせ やしき たな 
+鄺 6250 U913a B163 S18 MN39711 P1-15-3 Ykuang4 Wgwang コウ {surname} 
+鄼 6251 U913c B163 S18 XJ16254 MN39715 P1-15-3 Yzan4 サン サ あつ.まる 
+雞 6678 U96de B172 S18 XJ0375c XJ07331 XN5359 N5036 V6513 H1839 DP2311 MN42124 P1-10-8 Yji1 Wgye ケイ にわとり とり {chickens} {domestic fowl} 
+雝 6677 U96dd B172 S18 MN42123 P1-10-8 Yyong1 Wong ヨウ ユ やわ.らぐ {marsh} {pool} {harmonious} 
+雛 3F77 U96db B172 G9 S18 XJ16C34 F2241 J1 N5037 V6514 DP2312 DK1197 DL1633 L2085 DN2230 O2888 MN42121 MP11.1027 IN2260 P1-10-8 I8c10.1 Q2041.4 Ychu2 Wchu スウ ス ジュ ひな ひよこ {chick} {squab} {duckling} {doll} 
+難 4671 U96e3 B172 G6 S18 F330 J2 N5038 V6515 H1838 DP2310 DK1196 DL1632 L1580 DN1703 K442 O2760 DO800 MN42128P MP11.1042 E949 IN557 DA566 DS853 DF995 DH960 DT1003 DC351 DJ526 DG1856 DM1594 P1-10-8 I8c10.2 Q4051.4 DR1975 Ynan2 Ynan4 Wnan Wna ナン かた.い -がた.い むずか.しい むづか.しい むつか.しい -にく.い T1 な なに {difficult} {impossible} {trouble} {accident} {defect} 
+雜 7038 U96dc B172 G10 S18 XJ03B28 XN5032 N5035 V6512 H1837 DP2309 DL1631 O2759 MN42122 MP11.1027 P1-10-8 I8c6.2 Q0091.4 Yza2 Wjab ザツ ゾウ まじ.える まじ.る T1 さい {mixed} {blended} {mix} {mingle} 
+騑 693D U9a11 B187 S18 MN44824 P1-10-8 Yfei1 Wbi ヒ そえうま {horse} {run} 
+騋 693A U9a0b B187 S18 MN44809 P1-10-8 Ylai2 Wrae ライ {tall (7 chi) horse} 
+騄 6939 U9a04 B187 S18 MN44787 P1-10-8 Ylu4 Wrog リョク ロク {name of a legendary swift horse} 
+騐 693C U9a10 B187 S18 XJ03833 XJ07164 XN5220 N5217 V6759 MN44821 P1-10-8 Yyan4 ケン あかし しるし ため.す {to verity} {to fulfill} {to examine} {to hold an inquest} 
+騌 693B U9a0c B187 S18 MN44815 P1-10-8 Yzong1 ソウ たてがみ {horse's mane} {bristles} 
+騎 3533 U9a0e B187 G8 S18 F1696 J1 N5222 V6761 H1834 DP2307 DK1193 DL1629 L1981 DN2135 K1734 O2762 DO1174 MN44817 MP12.0530 E1133 IN1881 DA2047 DF1911 DT1912 DJ1874 DG1919 DM2000 P1-10-8 I10a8.3 Q7432.1 DR3449 Yqi2 Yji4 Wgi キ {equestrian} {riding on horses} {counter for equestrians} 
+験 3833 U9a13 B187 G4 S18 XJ07164 XJ1693C F410 J3 N5220 V6758 H1833 DP2306 DK1192 DL1628 L1980 DN2134 K404 DO355 MN44835 MP12.0534 E475 IN532 DA541 DS600 DF282 DH500 DT635 DC385 DJ793 DB2.9 DG1920 DM1999 P1-10-8 I10a8.4 Q7833.6 DR3463 Yyan4 Wheom ケン ゲン あかし しるし ため.す ためし {verification} {effect} {testing} 
+騒 417B U9a12 B187 G8 S18 XJ0715B F1069 J1 N5221 V6760 H1835 DP2308 DK1194 DL1630 L1985 DN2139 K987 DO1093 MN44834P MP12.0534 E1530 IN875 DA895 DF1912 DT1913 DJ794 DG1921 DM2004 P1-10-8 I10a8.5 Q7733.6 DR3471 Ysao1 Wso ソウ さわ.ぐ うれい さわ.がしい {boisterous} {make noise} {clamor} {disturb} {excite} 
+騏 7156 U9a0f B187 S18 N5219 V6757 MN44818 MP12.0532 P1-10-8 I10a8.2 Q7438.1 Yqi2 Wgi キ {fast horse} 
+騅 7157 U9a05 B187 S18 V6756 MN44788 MP12.0527 P1-10-8 I10a8.1 Q7031.4 Yzhui1 Wchu スイ あしげ {grey horse} 
+髁 6962 U9ac1 B188 S18 MN45216 P1-10-8 Yke1 Yke4 Wgwa Whwa カイ ケ カ もも {thigh bone} {hipbone} {kneecap} 
+骿 6961 U9abf B188 S18 MN45204 P1-10-8 Ypian2 Wbyeon ヘン 
+髀 716F U9ac0 B188 S18 N5241 V6790 MN45205 MP12.0579 P1-10-8 I5f14.3 Q7624.0 Ybi4 Wbi Wpye ヒ ヘイ もも {thigh} 
+髜 696D U9adc B189 S18 MN45333 P1-10-8 Yqiao1 キョウ たか.い 
+鯁 6A6E U9bc1 B195 S18 N5298 V6873 H1878 DP2357 MN46171 P1-11-7 I11a7.3 Ygeng3 Wgyeong コウ キョウ {fish bones} {honest} {upright} 
+鯇 6A6F U9bc7 B195 S18 XJ16b25 MN46178 P1-11-7 Yhuan4 Whon Whwan カン あめのうお {carp} 
+鮸 6A69 U9bb8 B195 S18 MN46153 P1-11-7 Ymian3 ベン メン バン マン にべ いしもち 
+鮾 6A6C U9bbe B195 S18 XJ16a74 MN46163 P1-11-7 Ynei3 ダイ ナイ くさ.る 
+鮼 6A6B U9bbc B195 S18 MN46158 P1-11-7 Yqin1 シン 
+鮻 6A6A U9bbb B195 S18 XJ16a45 MN46157 P1-11-7 Ysuo1 サ シャ ショウ さめ ちちぶ 
+鮷 6A68 U9bb7 B195 S18 XJ16a62 XJ16a7d MN46152 P1-11-7 Yti2 イ テイ ダイ シ なまず すけそう 
+鮿 6A6D U9bbf B195 S18 MN46166 P1-11-7 Yzhe2 チョウ ほしうお {dried fish} 
+鯎 6A71 U9bce B195 S18 MN46200 P1-11-7 うぐい {Japanese dace} 
+鯐 6A72 U9bd0 B195 S18 MN46202 P1-11-7 すばしり 
+鯈 6A70 U9bc8 B195 S18 MN46179 P1-2-16 Ychou2 ユウ ユ はや はえ {fish} 
+鯉 3871 U9bc9 B195 G9 S18 F2369 J1 N5299 V6874 H1879 DP2358 DK1211 DL1658 L176 DN188 O2764 DO1991 MN46182 MP12.0750 IN2271 DM178 P1-11-7 I11a7.2 Q2631.4 Yli3 Wri リ こい {carp} 
+鯀 7241 U9bc0 B195 S18 V6865 MN46168 MP12.0748 P1-11-7 I11a7.4 Q2239.3 Ygun3 Wgon コン {large mythical fish} {proper name} 
+鮹 7243 U9bb9 B195 S18 N5297 V6871 MN46154 MP12.0747 P1-11-7 I11a7.6 Q2932.7 Yshao1 Wso ショウ ソウ たこ {octopus} 
+鯆 7244 U9bc6 B195 S18 V6866 MN46177 MP12.0749 P1-11-7 I11a7.1 Q2332.7 Yfu3 Wpo フ ホ いるか {type of herring} 
+鯏 7245 U9bcf B195 S18 V6868 MN46201 MP12.0751 P1-11-7 I11a7.5 Q2230.0 Wri あさり うぐい {short necked clam} {dace} {chub} {(kokuji)} 
+鯑 7246 U9bd1 B195 S18 V6869 MN46203 MP12.0751 P1-11-7 I11a7.8 Q2432.7 Wheui かずのこ {yellow fish (herring) eggs (sushi)} {(kokuji)} 
+鯒 7247 U9bd2 B195 S18 N5296 V6870 MN46204 MP12.0751 P1-11-7 I11a7.7 Q2732.7 Yyong3 Wtong こち {flathead (fish)} {(kokuji)} 
+鵔 6B73 U9d54 B196 S18 MN46930 P1-11-7 Yxun4 Wjun シュン 
+黟 6C75 U9edf B203 S18 MN48091 P1-12-6 Yyi1 Wi エイ イ こくたん {black and shining} {ebony} 
+黠 735C U9ee0 B203 S18 N5409 V7061 MN48097 MP12.1028 P1-12-6 I4d14.6 Q6436.1 Yxia2 Whil カツ さと.い わるがしこ.い {crafty} 
+鼦 6D32 U9f26 B208 S18 XJ06c3a MN48416 P1-13-5 Ydiao1 チョウ てん 
+鼪 6D33 U9f2a B208 S18 MN48423 P1-13-5 Ysheng1 セイ ショウ ソウ いたち {weasel} 
+鼫 6D34 U9f2b B208 S18 MN48424 P1-13-5 Yshi2 Wseog セキ ジャク むささび {marmot} {squirrel} 
+齕 6D46 U9f55 B211 S18 MN48590 P1-15-3 Yhe2 Wheul コツ ゴチ ケツ か.む {gnaw} {bite} {nibble} 
+願 346A U9858 B4 C181 G4 S19 F894 J2 N255 V6653 H1845 DP2320 DK1199 DL1637 L135 DN143 K869 DO428 MN43623 MP12.0293 E446 IN581 DA590 DS368 DF1011 DH469 DT637 DJ862 DB2.15 DG1897 DM137 P1-10-9 I9a10.2 Q7128.6 DR3361 ZPP3-3-16 Yyuan4 Wweon ガン ねが.う -ねがい T1 ら {petition} {request} {vow} {wish} {hope} 
+儳 3260 U5133 B9 S19 MN1296 P1-2-17 Ychan4 Wcham サン ととのわぬ はや.い わる.い {obstinate} {stupid} {uneven} {mix} 
+儴 3261 U5134 B9 S19 MN1297 P1-2-17 Yrang2 Wsang ショウ ソウ よ.る さまよ.う 
+儵 3262 U5135 B9 S19 MN1299 P1-2-17 Yshu4 Wsug シュウ はや.い 
+劖 3354 U5296 B18 S19 MN2273 P1-17-2 Ychan2 Wcham サン た.つ けず.る {make into mince} {cut} 
+勷 337A U52f7 B19 S19 MN2485 P1-17-2 Yrang2 Wyang ジョウ ニョウ はし.る {urgent} {in haste} {hurriedly} {help} 
+勸 5230 U52f8 B19 S19 XJ0342B XN736 N739 V563 H1918 DP2413 MN2486X MP2.0419 P1-17-2 I2g11.1 Q4422.7 Yquan4 Wgweon カン ケン すす.める {persuade} {recommend} {advise} {encourage} {offer} 
+嚭 3665 U56ad B30 S19 MN4564 P1-12-7 Ypi3 Wbi ヒ おお.きい {mound} {lump} {stealthily} 
+壡 385B U58e1 B32 S19 XJ03143 XJ0624f MN5595 P1-14-5 Yrui4 エイ あき.らか 
+歠 4578 U6b60 B76 S19 MN16228 P1-15-4 Ychuo4 Wcheol セツ セチ の.む {sip} {drink} {suck} 
+獸 6059 U7378 B94 G10 S19 XJ03D43 XN2090 N2914 V3612 H1915 DP2410 DL1687 MN20775 MP7.0757 P1-15-4 I3g12.3 Q6363.4 Yshou4 Wsu ジュウ けもの けだもの {beast} {animal} {bestial} 
+翽 5545 U7ffd B124 S19 MN28823 P1-13-6 Yhui4 カイ ケ はばたき {whirr} 
+翾 5546 U7ffe B124 S19 MN28824 P1-13-6 Yxuan1 Whyeon ケン とぶ {fly} {to flit} 
+艶 3170 U8276 B139 G8 S19 XJ06766 XJ15E6C XJ15E6D F2207 J1 N3890 V4957 H1908 DP2403 DK1222 DL1683 L1755 DN1892 O2833 DO1914 MN30632 MP9.0515 IN2209 DA990 DM1771 P1-13-6 I3d16.3 Q5711.7 Yyan4 Wyeom エン つや なま.めかしい あで.やか つや.めく なま.めく T1 もろ よし {glossy} {luster} {glaze} {polish} {charm} {colorful} {captivating} 
+覴 5D2F U89b4 B147 S19 MN34958 P1-12-7 Ydeng1 トウ チョウ み.つめる 
+覵 5D30 U89b5 B147 S19 MN34959 P1-12-7 Yjian4 カン ケン ヘン エン みる うかが.う まぜる {steal look} {peep at} {spy on} 
+覶 5D31 U89b6 B147 S19 XJ15d33 MN34962 P1-12-7 Yluo2 ラ ラン レン み.る {to look about} {order} {sequence} {complicated thought which is not easy to express} 
+覷 5D32 U89b7 B147 S19 XJ15d2e MN34969 P1-12-7 Yqu4 Yqu1 Wcheo ソ ショ キョ シュ ス うかが.う み.る あら.い {peep at} {watch} {spy on} 
+辭 6D66 U8fad B160 S19 XJ03C2D XJ1612D XJ16130 XN3860 N4650 V6004 H1899 DP2393 O2890 MN38671 MP10.1087 P1-12-7 I5b8.4 Q2024.1 Yci2 Wsa ジ や.める {words} {speech} {expression} {phrase} 
+離 4E25 U96e2 B172 G8 S19 F555 J1 N5040 V6517 H1836 DP2364 DK1195 DL1663 L1492 DN1605 K641 O2889 DO909 MN42140X MP11.1042 E1897 IN1281 DA1355 DF1887 DT1923 DJ1008 DG1857 DM1505 P1-11-8 I8c10.3 Q0041.4 DR475 Yli2 Wri リ はな.れる はな.す {detach} {separation} {disjoin} {digress} 
+顚 6833 U985a B181 G9 S19 XJ0453f V6651 DP2317 DL1635 MN43628 P1-10-9 Ydian1 Wjeon テン いただ.き たお.れる {top} {peak} {summit} {upset} 
+顙 6832 U9859 B181 S19 MN43624 P1-10-9 Ysang3 Wsang ソウ ひたい {the forehead} {to kowtow} 
+顖 6830 U9856 B181 S19 XJ13675 MN43610 P1-10-9 Yxin4 Wsin シン シ ひよめき {top of the head} {skull} 
+顗 6831 U9857 B181 S19 MN43614 P1-10-9 Yyi3 ギ ゲ ガイ うやうや.しい {quiet} 
+顛 453F U985b B181 S19 XJ16833 N5140 V6652 H1843 DP2318 L2789 DN2809 MN43628X MP12.0295 P1-10-9 I9a10.1 Q2188.6 Ydian1 Wjeon テン いただき たお.れる {overturn} {summit} {origin} 
+颿 6843 U98bf B182 S19 MN43930 P1-10-9 Yfan2 Wbeom ハン ボン ヘン はし.る {sail} 
+颻 6842 U98bb B182 S19 MN43917 P1-10-9 Yyao2 ヨウ {floating in air} {drifting with wind} 
+騧 6944 U9a27 B187 S19 MN44878 P1-10-9 Ygua1 カ イ カイ ゲ {tan horse} 
+騞 693F U9a1e B187 S19 MN44860 P1-10-9 Yhuo4 カク キャク バク ミャク 
+騤 6943 U9a24 B187 S19 MN44870 P1-10-9 Ykui2 キ ケツ ケチ すす.む {(of a horse) lively} {vigorous} 
+騠 6940 U9a20 B187 S19 MN44863 P1-10-9 Yti2 テイ ダイ {horse} 
+騢 6941 U9a22 B187 S19 MN44867 P1-10-9 Yxia2 カ ゲ つきげ {bay} 
+騣 6942 U9a23 B187 S19 MN44868 P1-10-9 Yzong1 ソウ ス たてがみ {mane} 
+騨 424D U9a28 B187 S19 V6762 L2804 DN2819 MN45002 MP12.0553 P1-10-9 I10a12.3 Q7635.6 ZRP1-10-12 Ytuo2 Ytan2 Wtan Wta タン ダン タ ダ テン {dappled grey horse} 
+騙 7159 U9a19 B187 S19 N5223 V6763 H1841 DP2314 L2806 DN2821 MN44849X MP12.0535 P1-10-9 I10a9.1 Q7332.7 Ypian4 Wpyeon ヘン かた.る だま.す {deceive} 
+髃 6963 U9ac3 B188 S19 MN45236 P1-10-9 Yyu2 グ ゴウ ガイ {shoulder bone} 
+髄 3F71 U9ac4 B188 G8 S19 XJ0673B XJ07172 XDR3667 F1652 J1 N5242 V6791 H1842 DP2316 DK1198 DL1634 L1290 DN1385 K1833 O2826 DO1697 MN45240P MP12.0581 E1463 IN1740 DA1863 DF1915 DT1926 DJ1793 DG1923 DM1299 P1-10-9 I4b14.3 Q7423.2 DR3646 ZSP1-10-8 Ysui3 Wsu ズイ {marrow} {pith} {essence} 
+鬷 6A36 U9b37 B193 S19 MN45702 P1-10-9 Yzong1 ソウ ス あつ.まる {pot} 
+鯧 6A78 U9be7 B195 S19 MN46255 P1-11-8 Ychang1 Wchang ショウ まながつお {pomfret} {stromateoides argenteus} 
+鯟 6A76 U9bdf B195 S19 MN46238 P1-11-8 Ydong1 トウ ツ 
+鯝 6A75 U9bdd B195 S19 MN46235 P1-11-8 Ygu4 Wgo コ ク はらわた {fish guts} 
+鯪 6A79 U9bea B195 S19 MN46259 P1-11-8 Yling2 Wreung リョウ せんざんこう {carp} 
+鯥 6A77 U9be5 B195 S19 MN46249 P1-11-8 Ylu4 リク ロク むつ 
+鯘 6A74 U9bd8 B195 S19 XJ16a6c MN46214 P1-11-8 Ynei3 ダイ ナイ くさ.る 
+鯯 6A7B U9bef B195 S19 MN46262 P1-11-8 Yzhi2 セイ このしろ 
+鯫 6A7A U9beb B195 S19 MN46260 P1-11-8 Yzou1 Wchu ソウ ス みごい {small fish} {small} {minnow} 
+鯳 6A7C U9bf3 B195 S19 MN0 P1-11-8 テイ すけそう 
+鯵 3033 U9bf5 B195 S19 XJ0724D XN5324 V6875 L2818 DN2833 P1-11-8 I11a11.2 Q2332.2 Ysao1 Wso ソウ あじ {horse mackerel} 
+鯨 375F U9be8 B195 G8 S19 F1486 J1 N5307 V6886 H1882 DP2361 DK1214 DL1661 L315 DN337 K1768 O2831 DO1345 MN46257 MP12.0754 E1208 IN700 DA713 DF1921 DT1927 DJ915 DG1933 DM321 P1-11-8 I11a8.9 Q2039.6 DR2541 Yjing1 Wgyeong ゲイ くじら {whale} 
+鯖 3B2A U9bd6 B195 S19 N5301 V6883 L2820 DN2835 O2830 MN46210X MP12.0751 P1-11-8 I11a8.6 Q2532.7 Yqing1 Yzheng1 Wcheong セイ ショウ さば {mackerel} 
+鯛 4264 U9bdb B195 G9 S19 XJ16A57 F2446 J1 N5305 V6884 H1881 DP2360 DK1213 DL1660 L2812 DN2827 O2832 DO1971 MN46226P MP12.0752 IN2272 P1-11-8 I11a8.11 Q2732.0 Ydiao1 Wjo チョウ たい {sea bream} {red snapper} 
+鯣 7248 U9be3 B195 S19 N5303 V6881 MN46246 MP12.0753 P1-11-8 I11a8.5 Q2632.7 Yyi4 Wyeog エキ するめ {cuttlefish} 
+鯢 7249 U9be2 B195 S19 V6876 MN46245 MP12.0753 P1-11-8 I11a8.3 Q2731.7 Yni2 Wye ゲイ さんしょううお {salamander} {female whale} {small fish} {old person's teeth} 
+鯤 724A U9be4 B195 S19 V6877 MN46247 MP12.0754 P1-11-8 I11a8.4 Q2631.1 Ykun1 Wgon コン {large mythical fish} {roe} 
+鯔 724B U9bd4 B195 S19 N5304 V6882 MN46208 MP12.0751 P1-11-8 I11a8.7 Q2236.3 Yzi1 Wchi シ ぼら とど {mullet (fish)} 
+鯡 724C U9be1 B195 S19 N5302 V6880 MN46243 MP12.0753 P1-11-8 I11a8.2 Q2131.1 Yfei1 Wbi ヒ にしん はららご {herring} 
+鯲 724E U9bf2 B195 S19 V6878 MN46287X MP12.0757 P1-11-8 I11a8.1 Q2833.3 Weo どじょう {loach} {lamprey} {(kokuji)} 
+鯱 724F U9bf1 B195 S19 N5306 V6885 MN46286 MP12.0757 P1-11-8 I11a8.10 Q2131.7 Who しゃちほこ しゃち {fabulous dolphin-like fish} {killer whale} {(kokuji)} 
+鯰 7250 U9bf0 B195 S19 N5300 V6879 O2829 MN46285 MP12.0757 P1-11-8 I11a8.8 Q2833.2 Ynian2 Ynian3 Wyeom ネン なまず {fresh-water catfish} {(kokuji)} 
+鵻 6B7E U9d7b B196 S19 MN47031 P1-11-8 Yzhui1 Wchu スイ シュン こばと {pigeon} 
+鶃 6C23 U9d83 B196 S19 MN47047 P1-11-8 Ye4 ゲキ {hawk} 
+鹸 3834 U9e78 B197 S19 XJ14F7C XJ16C5B N5374 V7013 L2867 DN2880 MN47576X MP12.0897 P1-11-8 I3s21.1 Q2868.6 Yjian3 Wgam ケン カン セン あ.く {saltiness} 
+麒 734A U9e92 B198 G9 S19 N5380 V7025 DP2363 DL1662 L2840 DN2854 MN47657 MP12.0915 P1-11-8 I3q16.4 Q0428.1 Yqi2 Wgi キ {Chinese unicorn} {genius} {giraffe} {bright} {shining} 
+麳 6C6E U9eb3 B199 S19 MN47808 P1-11-8 Ylai2 ライ リョク リキ リ こむぎ むぎ 
+麴 6C6F U9eb4 B199 S19 XJ0396d V7037 MN47818 P1-11-8 Yqu2 Yqu1 Wgug キク こうじ {yeast} {leaven} {surname} 
+黼 7365 U9efc B204 S19 V7070 MN48252 MP12.1041 P1-12-7 I0a19.1 Q3322.7 Yfu3 Wbo フ ホ あや {embroidery} 
+齁 6D3F U9f41 B209 S19 MN48519 P1-14-5 Yhou1 コウ ク コ かぎばな {snore loudly} {very} {extremely} 
+齗 6D48 U9f57 B211 S19 MN48600 P1-15-4 Yken3 Weun キン はぐき {gums (of the teeth)} {to dispute} 
+齘 6D49 U9f58 B211 S19 MN48603 P1-15-4 Yxie4 カイ 
+齖 6D47 U9f56 B211 S19 MN48599 P1-15-4 Yya2 ガ ゲ 
+斅 4157 U6585 B66 S20 XJ03358 XJ0555c XJ0555d MN13431 P1-16-4 Yxue2 Whyo ガク まな.ぶ {teach} {instruct} {be aroused} {awake} {intelligent} 
+朇 426F U6707 B73 S20 XJ06a6b MN14325 P1-11-9 Ypi2 Ybi4 ヒ おぎな.う たす.ける ます 
+獻 605B U737b B94 S20 XJ03825 XN2901 N2916 V3614 H1917 DP2412 O2891 MN20783 MP7.0759 P1-16-4 I3g9.6 Q2323.4 Yxian4 Wheon Wsa ケン コン たてまつ.る {offer} {present} {show} {display} 
+競 3625 U7af6 B117 G4 S20 F610 J2 N3364 V4244 H1847 DP2322 DK1200 DL1639 L434 DN465 K609 O2927 DO464 MN25831 MP8.7280 E463 IN852 DA871 DS379 DF789 DH487 DT640 DJ1020 DG1463 DM441 P1-10-10 I5b15.1 Q0021.6 DR457 ZPP2-10-10 Yjing4 Wgyeong キョウ ケイ きそ.う せ.る くら.べる T1 かい わたなべ {emulate} {compete with} {bid} {sell at auction} {bout} {contest} {race} 
+翿 5547 U7fff B124 S20 MN28827 P1-14-6 Ydao4 トウ はたぼこ {streamer adorned with feathers} 
+豑 5E6B U8c51 B151 S20 MN36318 P1-13-7 Yzhi4 チツ ジュチ 
+酃 6253 U9143 B163 S20 MN39742 P1-17-3 Yling2 レイ リョウ {the spirit of a being} {which acts upon others spirit} {divine} {efficacious} 
+韜 706B U97dc B178 S20 XJ1607E XJ1674E N5108 V6603 O2884 MN43189 MP12.0213 P1-10-10 I3d17.3 Q4257.7 Ytao1 Wdo トウ ゆぶくろ ゆみぶくろ つつ.む {bag} {wrapping} 
+顢 6834 U9862 B181 S20 MN43660 P1-11-9 Yman2 Yman1 バン マン おおきなかお {dawdling} {thoughtless} {careless} 
+顣 6835 U9863 B181 S20 MN43664 P1-11-9 Yqi1 シュク セキ シャク まゆをひそ.める {frown} 
+飄 7128 U98c4 B182 S20 XJ07129 N5151 V6669 MN43946 MP12.0355 P1-11-9 I6d14.4 Q1791.0 Ypiao1 Wpyo ヒョウ ひるが.える つむじかぜ {turn over} {wave} 
+騳 6947 U9a33 B187 S20 MN44921 P1-10-10 Ydu2 トク はし.る {run} {race} 
+騮 6946 U9a2e B187 S20 XJ16933 XJ16952 MN44912 P1-10-10 Yliu2 リュウ ル くりげ {famous horse} 
+騸 694A U9a38 B187 S20 MN44937 P1-10-10 Yshan4 Wseon セン {geld} {castrate} 
+騵 6948 U9a35 B187 S20 MN44925 P1-10-10 Yyuan2 Wweon ゲン ガン ガ {bay} 
+騶 6949 U9a36 B187 S20 MN44928 P1-10-10 Yzou1 Wchu シュウ シュ ス チュ スウ うまかい {mounted escort} {groom} 
+騷 715B U9a37 B187 G10 S20 XJ0417B XN5221 N5224 V6764 H1846 DP2321 DL1638 MN44935 MP12.0544 P1-10-10 I10a8.5 Q7733.6 Ysao1 Wso ソウ さわ.ぐ うれい さわが.しい {harass} {bother} {annoy} {disturb} {agitate} {sad} {grieved} 
+髈 6965 U9ac8 B188 S20 MN45246 P1-10-10 Ybang3 ホウ もも {pelvis} {hip-bone} {humerus} 
+髆 6964 U9ac6 B188 S20 MN45241 P1-10-10 Ybo2 Wbag ハク かいがらぼね {shoulder blade} 
+鯷 6A7D U9bf7 B195 S20 XJ16a62 XJ16a68 N5310 V6894 MN46290 P1-11-9 I11a9.11 Yshi4 Wje イ テイ ダイ シ ひしこ なまず すけそう {anchovy} 
+鯸 6A7E U9bf8 B195 S20 MN46291 P1-11-9 Yhou2 コウ グ ふぐ {blowfish} 
+鯽 6B23 U9bfd B195 S20 N5312 V6896 MN46304 P1-11-9 I11a9.3 Yji4 Wjeug セキ シャク ショク ソク ふな たなご {carassius auratus} {crucian carp} {surf perch} 
+鰏 6B28 U9c0f B195 S20 MN46336 P1-11-9 Ybi4 ヒョク ヒキ 
+鯿 6B24 U9bff B195 S20 MN46306 P1-11-9 Ybian1 Wpyeon ヘン おしきうお {bream} 
+鰀 6B25 U9c00 B195 S20 XJ16a6f MN46307 P1-11-9 Yhuan4 カン あめのうお 
+鰂 6B26 U9c02 B195 S20 MN46309 P1-11-9 Yji4 ソク いか {cuttlefish} 
+鯺 6B22 U9bfa B195 S20 MN46296 P1-11-9 Yju1 ショ ふぐ {blowfish} 
+鰙 6B2C U9c19 B195 S20 MN46356 P1-11-9 Yruo4 ハヤ わかさぎ 
+鰖 6B2A U9c16 B195 S20 MN46347 P1-11-9 Ytuo3 タ 
+鯹 6B21 U9bf9 B195 S20 XJ16a5b MN46293 P1-11-9 Yxing1 セイ ショウ ソウ なまぐさ.い なまぐさ さけ 
+鰋 6B27 U9c0b B195 S20 MN46326 P1-11-9 Yyan3 エン オン なまず {sheat} 
+鰑 6B29 U9c11 B195 S20 MN46339 P1-11-9 Yyang2 ヨウ うなぎ するめ 
+鰚 6B2D U9c1a B195 S20 MN46357 P1-11-9 はらか 
+鰘 6B2B U9c18 B195 S20 MN46355 P1-11-9 ムロア むろあじ 
+鰍 3362 U9c0d B195 S20 N5311 V6895 L2823 DN2838 O2887 MN46331 MP12.0760 P1-11-9 I11a9.2 Q2938.0 Yqiu1 Wchu シュウ シュ かじか いなだ どじょう {bullhead} 
+鰐 4F4C U9c10 B195 S20 N5317 V6901 L2824 DN2839 MN46337 MP12.0760 P1-11-9 I11a9.5 Q2632.7 Ye4 Wag ガク わに {alligator} {crocodile} 
+鰕 7251 U9c15 B195 S20 N5308 V6892 O2886 MN46346 MP12.0761 P1-11-9 I11a9.4 Q2734.7 Yha2 Yxia1 Wha カ えび {shrimp} {prawn} {lobster} 
+鰔 7252 U9c14 B195 S20 V6891 MN46345 MP12.0761 P1-11-9 I11a9.12 Q2335.0 Yjian3 Wgam カン かれい たら {flatfish} {turbot} {cod} 
+鰉 7253 U9c09 B195 S20 V6890 MN46323 MP12.0759 P1-11-9 I11a9.10 Q2631.4 Yhuang2 Whwang コウ ちょうざめ ひがい {sturgeon} 
+鰓 7254 U9c13 B195 S20 N5315 V6900 MN46344 MP12.0761 P1-11-9 I11a9.7 Q2633.0 Ysai1 Yxi3 Wsae サイ シ えら {gills} {gill slits} 
+鰌 7255 U9c0c B195 S20 N5314 V6899 MN46330 MP12.0759 P1-11-9 I11a9.14 Q2836.1 Yqiu1 Wchu シュ シュウ どじょう {loach (fish)} 
+鰆 7256 U9c06 B195 S20 V6889 MN46317 MP12.0759 P1-11-9 I11a9.8 Q2536.3 Ychun1 Wchun シュン さわら {Spanish mackerel} 
+鰈 7257 U9c08 B195 S20 XJ16B34 N5313 V6898 MN46322 MP12.0759 P1-11-9 I11a9.9 Q2439.4 Ydie2 Wjeob Wtab チョウ トウ かれい {sole} {flatfish} {flounder} 
+鰒 7258 U9c12 B195 S20 N5316 V6897 MN46340 MP12.0760 P1-11-9 I11a9.6 Q2834.7 Yfu4 Wbog フク あわび ふぐ {abalone} {puffer fish} 
+鰊 7259 U9c0a B195 S20 N5309 V6893 MN46325 MP12.0753 P1-11-9 I11a9.1 Q2539.6 Ylian4 Wryeon レン にしん {herring} 
+鰄 725A U9c04 B195 S20 V6888 MN46314 MP12.0759 P1-11-9 I11a9.13 Q2335.0 Ywei1 Weui イ {a type of fish} 
+鰛 725C U9c1b B195 S20 XJ0725B XN5319 V6887 P1-11-9 I11a10.7 Q2631.7 Ywen1 Won オン いわし {sardine} 
+鹹 7344 U9e79 B197 S20 XJ16269 N5373 V7014 H1885 DP2366 MN47553 MP12.0896 P1-11-9 I4n16.1 Q2365.0 Yxian2 Wham カン ダイ から.い しおからい しおけ せいしゅ {salty} 
+麵 6C70 U9eb5 B199 S20 XJ04c4d XJ07351 V7039 DP4144 MN47827 P1-11-9 Ymian4 Wmyeon メン ベン むぎこ {flour} {dough} {noodles} 
+黤 6C76 U9ee4 B203 S20 XJ16c79 MN48117 P1-12-8 Yyan3 エン アン オン あおぐろい {blue-black} 
+黥 735D U9ee5 B203 S20 N5410 V7063 MN48123 MP12.1030 P1-12-8 I4d16.1 Q6039.6 Yqing2 Yjing1 Wgyeong ケイ ゲイ いれずみ {tatooing} 
+鼯 6D35 U9f2f B208 S20 MN48441 P1-13-7 Ywu2 Wo ゴ むささび {flying squirrel} 
+齝 6D4B U9f5d B211 S20 N5430 V7092 MN48622 P1-15-5 I3d17.5 Ychi1 チ シ にれ.がむ にげ.かむ {chew the cud} 
+齞 6D4C U9f5e B211 S20 MN48626 P1-15-5 Ynian4 ゲン {to display the teeth} 
+齚 6D4A U9f5a B211 S20 XJ16d52 MN48614 P1-15-5 Yze2 サク ジャク サ ジャ か.む {to chew} 
+齣 7371 U9f63 B211 S20 N5429 V7091 MN48638 MP12.1102 P1-15-5 I3d17.6 Q2772.0 Ychu1 Wcheog シャク シュツ セキ こま {a paragraph} {section} 
+齟 7372 U9f5f B211 S20 N5432 V7095 DN2887 MN48627 MP12.1101 P1-15-5 I2a18.1 Q2771.0 Yju3 Wjeo Wseo ソ サ ショ かむ {uneven} {bite} {disagree} 
+齠 7373 U9f60 B211 S20 V7090 MN48631X MP12.1101 P1-15-5 I3d17.4 Q2776.2 Ytiao2 Wcho チョウ {baby teeth} {young child} 
+齡 7374 U9f61 B211 S20 XJ04E70 XN5431 V7094 H1916 DP2411 O2930 MN48632 MP12.1102 P1-15-5 I6b11.5 Q2873.7 Yling2 Wryeong レイ よわ.い とし {age} 
+儸 3263 U5138 B9 S21 MN1313 P1-2-19 Yluo2 Wra ラ さば.く {bandit} {dare-devil} 
+儹 3264 U5139 B9 S21 XJ1325a MN1315 P1-2-19 Yzan3 Yzuan3 Wchan サン あつ.める あつ.まる {to accumulate} {to hoard} {to store up} 
+儺 5135 U513a B9 S21 N567 V337 MN1317 MP1.0967 P1-2-19 I2a19.1 Q2021.4 Ynuo2 Wna ナ ダ おにやらい {exorcism} 
+儷 5136 U5137 B9 S21 N566 V336 MN1311 MP1.0966 P1-2-19 I2a19.2 Q2121.1 Yli4 Wryeo レイ つれあい ならぶ {companion} 
+劗 3355 U5297 B18 S21 MN2279 P1-19-2 Ycuan2 Wchan サン セン へ.らす き.る 
+劘 3356 U5298 B18 S21 MN2281 P1-19-2 Ymo2 Wma バ マ ビ ミ けず.る する わ.ける {make into mince} 
+歡 5D44 U6b61 B76 S21 XJ0343F XN2425 N2428 V2953 H1919 DP2414 MN16242X MP6.0652 P1-17-4 I4j11.1 Q4728.2 Yhuan1 Whwan カン よろこ.ぶ {delight} {joy} 
+覼 5D33 U89bc B147 S21 XJ15d31 MN34980 P1-14-7 Yluo2 ラ ラン レン み.る {explain in detail} 
+顥 6836 U9865 B181 S21 N5142 V6654 MN43682 P1-12-9 I9a12.1 Yhao4 Who コウ しろ.い {luminous} {clarity} {white} {hoary} 
+顦 6837 U9866 B181 S21 MN43688 P1-12-9 Yqiao2 Wcho ショウ やつ.れる {be worn-out} {emaciated} {haggard} 
+顧 385C U9867 B181 G8 S21 F1058 J1 N5141 V6655 H1900 DP2394 DK1220 DL1677 L1084 DN1165 K1388 O2929 DO1341 MN43689P MP12.0303 E1235 IN1554 DA1656 DF1902 DT1941 DJ1648 DG1898 DM1093 P1-12-9 I9a12.2 Q3128.6 DR3061 Ygu4 Wgo コ かえり.みる T1 たか み {look back} {review} {examine oneself} {turn around} 
+飆 712A U98c6 B182 S21 XJ1683C XJ1683F XJ16846 V6671 MN43963 MP12.0358 P1-12-9 I6d15.4 Q4741.0 Ybiao1 Wpyo ヒョウ つむじかぜ {whirlwind} 
+飜 664C U98dc B183 G10 S21 XJ04B5D XN3681 N5153 V6673 H1902 DP2396 DL1678 MN44009 MP12.0371 P1-12-9 I6b12.3 Q2261.3 Yfan1 Wbeon ハン ホン ひるがえ.す ひるがえ.る {flip over} {upset} {capsize} 
+驄 694D U9a44 B187 S21 MN44967 P1-10-11 Ycong1 Wchong ソウ ス あしげ {horse with a bluish white color} 
+驅 715C U9a45 B187 S21 XJ0366E XJ0366F XJ14154 XN5200 N5225 V6768 H1848 DP2323 MN44968 MP12.0548 P1-10-11 I10a4.5 Q7131.6 Yqu1 Wgu ク か.ける か.る {spur a horse on} {expel} {drive away} 
+驂 715D U9a42 B187 S21 V6769 MN44965 MP12.0547 P1-10-11 I10a11.2 Q7332.2 Ycan1 Wcham サン そえうま {extra driver or horse} 
+驃 715F U9a43 B187 S21 V6770 MN44966 MP12.0548 P1-10-11 I10a11.1 Q7139.1 Ypiao4 Ybiao1 Wpyo ヒョウ {white horse} 
+騾 7160 U9a3e B187 S21 N5226 V6771 MN44957 MP12.0546 P1-10-11 I10a11.3 Q7639.3 Yluo2 Wra ラ {mule} 
+髎 6966 U9ace B188 S21 MN45264 P1-10-11 Yliao2 リョウ ロオ リュウ こしぼね {hip-bone} 
+髏 7170 U9acf B188 S21 N5243 V6792 MN45267 MP12.0582 P1-10-11 I4b17.1 Q7524.4 Ylou2 Wru ロ {skull} 
+鬺 6A38 U9b3a B193 S21 MN45716 P1-10-11 Yshang1 Wsang ショウ に.る 
+鰪 6B36 U9c2a B195 S21 MN46396 P1-11-10 Yge2 コウ オウ まながつお 
+鰜 6B2E U9c1c B195 S21 MN46359 P1-11-10 Yjian1 ケン カン ゲン にしん {big-mouthed flounder} 
+鰢 6B30 U9c22 B195 S21 MN46377 P1-11-10 Yma3 バ メ うみえび つくら すばしり 
+鰣 6B31 U9c23 B195 S21 MN46378 P1-11-10 Yshi2 Wsi シ このしろ はす {Reeves' shad} {hilsa herring} 
+鰨 6B34 U9c28 B195 S21 XJ07257 MN46388 P1-11-10 Yta4 Yta3 Wtab チョウ トウ かれい {sole} 
+鰞 6B2F U9c1e B195 S21 MN46364 P1-11-10 Ywu1 Ywu4 オ ウ いか {squid} 
+鰩 6B35 U9c29 B195 S21 MN46390 P1-11-10 Yyao2 Wyo ヨウ えい {the nautilus} {the ray} 
+鰦 6B32 U9c26 B195 S21 MN46383 P1-11-10 Yzi1 シ はや 
+鰯 3073 U9c2f B195 G9 S21 N5318 V6904 DP2367 DL1665 L2813 DN2828 MN46413X MP12.0765 P1-11-10 I11a10.3 Q2732.7 Yruo4 Wyag いわし {sardine} {(kokuji)} 
+鰭 4949 U9c2d B195 S21 N5322 V6907 L2827 DN2842 MN46400 MP12.0765 P1-11-10 I11a10.4 Q2436.1 Yqi2 Wgi キ ギ ひれ {fin} 
+鰮 725B U9c2e B195 S21 XJ0725C N5319 V6905 MN46403 MP12.0765 P1-11-10 I11a10.7 Q2631.7 Ywen1 Won オン いわし {sardine} 
+鰥 725D U9c25 B195 S21 XJ16B4B N5321 V6908 MN46382 MP12.0763 P1-11-10 I11a10.5 Q2633.3 Yguan1 Whwan カン コン やもめ やもお {widower} {unmarried man} 
+鰤 725E U9c24 B195 S21 XJ16A4C N5320 V6906 MN46381 MP12.0763 P1-11-10 I11a10.1 Q2132.7 Yshi1 Wsa シ ソウ ぶり はまち かます {yellowtail} 
+鰡 725F U9c21 B195 S21 V6902 MN46374 MP12.0762 P1-11-10 I11a10.6 Q2736.2 Yliu2 Wryu リュウ ル ぼら {type of fish} {mullet} 
+鰰 7260 U9c30 B195 S21 V6903 MN46414 MP12.0765 P1-11-10 I11a10.2 Q2530.6 Wsin はたはた {sandfish} {(kokuji)} 
+鶬 6C31 U9dac B196 S21 MN47164 P1-10-11 Ycang1 Wchang ソウ ショウ まなづる {oriole} 
+鶵 6C34 U9db5 B196 S21 XJ03f77 DP2325 MN47186 P1-10-11 Ychu2 Wchu スウ ス ジュ ひな ひよこ {chick} {fledging} {infant} {toddler} 
+鶮 6C32 U9dae B196 S21 MN47167 P1-10-11 Yge4 コク カク つる 
+鶼 6C36 U9dbc B196 S21 MN47199 P1-10-11 Yjian1 ケン カン ついば.む {fabulous mythical bird} 
+鶹 6C35 U9db9 B196 S21 MN47195 P1-10-11 Yliu2 Wryu リュウ ル みみずく {the owl} 
+鷊 6C3B U9dca B196 S21 MN47221 P1-10-11 Yni4 ゲキ ギャク {pheasant} 
+鷉 6C3A U9dc9 B196 S21 MN47220 P1-10-11 Yti2 テイ 
+鷃 6C38 U9dc3 B196 S21 XJ16b68 MN47208 P1-10-11 Yyan4 アン エン うずら {quail} 
+鷇 6C39 U9dc7 B196 S21 MN47218 P1-17-4 Ykou4 Wgu コウ ク カク コク ひな {chicks} {fledglings} 
+鶴 4461 U9db4 B196 G8 S21 XJ16730 XJ16731 XJ16C55 F1369 J1 N5365 V6995 H1850 DP2326 DK1201 DL1641 L1943 DN2093 K1120 O2926 DO1917 MN47185 MP12.0858 IN2277 DA950 DM1962 P1-10-11 I11b10.1 Q4722.7 DR1650 Yhe4 Yhao2 Whag カク つる T1 たず ず か つ づ {crane} {stork} 
+鶲 7330 U9db2 B196 S21 V6986 MN47179 MP12.0858 P1-10-11 I11b10.7 Q8712.7 Q8722.7 Yweng1 Wong ひたき {crested flycatcher} {peewee} 
+鷄 7331 U9dc4 B196 G10 S21 XJ0375C XJ16678 XN5359 N5361 V6985 H1849 DP2324 DL1640 O2973A MN47209 MP12.0866 P1-10-11 I11b8.4 Q2742.7 Yji1 Wgye ケイ にわとり とり {chicken} 
+鷁 7332 U9dc1 B196 S21 V6988 MN47206 MP12.0865 P1-10-11 I11b10.8 Q8712.7 Yyi4 Yni4 Wig ゲキ {waterfowl which flies high but not against the wind} 
+鶻 7333 U9dbb B196 S21 V6987 MN47198 MP12.0864 P1-10-11 I11b10.4 Q7722.7 Ygu3 Yhu2 Ygu2 Wgol コツ カツ はやぶさ {falcon} {eagle} 
+鶸 7334 U9db8 B196 S21 N5362 V6992 MN47193 MP12.0863 P1-10-11 I11b10.2 Q1722.7 Yruo4 Wyag ジャク ひわ {siskin} {greenfinch} {light yellow-green} 
+鶺 7335 U9dba B196 S21 N5363 V6993 MN47197 MP12.0864 P1-10-11 I11b10.3 Q1722.7 Yji2 Wjeog セキ {wagtail} 
+鷆 7336 U9dc6 B196 S21 XJ07337 V6990 MN47213 MP12.0866 P1-10-11 I11b10.6 Q2782.7 Ytian2 Wjeon テン シン かすい {yellow-white mottled songbird} 
+鷏 7337 U9dcf B196 S21 XJ07336 V6991 P1-10-11 I11b10.6 Q4782.7 Yzhen1 Wjeon テン シン かすい {yellow-white mottled songbird} 
+鷂 7338 U9dc2 B196 S21 V6989 MN47207 MP12.0865 P1-10-11 I11b10.5 Q2772.7 Yyao4 Wyo ヨウ はいたか {sparrow hawk} 
+鹺 6C59 U9e7a B197 S21 MN47563 P1-11-10 Ycuo2 サ シ しお {salty} {salt} 
+鹻 6C5A U9e7b B197 S21 MN47564 P1-11-10 Yjian3 Wgam カン ケン しおけ {impure carbonate of sodium of natron} 
+黬 6C78 U9eec B203 S21 MN48149 P1-12-9 Yan4 カン ケン アン エン くろ.い なべずみ 
+黭 6C79 U9eed B203 S21 XJ16c76 MN48151 P1-12-9 Yyan3 エン アン オン あおぐろい 
+黯 735F U9eef B203 S21 N5411 V7064 MN48159 MP12.1035 P1-12-9 I5b16.1 Q6036.1 Yan4 Wam アン くら.い {black} {dark} 
+鼱 6D36 U9f31 B208 S21 MN48454 P1-13-8 Yjing1 セイ ショウ 
+齨 6D4D U9f68 B211 S21 MN48652 P1-15-6 Yjiu4 キュウ グ うすば 
+齩 6D4E U9f69 B211 S21 XJ0337a XJ1365a MN48653 P1-15-6 Ynie4 Wgyo コウ ゴウ か.む か.じる {to chew} {to bite} 
+齦 7375 U9f66 B211 S21 N5433 V7096 MN48649 MP12.1102 P1-15-6 I2a19.3 Q2773.2 Yyin2 Yken3 Wgan Weun ギン コン はぐき {gums} 
+龡 6D60 U9fa1 B214 S21 MN48884 P1-17-4 Ychui1 Wchwi スイ ふく ふきな.らす {to blow} {exhale} 
+儼 5137 U513c B9 S22 N569 V339 H178 DP204 MN1324 MP1.0968 P1-2-20 I2a20.2 Q2624.8 Yyan3 Weom ゲン いかめ.しい おごそか {serious} {untouched} {solemnly} {majestically} 
+儻 5138 U513b B9 S22 V338 MN1323 MP1.0967 P1-2-20 I2a20.1 Q2923.1 Ytang3 Wdang トウ あるいは すぐ.れる もし {excel} {surpass} {if} {perhaps} 
+囅 366A U56c5 B30 S22 MN4625 P1-12-10 Ychan3 Wcheon Wcheol テン テツ テチ {smile} 
+彲 3D22 U5f72 B59 S22 MN10035 P1-19-3 Ychi1 チ みずち {yellow dragon} 
+懿 5874 U61ff B61 S22 V2015 O2958 MN11501 MP4.1232 P1-12-10 I4k18.2 Q4713.8 Yyi4 Weui イ よい {beautiful} {splendid} 
+氍 4647 U6c0d B82 S22 MN17020 P1-18-4 Yqu2 ク キョ ゴ もうせん {fine woollen cloth} {mat used by the emperor in worshipping god} 
+竸 513F U7af8 B117 S22 XH2101 XN3364 N3365 V4245 DP2369 MN25840 MP8.0730 P1-11-11 I5b15.1 Q0021.6 ZRP2-2-8 Yjing4 Wgyeong キョウ ケイ きそ.う せ.る くら.べる {contest} {race} 
+聽 6665 U807d B128 G10 S22 XJ04430 XN3716 V4744 H1851 DP2328 DL1643 O2956 MN29211 MP9.0234 P1-10-12 I6e11.3 Q1413.1 Yting1 Yting4 Wcheong チョウ き.く ゆる.す {careful enquiry} {headstrong} 
+覿 6B36 U89bf B147 S22 N4299 V5541 MN34984 MP10.0345 P1-15-7 I7b15.3 Q4681.0 Ydi2 Wjeog テキ あ.う {meet} {see} 
+酈 6255 U9148 B163 S22 MN39753 P1-19-3 Yli4 Wryeog リ レキ リャク {place in today's Henan province} 
+酇 6254 U9147 B163 S22 XJ16251 MN39752 P1-19-3 Yzan4 サン サ あつ.まる {collect} {small administration} 
+顪 6838 U986a B181 S22 MN43705 P1-13-9 Yhui1 カイ ケ ほお 
+顫 707C U986b B181 S22 N5143 V6656 MN43706 MP12.0317 P1-13-9 I9a13.1 Q0118.6 Yzhan4 Ychan4 Wjeon セン ふる.える {shudder} 
+驋 694F U9a4b B187 S22 MN44983 P1-10-12 Ybo1 ハツ ハチ はし.る 
+驊 694E U9a4a B187 S22 MN44982 P1-10-12 Yhua2 Whwa カ ゲ あかくりげ {an excellent horse} 
+驎 6951 U9a4e B187 S22 MN44990 P1-10-12 Ylin2 Wrin リン まだらうま 
+驑 6952 U9a51 B187 S22 XJ16933 XJ16946 MN44994 P1-10-12 Yliu2 リュウ ル くりげ 
+驌 6950 U9a4c B187 S22 MN44985 P1-10-12 Ysu4 Wsug シュク スク {name of a famous horse} 
+驔 6953 U9a54 B187 S22 MN45004 P1-10-12 Ytan2 テン タン ドン くろくりげ {black horse} 
+驕 7161 U9a55 B187 S22 N5228 V6773 MN45008 MP12.0553 P1-10-12 I10a12.2 Q7232.7 Yjiao1 Wgyo Whyo キョウ おご.る {pride} {haughtiness} 
+驍 7162 U9a4d B187 G9 S22 N5227 V6772 DP2327 DL1642 O2957 MN44986 MP12.0551 P1-10-12 I10a12.1 Q7431.1 Yxiao1 Whyo ギョウ キョウ たけし つよ.い T1 いさ いさむ すぐる {strong} {good horse} {gallant} {brave} {ferocious} 
+髐 6967 U9ad0 B188 S22 MN45276 P1-10-12 Ynao2 コウ キョウ かぶらや 
+鰶 6B39 U9c36 B195 S22 MN46431 P1-11-11 Yji4 セイ サイ このしろ 
+鰱 6B37 U9c31 B195 S22 MN46415 P1-11-11 Ylian2 Wryeon レン たなご {silver carp} {hypophthalmiathys} 
+鱃 6B3D U9c43 B195 S22 MN46457 P1-11-11 Yqiu1 シュウ シュ どじょう 
+鰽 6B3B U9c3d B195 S22 MN46445 P1-11-11 Yqiu2 シュウ ジュ このしろ {herring} 
+鰷 6B3A U9c37 B195 S22 MN46432 P1-11-11 Ytiao2 Wjo Wso チョウ ジョウ ショウ はや {minnow} 
+鱅 6B3F U9c45 B195 S22 MN46460 P1-11-11 Yyong1 Wyong ショウ ジュ ユ ヨウ このしろ {kind of tench} 
+鱁 6B3C U9c41 B195 S22 MN46454 P1-11-11 Yzhu2 チク ジク さめ 
+鱄 6B3E U9c44 B195 S22 MN46459 P1-11-11 Yzhuan1 セン タン レン {anchovy} 
+鰻 3137 U9c3b B195 S22 N5326 V6914 L2811 DN2826 MN46443 MP12.0767 P1-11-11 I11a11.5 Q2634.7 Yman2 Wman マン バン うなぎ {eel} 
+鱈 432D U9c48 B195 S22 N5328 V6916 L2819 DN2834 MN46470X MP12.0769 P1-11-11 I11a11.1 Q2137.4 Q2137.7 Yxue3 Wseol セツ たら {codfish} {(kokuji)} 
+鰺 724D U9c3a B195 S22 XJ03033 N5324 V6912 O2999 MN46442 MP12.0767 P1-11-11 I11a11.2 Q2332.2 Ysao1 Wso ソウ あじ {horse mackerel} 
+鱇 7261 U9c47 B195 S22 V6910 MN46468 MP12.0769 P1-11-11 I11a11.6 Q2033.2 Ykang1 Wgang コウ {anglerfish} 
+鱆 7263 U9c46 B195 S22 N5325 V6913 MN46464 MP12.0769 P1-11-11 I11a11.4 Q2034.6 Yzhang1 Wjang ショウ たこ {octopus} 
+鰾 7264 U9c3e B195 S22 N5323 V6911 MN46447 MP12.0767 P1-11-11 I11a11.3 Q2139.1 Ybiao4 Wpyo ヒョウ ふえ うきぶくろ {fish bladder} 
+鷚 6C40 U9dda B196 S22 N5366 V6997 MN47278 P1-11-11 I11b11.1 Yliao2 Yliu4 リュウ ル ボウ ム ひばり {anthus} {skylark} 
+鷗 6C3F U9dd7 B196 G9 S22 XJ0322a V6998 DP2370 DL1666 MN47268 P1-11-11 You1 Wgu オウ かもめ {seagull} {tern} 
+鷞 6C41 U9dde B196 S22 MN47288 P1-11-11 Yshuang1 ソウ ショウ たか {the turquoise kingfisher} 
+鷠 6C43 U9de0 B196 S22 MN47290 P1-11-11 Yyu2 ギョ ゴ 
+鷓 733A U9dd3 B196 S22 V6999 MN47251 MP12.0853 P1-11-11 I11b11.2 Q0722.7 Yzhe4 Wja シャ {partridge} 
+黮 6C7A U9eee B203 S22 MN48156 P1-12-10 Ytan2 Wdam タン ドン チン ジン くろ.い {black} {dark} {unclear} {private} 
+黰 6C7B U9ef0 B203 S22 MN48178 P1-12-10 Yzhen3 シン アン エン くろかみ {young girl's hair style} 
+鼲 6D37 U9f32 B208 S22 MN48458 P1-13-9 Yhun2 コン 
+鼴 6D38 U9f34 B208 S22 XJ16d3a V7080 MN48464 P1-13-9 Yyan3 Weon エン オン もぐら {kind of insectivorous rodent} 
+齬 7377 U9f6c B211 S22 N5435 V7098 DN2888 MN48680 MP12.1105 P1-15-7 I3d19.4 Q2176.1 Yyu3 Weo ゴ {irregular teeth} 
+齪 7378 U9f6a B211 S22 XJ16D53 N5436 V7099 MN48669 MP12.1104 P1-15-7 I7d15.3 Q2678.1 Ychuo4 Wchag サク ソク セク シュク シュウ せま.る {grating the teeth} 
+龢 6D61 U9fa2 B214 S22 XJ04f42 DP2415 MN48886 P1-17-5 Yhe2 Whwa ワ オ カ やわ.らぐ やわ.らげる なご.む なご.やか {in harmony} {calm} {peaceful} 
+囏 366E U56cf B30 S23 XJ06765 MN4643 P1-11-12 Yjian1 Wgan カン ケン なや.む かた.い なや.み も {difficult} {trying} {be distressed} {parent's funeral ceremony} {mourning} {perilous} 
+瓤 4C74 U74e4 B97 S23 MN21429 P1-17-6 Yrang2 ショウ ニョウ ドウ ノウ うりわた {flesh} {core} {pulp} {pith} 
+蠲 5B7D U8832 B142 S23 MN33873 P1-10-13 Yjuan1 Wgyeon ケン ケイ ケ やすで {the millipede sometimes confounded with the grow-worm} {bright} {clear} 
+顬 6839 U986c B181 S23 N5145 V6658 MN43716 P1-14-9 I9a14.1 Yru2 ジュ ニュ こめかみ {the temporal bone} {temple (of the head)} 
+顯 707D U986f B181 G10 S23 XJ03832 XN5137 N5144 V6657 H1913 DP2409 DL1686 O3002 MN43726 MP12.0318 P1-14-9 I9a9.5 Q6138.6 Yxian3 Whyeon ケン あきらか あらわ.れる {manifest} {display} {evident} {clear} 
+驖 6954 U9a56 B187 S23 MN45022 P1-10-13 Ytie3 テツ デチ くろくりげ {black (horse)} 
+驛 7163 U9a5b B187 S23 XJ03158 XN5199 N5230 V6775 H1852 DP2329 O2971 MN45030 MP12.0561 P1-10-13 I10a4.4 Q7634.1 Yyi4 Wyeog エキ {station} 
+驗 7164 U9a57 B187 G10 S23 XJ03833 XJ1693C XN5220 N5231 V6776 H1853 DP2330 DL1644 MN45024 MP12.0556 P1-10-13 I10a8.4 Q7838.6 Yyan4 Wheom ケン ゲン あかし しるし ため.す ためし {verification} {effect} {testing} 
+髒 6968 U9ad2 B188 S23 MN45284 P1-10-13 Yzang1 Wjang ソウ きたない {dirty} {firm} {fat} 
+髑 7171 U9ad1 B188 S23 N5246 V6795 MN45281 MP12.0583 P1-10-13 I6d17.2 Q7622.7 Ydu2 Wchog ドク トク {skull} 
+髓 7172 U9ad3 B188 S23 XJ03F71 XJ0673B XN5242 N5244 V6793 H1855 DP2332 O2970 MN45289 MP9.0371 P1-10-13 I4b14.3 Q7423.2 Ysui3 Wsu ズイ {marrow} {pith} 
+體 7173 U9ad4 B188 S23 XJ0424E XJ06D3C XJ06D3D XJ1695C XN405 N5245 V6794 H1854 DP2331 O2969 MN45291 MP12.0584 P1-10-13 I2a5.6 Q7521.8 Yti3 Wche タイ テイ からだ かたち {the body} {substance} {object} {reality} 
+髞 7174 U9ade B189 S23 V6798 O2972 MN45344 MP12.0635 P1-10-13 I4a19.2 Q0629.4 Yzao4 Wjo ソウ T1 たかし {hurry} {high} 
+鱏 6B43 U9c4f B195 S23 N5330 V6919 MN46488 P1-11-12 I11a12.2 Yxun2 Wsim シン イン かじき えい {ray} {skate} 
+鱓 6B45 U9c53 B195 S23 N5331 V6920 MN46496 P1-11-12 I11a12.3 Yshan4 Wseon セン タ うつぼ うみへび ごまめ {Moray eel} 
+鱘 6B48 U9c58 B195 S23 N5333 V6922 MN46504 P1-11-12 I11a12.5 Yxun2 Wsim シン ちょうざめ かじき {sturgeon} 
+鱛 6B49 U9c5b B195 S23 MN46518 P1-11-12 I11a12.7 えそ {fish name} 
+鱖 6B47 U9c56 B195 S23 MN46501 P1-11-12 Ygui4 Wgweol Wgwe ケイ ケ ケツ カチ さけ {mandarin fish} 
+鱎 6B42 U9c4e B195 S23 MN46487 P1-11-12 Yjiao1 キョウ みごい 
+鱊 6B41 U9c4a B195 S23 MN46473 P1-11-12 Yjue2 イツ イチ シュツ ジュチ 
+鱔 6B46 U9c54 B195 S23 MN46499 P1-11-12 Yshan4 Wseon セン うみへび ごまめ {eel} 
+鱐 6B44 U9c50 B195 S23 MN46489 P1-11-12 Ysu4 シュク スク シュウ シュ ほしうお {dried fish} 
+鰹 336F U9c39 B195 S23 S22 N5327 V6915 L2822 DN2837 MN46437 MP12.0766 P1-11-12 I11a12.1 Q2731.4 Yjian1 Wgyeon ケン かつお {bonito} 
+鱒 4B70 U9c52 B195 G9 S23 F2482 N5332 V6921 DP2371 DL1667 L2814 DN2829 MN46492X MP12.0770 P1-11-12 I11a12.6 Q2834.6 Yzun1 Yzun4 Wjun ソン セン ザン ます {salmon trout} 
+鱚 7265 U9c5a B195 S23 V6918 MN46516 MP12.0773 P1-11-12 I11a12.4 Q2436.1 Yxi3 Wheui きす {sillaginoid} {(kokuji)} 
+鷮 6C48 U9dee B196 S23 MN47341 P1-12-11 Yjiao1 キョウ おおやまどり 
+鷫 6C47 U9deb B196 S23 MN47331 P1-12-11 Ysu4 Wsug シュク スク {turquoise kingfisher} 
+鷳 6C4A U9df3 B196 S23 XJ16c4b MN47347 P1-12-11 Yxian2 Whan カン ケン とび しらきじ {silver pheasant} {phasianus nycth} 
+鷴 6C4B U9df4 B196 S23 XJ16c4a MN47348 P1-12-11 Yxian2 カン ゲン とび しらきじ {silver pheasant badge worn by civil officials of the 5th grade} 
+鷧 6C45 U9de7 B196 S23 MN47315 P1-12-11 Yyi4 イ エイ う {cormorant} 
+鷸 733B U9df8 B196 S23 V7003 MN47359 MP12.0877 P1-12-11 I11b12.4 Q1722.7 Yyu4 Whyul イツ しぎ {kingfisher} {snipe} 
+鷦 733C U9de6 B196 S23 V7000 O2976 MN47312 MP12.0873 P1-12-11 I11b12.1 Q2732.7 Yjiao1 Wcho ショウ T1 さ {wren} 
+鷭 733D U9ded B196 S23 V7001 MN47335 MP12.0875 P1-12-11 I11b12.2 Q2762.7 Yfan2 Wbeon ハン バ ばん {water hen} {gallinulle} 
+鷯 733E U9def B196 S23 V7002 O2974 MN47342 MP12.0876 P1-12-11 I11b12.3 Q4792.7 Yliao2 Wryo リョウ {wren} 
+黐 7357 U9ed0 B202 S23 N5402 V7051 MN48027X MP12.1006 P1-12-11 I5d17.1 Q2012.7 Ychi1 Yli2 Wri チ リ もち {bird-lime} 
+黲 6C7D U9ef2 B203 S23 MN48189 P1-12-11 Ycan3 Wcham サン うすあおぐろい {grey black} 
+鼷 6D39 U9f37 B208 S23 MN48477 P1-13-10 Yxi1 Whye ケイ はつかねずみ {mouse} 
+鼹 6D3A U9f39 B208 S23 XJ16d38 N5420 V7081 MN48480 P1-13-10 Yyan3 Weon エン オン もぐら {kind of insectivorous rodent} {mole} 
+齃 6D40 U9f43 B209 S23 MN48539 P1-14-9 Yge2 カツ カチ アツ アチ ねいき 
+齄 6D41 U9f44 B209 S23 MN48541 P1-14-9 Yzha1 Wcha シャ サ はなのわき {red sores on nose} 
+齭 6D4F U9f6d B211 S23 MN48692 P1-15-8 Ychu3 ショ ソ いた.む {tooth-ache} 
+齱 6D53 U9f71 B211 S23 XJ07378 MN48706 P1-15-8 Ychuo4 サク ソク セク シュク シュウ せま.る 
+齰 6D52 U9f70 B211 S23 XJ16d4a MN48705 P1-15-8 Ycuo4 サク ジャク サ ジャ か.む {to bite} 
+齯 6D51 U9f6f B211 S23 MN48702 P1-15-8 Yni2 ゲイ ジ ニ {teeth grown in old age} 
+齮 6D50 U9f6e B211 S23 MN48698 P1-15-8 Yyi3 キ か.む {bite} 
+囍 3671 U56cd B30 S24 MN0 P1-12-12 Yxi3 Wheui {double happiness} 
+艷 6766 U8277 B139 S24 XJ03170 XJ15E6C XJ15E6D XN3890 N3891 V4958 H1920 DP2419 MN30637 MP9.0515 P1-18-6 I3d16.3 Q2711.7 Yyan4 Wyeom エン つや なま.めかしい あで.やか つや.めく なま.めく T1 よし {luster} {glaze} {polish} {charm} {colorful} {captivating} 
+觀 6B37 U89c0 B147 S24 XJ03451 XN4296 N4300 V5542 H1921 DP2416 O2989 MN34993 MP10.0346 P1-17-7 I5c13.7 Q4621.0 Yguan1 Yguan4 Wgwan カン み.る しめ.す {outlook} {look} {appearance} {condition} {view} 
+贛 5F45 U8d1b B154 S24 MN36984 P1-11-13 Ygan4 Wgong コウ ク カン コン たま.う {Jiangxi province} {places therein} 
+靆 704C U9746 B173 S24 N5071 V6552 MN42530 MP12.0085 P1-12-12 I8d15.1 Q1573.3 Ydai4 Wche タイ {cloud cover} 
+驝 6955 U9a5d B187 S24 XJ1687d MN45039 P1-10-14 Ytuo4 タク チャク ラク ワク らば 
+驟 7165 U9a5f B187 S24 N5232 V6777 MN45048 MP12.0563 P1-10-14 I10a14.1 Q7733.2 Yzou4 Yzhou4 Wchwi シュウ にわか はせ.る {run} {suddenly} 
+髕 6969 U9ad5 B188 S24 XJ1565a MN45298 P1-10-14 Ybin4 Wbin ヒン {kneecap} 
+魗 6A3F U9b57 B194 S24 MN45937 P1-14-10 Ychou3 シュウ みにく.い しこ 
+鱫 6B51 U9c6b B195 S24 MN46562 P1-11-13 Yai4 アイ むつ 
+鱝 6B4A U9c5d B195 S24 MN46519 P1-11-13 Yfen4 Wbun フン えい 
+鱞 6B4B U9c5e B195 S24 XJ0725d V6924 MN46520 P1-11-13 Yguan1 カン コン やもめ や.む やもお 
+鱜 6B50 U9c5c B195 S24 MN46561 P1-11-13 Yxiang1 キョウ 
+鱣 6B4D U9c63 B195 S24 MN46533 P1-11-13 Yzhan1 Wjeon タン セン テン こい {sturgeon} 
+鱪 6B4F U9c6a B195 S24 MN46560 P1-11-13 しいら 
+鱩 6B4E U9c69 B195 S24 MN46559 P1-11-13 はたはた 
+鱗 4E5A U9c57 B195 G9 S24 S23 F2494 N5334 V6923 DP2375 DL1668 L2054 DN2211 MN46502 MP12.0771 P1-11-13 I11a13.2 Q2935.9 ZRP1-11-12 Ylin2 Wrin リン うろこ こけ こけら {scales (fish)} 
+鱠 7266 U9c60 B195 S24 V6927 MN46530 MP12.0774 P1-11-13 I11a13.4 Q2836.6 Ykuai4 Whoe カイ ケ えそ なます {lizard fish} 
+鱧 7267 U9c67 B195 S24 N5336 V6926 MN46542 MP12.0775 P1-11-13 I11a13.3 Q2531.8 Yli3 Wrye レイ はも {conger} {sea eel} 
+鸊 6C4D U9e0a B196 S24 MN47388 P1-13-11 Ypi4 ヘキ ヒャク ハク ヒ こばと 
+鷾 6C4C U9dfe B196 S24 MN47384 P1-13-11 Yyi4 イ {swallow} 
+鸇 6C4F U9e07 B196 S24 MN47411 P1-13-11 Yzhan1 Wjeon セン ケン はやぶさ {kind of bird of prey} {hawk} 
+鹼 6C5B U9e7c B197 S24 XJ03834 XJ14f7c V7016 MN47576 P1-11-13 Yjian3 ケン カン セン あ.く {alkaline} {alkali} {lye} {salt} 
+麟 4E5B U9e9f B198 G9 S24 S23 J1 N5383 V7028 DP2376 DK1215 DL1669 L2053 DN2210 O3000 MN47690 MP12.0922 IN2280 P1-11-13 I6b18.1 Q0925.9 Ylin2 Wrin リン {Chinese unicorn} {genius} {giraffe} {bright} {shining} 
+齆 6D43 U9f46 B209 S24 MN48545 P1-14-10 Yweng4 オウ オ ヨウ はなづまり {stuffed nose} 
+齅 6D42 U9f45 B209 S24 XJ0534c MN48543 P1-14-10 Yxiu4 キュウ か.ぐ {smell} {to smell} 
+齇 6D44 U9f47 B209 S24 MN48547 P1-14-10 Yzha1 サ シャ あかばな 
+齳 6D54 U9f73 B211 S24 MN48720 P1-15-9 Ynian3 グン {toothless} 
+齵 6D55 U9f75 B211 S24 MN48723 P1-15-9 Yyu2 ゴウ グ {uneven (teeth)} 
+齷 7379 U9f77 B211 S24 N5438 V7101 MN48727 MP12.1108 P1-15-9 I3r21.1 Q2771.4 Ywo4 Wag アク {grating the teeth} {fretful} 
+齲 737A U9f72 B211 S24 N5439 V7102 MN48716X MP12.1107 P1-15-9 I2a22.1 Q2272.7 Yqu3 Wu ク ウ むしば {decayed tooth} {cavity} 
+齶 737B U9f76 B211 S24 XJ15642 N5437 V7100 MN48725 MP12.1108 P1-15-9 I3d21.1 Q2672.7 Ye4 Wag ガク あご はぐき {jaw} 
+顱 7121 U9871 B4 C181 S25 XJ1696B XJ16C54 N259 V6660 O3001 MN43742 MP12.0323 P1-16-9 I9a16.1 Q2128.6 Ylu2 Wro ロ かしら あたま {head} {skull} 
+糶 647C U7cf6 B124 C119 S25 N3682 V4430 MN27207 MP8.0931 P1-11-14 I8c17.1 Q2791.4 Ytiao4 Wjo チョウ せり うりよね {auction} 
+髖 696A U9ad6 B188 S25 MN45300 P1-10-15 Ykuan1 Wgwan カン コン こしぼね {hipbone} {hip} 
+鱮 6B53 U9c6e B195 S25 XJ16a43 N5335 V6925 MN46571 P1-11-14 I11a13.1 Yxu4 ショ ヨ たなご {bream} {minnow} 
+鱨 6B52 U9c68 B195 S25 MN46563 P1-11-14 Ychang2 ショウ ぎぎ {codfish} 
+鱰 6B54 U9c70 B195 S25 MN46582 P1-11-14 しいら 
+鸐 6C51 U9e10 B196 S25 MN47438 P1-14-11 Ydi2 テキ ジャク タク やまどり 
+黵 6C7E U9ef5 B203 S25 MN48215 P1-12-13 Ydan3 Wdam タン セン は.がれる 
+齺 6D56 U9f7a B211 S25 MN48746 P1-15-10 Yzou1 シュウ シュ サク ザク 
+龣 6D62 U9fa3 B214 S25 MN48887 P1-17-8 Yjue2 カク ロク 
+彠 3C7B U5f60 B58 S26 XJ1586e MN9960 P1-14-12 Yhuo4 ワク カク キャク ヤク はか.る ものさし のり 
+顴 7122 U9874 B181 S26 N5146 V6661 MN43751X MP12.0324 P1-17-9 I9a17.1 Q4128.6 Yquan2 Wgwan ケン カン {cheekbone} 
+驢 7166 U9a62 B187 S26 XJ16924 N5233 V6778 L2810 DN2825 O3007 MN45069 MP12.0565 P1-10-16 I10a16.2 Q7131.7 Ylu:2 Wryeo ロ リョ うさぎうま {donkey} 
+驥 7167 U9a65 B187 S26 XJ15A26 N5234 V6779 O3008 MN45076X MP12.0566 P1-10-16 I10a16.1 Q7138.1 Yji4 Wgi キ {fast horse} {talent} 
+髗 696B U9ad7 B188 S26 XJ07121 XJ16c54 MN45305 P1-10-16 Ylu2 Wro ロ かしら あたま {the skull} {the forehead} 
+鱲 6B55 U9c72 B195 S26 MN46588 P1-11-15 Ylie4 リョウ からすみ 
+鱵 6B56 U9c75 B195 S26 MN46591 P1-11-15 Yzhen1 シン さより 
+鱶 7268 U9c76 B195 S26 XJ16A5F XJ16A73 N5337 V6928 MN46592 MP12.0777 P1-11-15 I11a15.1 Q2833.2 Yxiang3 Wsang ショウ ヨウ ふか ひもの {shark} 
+龥 6D63 U9fa5 B214 S26 MN48894 P1-17-9 Yyue4 Wyu ヤク ユ よ.ぶ {beg} {appeal for help} 
+顳 7123 U9873 B181 S27 N5147 V6662 MN43750 MP12.0324 P1-18-9 I9a18.1 Q1118.6 Q1148.6 Ynie4 Wseob ショウ {temple (of head)} 
+飌 6847 U98cc B182 S27 XJ04977 XJ1332b MN43991 P1-18-9 Yfeng1 フウ フ かぜ かざ- {wind} 
+驤 7168 U9a64 B187 S27 V6780 MN45075 MP12.0566 P1-10-17 I10a17.2 Q7033.2 Yxiang1 Wyang ジョウ ショウ あ.がる {lift one's head} 
+驩 7169 U9a69 B187 S27 N5235 V6781 H1856 DP2333 MN45086X MP12.0567 P1-10-17 I10a17.1 Q7431.4 Yhuan1 Whwan カン よろこ.ぶ {greetings} {be happy} {celebrate} 
+鱷 6B57 U9c77 B195 S27 XN5317 N5338 V6929 MN46597 P1-11-16 Ye4 ガク わに {crocodile} {alligator} 
+鱸 7269 U9c78 B195 S27 N5339 V6930 O3014 MN46600 MP12.0887 P1-11-16 I11a16.1 Q2131.7 Ylu2 Wro ロ すずき {sea bass} 
+鸖 6C55 U9e16 B196 S27 XJ04461 XJ16730 XJ16731 MN47470 P1-16-11 Yhe4 カク つる 
+鸕 6C54 U9e15 B196 S27 XJ07121 XJ1696b MN47467 P1-16-11 Ylu2 Wro ロ かしら あたま {cormorant} 
+黷 7362 U9ef7 B203 S27 V7067 MN48234 MP12.1039 P1-12-15 I7b20.1 Q6438.6 Ydu2 Wdog トク けが.す けが.れる {make dirty} {become dirty} 
+豔 5E6D U8c54 B151 S28 XJ03170 XJ06766 XJ15e6c V5741 MN36332 P1-18-10 Yyan4 エン つや なま.めかしい あで.やか つや.めく なま.めく T1 よし {plump} {voluptuous} {beautiful} 
+鸙 6C56 U9e19 B196 S28 MN47488 P1-17-11 Yyue4 ヤク ひばり 
+鸚 7340 U9e1a B196 S28 N5371 V7009 L2830 DN2845 O3021 MN47489 MP12.0887 P1-17-11 I11b17.1 Q6742.7 Yying1 Waeng イン オウ ヨウ {parrot} {parakeet} 
+鸛 7341 U9e1b B196 S28 XJ16676 N5370 V7008 MN47500X MP12.0889 P1-17-11 I11b17.2 Q4722.7 Yguan4 Wgwan カン こうのとり {Japanese stork} 
+黸 6D21 U9ef8 B203 S28 MN48240 P1-12-16 Ylu2 ロ ル くろ.い 
+鼺 6D3B U9f3a B208 S28 MN48493 P1-13-15 Ylei2 ルイ むささび 
+齽 6D57 U9f7d B211 S28 MN48788 P1-15-13 Yjin4 キン コン まがりば 
+驪 716B U9a6a B187 S29 V6782 MN45090 MP12.0568 P1-10-19 I10a19.1 Q7131.1 Yli2 Wryeo リ レイ {black horse} 
+鸜 6C57 U9e1c B196 S29 XJ16b63 MN47502 P1-18-11 Yqu2 Wgu ク ははつちょう {species of mynah} 
+鸝 6C58 U9e1d B196 S30 MN47507 P1-19-11 Yli2 リ レイ ライ {Chinese oriole} 

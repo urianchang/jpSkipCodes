@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>jQuery Test</title>
+        <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+        <script>
+            $(document).ready(function(){
+                // $.ajax({
+                //     url: "http://nihongo.monash.edu/cgi-bin/wwwjdic?1ZMPP1-2-3",
+                //     type: 'GET',
+                //     crossDomain: true,
+                //     dataType: 'jsonp',
+                //     success: function() { alert("Success"); },
+                //     error: function() { alert('Failed!'); },
+                // });
+                $.get("http://nihongo.monash.edu/cgi-bin/wwwjdic?1ZMPP1-2-3", function(res) {
+                    console.log(res);
+                }, "json");
+                // $.ajax({
+                //     url: 'http://nihongo.monash.edu/cgi-bin/wwwjdic?1ZMPP1-2-3',
+                //     dataType: 'JSONP',
+                //     jsonpCallback: 'callback',
+                //     type: 'GET',
+                //     success: function (data) {
+                //         console.log(data);
+                //     }
+                // });
+            })
+        </script>
+    </head>
+    <body>
+        <div id="bulbasaur">
+        </div>
+    </body>
+</html>

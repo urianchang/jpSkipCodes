@@ -1,0 +1,45 @@
+http://nihongo.monash.edu/cgi-bin/wwwjdic?nMtkxxxxxx
+
+or nZtkxxxxxx for raw output
+
+1MMJ%E4%BB%98 - look up the kanji with the UTF8 code of "E4BB98".
+
+http://nihongo.monash.edu/cgi-bin/wwwjdic?
+
+1MMJ
+
+1MSJ%90%E6%90%B6
+
+n = dictionary to use (1 = EDICT, 3 = ENAMDICT, etc. Examine the source of one of the pages to get the full list of codes.)
+M = backdoor entry (regular display) or Z = backdoor entry (raw dictionary display)
+t is the search type:
+for dictionary lookups use:
+D where the lookup text is in ASCII, EUC, ISO-2022-JP or UCS (the old uxxxx format);
+S where the lookup text is in Shift-JIS;
+U where the lookup text is in UTF-8.
+for kanji lookups use:
+K for all lookups via codes, codepoints, etc. or where the text string (e.g. kanji or reading) is in EUC;
+M for all lookups using a text string in UTF8;
+N for all lookups using a text string in Shift_JIS;
+for text glossing/translate words in text use:
+G where the text is in EUC, ISO-2022-JP or UCS;
+H where the text is in Shift-JIS;
+I where the text is in UTF-8.
+for multi-radical kanji lookups use:
+B where the text is in EUC, ISO-2022-JP or UCS;
+C where the text is in Shift-JIS;
+F where the text is in UTF-8.
+for example sentence lookups via indexed Japanese words, use E.
+for example sentence lookups using a regular expression, use T.
+for seeing the radicals used to index a kanji, use R.
+k is the key type:
+for dictionary lookups
+for English keys use E, or P to get just "common words", Q to get an "exact match" and R to get both;
+for Japanese keys use J (this is mandatory for romaji keys), P to get just "common words" (doesn't work with romaji), K for keys starting with kanji (first position), and L for kanji keys in any position.
+for kanji lookups, use M followed by the KANJIDIC letter codes (B, U, V, N, etc.) or J if a reading or kanji is being provided. An optional stroke-count or stroke-count range can be included by placing it between "=" characters;
+for text glossing use G, or H to turn on the "no repeated translations" option.
+for multi-radical kanji lookups use J for jouyou kanji-only, H to include JIS X 0212 kanji, and X for anything else. An optional stroke-count or stroke-count range can be included by placing it between "=" characters.
+for example sentence lookups with indexed words use E for EUC, ISO-2022-JP or UCS, S for Shift_JIS and U for UTF-8, followed by "lookupword=n=kana=". The kana is optional and is there to disambiguate between different headwords. For "n", 1 => random selection of 10, anything else => display up to 100 sentences starting at n.
+for example sentence lookups using a regular expression, use E for EUC, ISO-2022-JP or UCS, S for Shift_JIS and U for UTF-8, followed by the search string. Up to 99 example sentences may be displayed.
+for displaying the radical elements of a kanji, use E for EUC, ISO-2022-JP or UCS, S for Shift_JIS and U for UTF-8, followed by the kanji itself.
+xxxxxx is the search key or text itself.
